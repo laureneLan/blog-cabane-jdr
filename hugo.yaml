@@ -1,6 +1,6 @@
 baseURL: https://localhost:1313/
 languageCode: fr-fr
-theme: 'stack'
+theme: 'archie'
 title: Cabane JDR
 params:
   mainSections : ["articles"]
