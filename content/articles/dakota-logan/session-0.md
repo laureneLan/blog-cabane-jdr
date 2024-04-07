@@ -1,7 +1,7 @@
 +++
 title = 'Dakota Logan - Session 0'
 date = 2024-03-17
-draft = true
+draft = false
 +++
 
 **Univers :** Western réaliste
