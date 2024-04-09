@@ -9,7 +9,7 @@ paginate: 10
 
 params:
   author: Lan
-  bio: Les comptes rendus de mes parties de jeux de rôles. # sous-titre du blog
+  #bio: Les comptes rendus de mes parties de jeux de rôles. # sous-titre du blog
   mainSections : ["articles"]
   hiddenPostSummaryInHomePage: true
   showToc: false #table des matière (dans tous les articles)
