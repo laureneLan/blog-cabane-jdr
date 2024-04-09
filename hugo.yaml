@@ -7,6 +7,9 @@ defaultContentLanguage: en
 
 paginate: 10
 
+taxonomies:
+  tags: tags
+
 params:
   author: Lan
   #bio: Les comptes rendus de mes parties de jeux de rôles. # sous-titre du blog

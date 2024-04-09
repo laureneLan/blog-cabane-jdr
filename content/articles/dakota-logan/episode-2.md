@@ -1,6 +1,7 @@
 +++
 title = 'Dakota Logan - Episode 2'
 date = 2024-04-07
+tags = ['Hitos', 'Western', 'Dakota Logan']
 draft = true
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = 'Dakota Logan - Session 0'
 date = 2024-03-17
+tags = ['Hitos', 'Western', 'Dakota Logan']
 draft = false
 +++
 
