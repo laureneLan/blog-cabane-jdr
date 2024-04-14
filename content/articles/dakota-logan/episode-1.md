@@ -2,14 +2,13 @@
 title = 'Dakota Logan - Episode 1'
 date = 2024-03-24
 tags = ['Hitos', 'Western', 'Dakota Logan']
-draft = true
+draft = false
 +++
 
 Le shérif (Michael Davidson) me demande de retrouver un fugitif du pénitencier voisin.
 
 L'homme se nomme Earnest Bowen, il est corpulent d'après le shérif.
-
-Son crime : avoir fait exploser un pont tout juste construit, alors que le maître d'œuvre voulait te montrer à un sénateur dans le but d'avoir un plus gros contrat.
+Son crime : avoir fait exploser un pont tout juste construit, alors que le maître d'œuvre voulait le montrer à un sénateur dans le but d'avoir un plus gros contrat.
 
 J'achète quelques vivres pour le voyage et fait vérifier les fers de mon cheval (Rocket).
 
@@ -24,4 +23,4 @@ Je fouille sa cellule à la recherche d'un indice.
 
 Je trouve une lettre de sa sœur (Célia) qui lui exprime son ressentiment pour sa conduite.
 
-=> J'irai voir sa sœur à Limbo Ridge, elle sait peut être où il est allé.
+=> J'irai voir sa sœur à Limbo Ridge, elle sait peut-être où il est allé.
