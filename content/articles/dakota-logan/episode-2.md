@@ -5,9 +5,9 @@ tags = ['Hitos', 'Western', 'Dakota Logan']
 draft = true
 +++
 
-La ville de Limbo Ridge est à 4 jours du pénitencier au sud. Le prisonnier à 2 jours d'avance sur moi. Mais j'ai assez de vivre pour partir tout de suite, pour ne pas lui laisser trop de temps d'organisation.
+La ville de Limbo Ridge est à 4 jours du pénitencier, au sud. Le prisonnier à 2 jours d'avance sur moi. Mais j'ai assez de vivre pour partir tout de suite, pour ne pas lui laisser trop de temps d'organisation.
 
-Aprés 3 jours, j'arrive dans une petite ville Silvercross. Dans la grande rue, la foule entoure un groupe (deux hommes et deux femmes) qui prend un homme a parti. Je fais presser le pas à Rocket et fend la foule.
+Après 3 jours, j'arrive dans une petite ville, Silvercross. Dans la grande rue, la foule entoure un groupe (deux hommes et deux femmes) qui prend un homme à parti. Je fais presser le pas à Rocket et fend la foule.
 
 Je rentre dans le cercle.
 
@@ -21,8 +21,11 @@ Je m'adresse à lui :
 
 Malgré les coups, il me répond :
 
-- Non seniora. Jamais je n'ai fais une chose pareille.
-Je descend de mon cheval en annoncant à la foule :
+- Non seniora. Jamais je n'ai fait une chose pareille.
 
+Je descend de mon cheval en annonçant à la foule :
 - Je sais comment prouver qui a raison.
+
 J'attrape l'indien pour le mettre debout.
+
+- Hé étrangère, pourquoi tu ne passerais pas ton chemin et nous laisser gérer ça comme ça nous convient ?
