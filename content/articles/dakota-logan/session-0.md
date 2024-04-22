@@ -9,7 +9,7 @@ draft = false
 
 **Système :** [Hitos](https://www.laloutreroliste.com/store/13-hitos) (traduit par la Loutre roliste)
 
-**Personnage :** Dakota *"Sourire"* Logan, une chasseuse de prime, inspirée du personnage de Lucky Luke. 
+**Personnage :** Dakota *"Sourire"* Logan, une chasseuse de prime, inspirée du personnage de Lucky Luke.
 
 ![Dakota Logan](/blog/images/dakota-logan/dakota-logan_1.jpg)
 

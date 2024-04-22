@@ -2,7 +2,7 @@
 title = 'Dakota Logan - Episode 2'
 date = 2024-04-07
 tags = ['Hitos', 'Western', 'Dakota Logan']
-draft = true
+draft = false
 +++
 
 La ville de Limbo Ridge est à 4 jours du pénitencier, au sud. Le prisonnier à 2 jours d'avance sur moi. Mais j'ai assez de vivre pour partir tout de suite, pour ne pas lui laisser trop de temps d'organisation.
@@ -24,6 +24,7 @@ Malgré les coups, il me répond :
 - Non seniora. Jamais je n'ai fait une chose pareille.
 
 Je descend de mon cheval en annonçant à la foule :
+
 - Je sais comment prouver qui a raison.
 
 J'attrape l'indien pour le mettre debout.
