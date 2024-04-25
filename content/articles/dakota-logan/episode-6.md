@@ -1,5 +1,5 @@
 +++
-title = 'Episode 6'
+title = 'Dakota Logan - Episode 6'
 date = 2024-04-25
 tags = ['Hitos', 'Western', 'Dakota Logan']
 draft = true
@@ -19,15 +19,17 @@ Il s'agit de Earnest Bowen. Il n'a pas l'air très en forme. Il s'est armé d'un
 
 Me préparant quand même, à d'autres attaques, je lève les mains dans un geste d'apaisement.
 
-- Bonsoir Earnest, désolé de pas avoir frappé avant d'entrer.
+- Bonsoir Earnest, désolée de pas avoir frappé avant d'entrer.
 
-- Qui es-tu ? Pourquoi tu me connais ? Qu'est - ce que tu viens faire ici ?
+- Qui es-tu ? Pourquoi tu me connais ? Qu'est-ce que tu viens faire ici ?
 
 - Je m'appelle Dakota. Je suis chasseuse de prime. Monsieur White m'a demandé de te ramener au pénitencier.
 
 - Hors de question !
 
-Il s'enfuit, en renversant la table pour me gêner. Ce n'est pas le premier qui essai. Je saute par dessus la table et le rattrape alors qu'il passe par la fenêtre. Je l'immobilise en lui tordant le bras.
+Il s'enfuit, en renversant la table pour me gêner.
+
+Ce n'est pas le premier qui essai. Je saute par dessus la table et le rattrape alors qu'il passe par la fenêtre. Je l'immobilise en lui tordant le bras.
 
 - Tu voulais aller où au juste ?
 
@@ -39,15 +41,13 @@ Sa réponse se perd dans un fracas, au moment où des planches explosent juste a
 
 - Lâche mon frère !
 
-Je regarde rapidement par le trou du mur. Une femme en robe bleue tient un fusil. Célia probablement.
+Je regarde rapidement par le trou du mur. Une femme en robe bleue tient un fusil. Célia probablement. Je nous traîne derrière la table. Ce n'est pas une protection très efficace mais c'est tout ce que j'ai pour le moment.
 
-Je nous traîne derrière la table. Ce n'est pas une protection très efficace mais c'est tout ce que j'ai pour le moment.
-
-- Célia , va t'en ! (Earnest crie)
+- Célia, va t'en ! (Earnest crie)
 
 - Je peux pas faire ça Célia. Je dois le ramener en prison.
 
-Un autre tir nous répond. Elle vise assez haut, elle ne veut pas toucher son frère.J'attache Earnest à la table et lui enfonce un mouchoir dans la bouche. Il se débat pas mal.
+Un autre tir nous répond. Elle vise assez haut, elle ne veut pas toucher son frère. J'attache Earnest à la table et lui enfonce un mouchoir dans la bouche. Il se débat pas mal.
 
 - Ne bouge pas, je vais empêcher ta sœur de faire une bâtisse encore plus grosse.
 
@@ -55,7 +55,7 @@ Je cherche une sortie possible sur les cotés de la maison.
 
 Aucune fenêtre, je ne rabats sur la porte avant, qui heureusement, n'est pas bloquée.
 
-Je fais le tour de la maison rapidement et en silence. Mais au moment où je vais m'élancer vers Célia pour la surprendre. Son frère crie :
+Je fais le tour de la maison rapidement et en silence. Mais au moment où je vais m'élancer vers Célia pour la surprendre, son frère crie :
 
 - Va t'en Célia ! Elle est dehors !
 
@@ -67,13 +67,11 @@ C'est une cible immobile facile à attraper. Je lui arrache la carabine des main
 
 Je distingue un plat de soupe renversé par terre et une domestique au sol. Je rentre dans la maison.
 
-La famille est prostrée contre le mur du fond, le petit gascon pleure. Je montre mes mains pour qu'ils voient que je ne suis pas armé. Je m'approche de la table et la domestique au sol.
+La famille est prostrée contre le mur du fond, le petit gascon pleure. Je montre mes mains pour qu'ils voient que je ne suis pas armée. Je m'approche de la table et la domestique au sol.
 
-Elle a été touchée au bras gauche J'attrape une serviette et lui fait un garrot. Elle est encore consciente, c'est bon signe.
+Elle a été touchée au bras gauche. J'attrape une serviette et lui fait un garrot. Elle est encore consciente, c'est bon signe. Je me tourne vers la famille, je veux les rassurer et leur demander d'aller chercher un médecin.
 
-Je me tourne vers la famille, je veux les rassurer et leur demander d'aller chercher un médecin.
-
-Le père fini par entraîner sa femme et son fils vers l'entrée, ils ne se sont pas approché de nous. Je m'excuse auprès de la domestique Et ressort rapidement pour aller chercher les deux prisonniers. C'est pas le moment qu'ils fassent d'autres conneries.
+Le père fini par entraîner sa femme et son fils vers l'entrée, ils ne se sont pas approché de nous. Je m'excuse auprès de la domestique et ressort rapidement pour aller chercher les deux prisonniers. C'est pas le moment qu'ils fassent d'autres conneries.
 
 ----
 
