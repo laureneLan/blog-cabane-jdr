@@ -1,0 +1,54 @@
++++
+title = 'Dakota Logan - Aides De Jeu'
+date = 2024-04-27T11:00:00+02:00
+tags = ['Hitos', 'Western', 'Dakota Logan']
+draft = true
++++
+
+Leur état à la fin de la partie.
+
+## Fiche de personnage
+
+![Dakota Logan - Fiche de personnage](/blog/images/dakota-logan/fdp.png)
+
+## Carte
+
+![Carte - Dakota Logan](/blog/images/dakota-logan/carte.png)
+
+## Liste d'intrigues
+
+1. [x] Ramener Earnest Bowen au pénitencier.
+2. [ ]
+3. [ ]
+4. [ ]
+5. [ ] Zaccheus Gibson se présente aux élections des sénateur le mois prochain.
+6. [ ]
+7. [ ]
+8. [ ] Bandit recherché : Clifford Summers.
+
+## PNJS
+
+- **Rocket** : cheval.
+- **Clifford Summers** : criminel recherché
+- **Michael Davidson** : shérif de Tombrocks.
+- **Earnest Bowen** : prisonnier en fuite.  
+corpulent, a un accent, boite suite à une bagarre récente, à fait exploser un pont
+- **Silvas White** : directeur du pénitencier de Scarlet Mountain
+- **Célia ?** : sœur de Earnest Bowen.  
+en veut (un peu) à son frère pour avoir fait exploser le pont
+- **Nahiossi** : indien à Silvercross  
+attaché à la terre de ses ancêtres.
+- **Madame Milligen** : croyante (très) pieuse de Silvercross.
+- **Monsieur Fletcher** : fait la loi à Silvercross.  
+à une dent contre Nahiossi
+- **Shérif Whitelock** : shérif de Silvercross.  
+a à cœur de bien faire son travail
+- **Adjoint Lewis Sheppard** : un des adjoint du shérif de Limbo Ridge  
+dégingandé  
+~~doit demandé autour de lui si quelqu'un connait Célia la soeur de Earnest Bowen~~
+- **Modesty Edgar** : la propriétaire du "The Wise Pear", un des 4 magasin d'alimentation de Limbo Ridge, situé au nord-est  
+menue  
+accepte de répondre à quelques questions en échange d'achat dans sa boutique.
+- **Shérif Léonard Horne** : shérif de Limbo Ridge  
+n'aime pas trop les chasseurs de prime car il a dû en traquer un, cannibale de surcroît, dans sa ville.
+- **Zaccheus Gibson** : candidat à l’élection des sénateurs.
