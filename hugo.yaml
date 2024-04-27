@@ -3,9 +3,9 @@ languageCode: fr-fr
 theme: 'mini'
 
 title: Cabane JDR
-defaultContentLanguage: en
+defaultContentLanguage: fr
 
-paginate: 10
+paginate: 15
 
 taxonomies:
   tags: tags
@@ -20,4 +20,4 @@ params:
   enableComments: false
   enableGoogleAnalytics: false
 
-  description: Rôliste solo mimaliste # ?
+  description: Rôliste solo mimaliste # dans la balise meta
