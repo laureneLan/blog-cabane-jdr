@@ -10,15 +10,15 @@ Le shérif (Michael Davidson) me demande de retrouver un fugitif du pénitencier
 L'homme se nomme Earnest Bowen, il est corpulent d'après le shérif.
 Son crime : avoir fait exploser un pont tout juste construit, alors que le maître d'œuvre voulait le montrer à un sénateur dans le but d'avoir un plus gros contrat.
 
-J'achète quelques vivres pour le voyage et fait vérifier les fers de mon cheval (Rocket).
+J'achète quelques vivres pour le voyage et fais vérifier les fers de mon cheval (Rocket).
 
 Après 2 jours de voyage, j'arrive au pénitencier. Et demande à parler au directeur.
 
 Le directeur est ravi d'avoir de l'aide pour récupérer le fugitif. Il n'apprend que Earnest Bowen :
 
-- a un accent,
-- s'est battu il y a quelques jours, il a gagné mais il boitait.
-- qu'il a profité que l'infirmerie soit moins surveillée pour s'enfuir.
+- à un accent
+- s'est battu il y a quelques jours, il a gagné, mais il boitait
+- qu'il a profité du fait que l'infirmerie soit moins surveillée pour s'enfuir
 
 Je fouille sa cellule à la recherche d'un indice.
 

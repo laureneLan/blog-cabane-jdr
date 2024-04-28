@@ -21,4 +21,4 @@ Il n'est plus là. J'en profite pour me laver après ces nombreux jours de voyag
 
 Le shérif débarque avec quelques hommes. Eux aussi cherchent Clifford.
 
-Après des présentations et vérification de mes papiers, je peux finir ma toilette. Le shérif m'attend dehors, il a du boulot pour moi.
+Après des présentations et vérifications de mes papiers, je peux finir ma toilette. Le shérif m'attend dehors, il a du boulot pour moi.

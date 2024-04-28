@@ -21,7 +21,7 @@ Leur état à la fin de la partie.
 2. [ ]
 3. [ ]
 4. [ ]
-5. [ ] Zaccheus Gibson se présente aux élections des sénateur le mois prochain.
+5. [ ] Zaccheus Gibson se présente aux élections des sénateurs le mois prochain.
 6. [ ]
 7. [ ]
 8. [ ] Bandit recherché : Clifford Summers.
@@ -39,16 +39,16 @@ en veut (un peu) à son frère pour avoir fait exploser le pont
 - **Nahiossi** : indien à Silvercross  
 attaché à la terre de ses ancêtres.
 - **Madame Milligen** : croyante (très) pieuse de Silvercross.
-- **Monsieur Fletcher** : fait la loi à Silvercross.  
+- **Monsieur Fletcher** : fais la loi à Silvercross.  
 à une dent contre Nahiossi
 - **Shérif Whitelock** : shérif de Silvercross.  
 a à cœur de bien faire son travail
-- **Adjoint Lewis Sheppard** : un des adjoint du shérif de Limbo Ridge  
+- **Adjoint Lewis Sheppard** : un des adjoints du shérif de Limbo Ridge  
 dégingandé  
-~~doit demandé autour de lui si quelqu'un connait Célia la soeur de Earnest Bowen~~
-- **Modesty Edgar** : la propriétaire du "The Wise Pear", un des 4 magasin d'alimentation de Limbo Ridge, situé au nord-est  
-menue  
+~~doit demander autour de lui si quelqu'un connait Célia la sœur de Earnest Bowen~~
+- **Modesty Edgar** : la propriétaire du "The Wise Pear", un des 4 magasins d'alimentation de Limbo Ridge, située au nord-est  
+menu  
 accepte de répondre à quelques questions en échange d'achat dans sa boutique.
 - **Shérif Léonard Horne** : shérif de Limbo Ridge  
-n'aime pas trop les chasseurs de prime car il a dû en traquer un, cannibale de surcroît, dans sa ville.
+n'aime pas trop les chasseurs de prime, car il a dû en traquer un, cannibale de surcroît, dans sa ville.
 - **Zaccheus Gibson** : candidat à l’élection des sénateurs.
