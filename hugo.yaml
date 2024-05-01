@@ -21,3 +21,6 @@ params:
   enableGoogleAnalytics: false
 
   description: Rôliste solo mimaliste # dans la balise meta
+
+  about: A propos
+  generateurs: Générateurs
