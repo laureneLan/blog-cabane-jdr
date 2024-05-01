@@ -2,7 +2,7 @@
 title = 'Dakota Logan - Episode 6'
 date = 2024-04-25
 tags = ['Hitos', 'Western', 'Dakota Logan']
-draft = true
+draft = false
 +++
 
 Comme le soleil ne va pas tarder à se coucher, je décide de profiter des derniers instants de lumière pour aller voir de plus près.

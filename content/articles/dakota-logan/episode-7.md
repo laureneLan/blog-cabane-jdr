@@ -2,7 +2,7 @@
 title = 'Dakota Logan - Episode 7'
 date = 2024-04-26
 tags = ['Hitos', 'Western', 'Dakota Logan']
-draft = true
+draft = false
 +++
 
 La nuit est tombée. Je me dirige à grands pas vers Célia et la carabine.

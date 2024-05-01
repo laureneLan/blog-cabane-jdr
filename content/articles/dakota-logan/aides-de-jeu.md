@@ -2,7 +2,7 @@
 title = 'Dakota Logan - Aides De Jeu'
 date = 2024-04-27T11:00:00+02:00
 tags = ['Hitos', 'Western', 'Dakota Logan']
-draft = true
+draft = false
 +++
 
 Leur état à la fin de la partie.

@@ -2,7 +2,7 @@
 title = 'Dakota Logan - Episode 5'
 date = 2024-04-22
 tags = ['Hitos', 'Western', 'Dakota Logan']
-draft = true
+draft = false
 +++
 
 J'arrive à Limbo Ridge le lendemain après-midi. Cette ville est bien plus grande que ce à quoi je m'attendais. Comme je me vois mal chercher au hasard si quelqu'un connaît la Célia que je recherche, je vais plutôt aller voir le shérif qui pourra peut-être m'aider.

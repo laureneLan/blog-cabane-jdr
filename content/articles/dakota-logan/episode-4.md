@@ -2,7 +2,7 @@
 title = 'Dakota Logan - Episode 4'
 date = 2024-04-21
 tags = ['Hitos', 'Western', 'Dakota Logan']
-draft = true
+draft = false
 +++
 
 Un autre homme fend la foule. Cette fois il s'agit du shérif. C'est un homme très jeune, à peine plus qu'un gamin. - *[(motivation) Il lui tient à cœur de faire son travail]*
