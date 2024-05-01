@@ -1,4 +1,4 @@
-baseURL: https://localhost:1313/blog
+baseURL: https://localhost:1313/blog-cabane-jdr
 languageCode: fr-fr
 theme: 'mini'
 
