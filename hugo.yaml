@@ -5,10 +5,12 @@ theme: 'mini'
 title: Cabane JDR
 defaultContentLanguage: fr
 
-paginate: 15
+paginate: 10
 
 taxonomies:
   tags: tags
+
+enableEmoji: true
 
 params:
   author: Lan
