@@ -2,7 +2,7 @@
 title = 'A Propos'
 date = 2024-04-09T11:37:17+02:00
 layout = "about"
-aliases = ["a-propos"]
+aliases = ["about"]
 draft = false
 +++
 
