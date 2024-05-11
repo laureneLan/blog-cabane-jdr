@@ -5,11 +5,11 @@ tags = ['Hitos', 'Western', 'Dakota Logan']
 draft = false
 +++
 
-**Univers :** Western réaliste
-
-**Système :** [Hitos](https://www.laloutreroliste.com/store/13-hitos) (traduit par la Loutre roliste)
-
-**Personnage :** Dakota *"Sourire"* Logan, une chasseuse de prime, inspirée du personnage de Lucky Luke.
+> **Univers :** Western réaliste
+>
+> **Système :** [Hitos](https://www.laloutreroliste.com/store/13-hitos) (traduit par la Loutre roliste)
+>
+> **Personnage :** Dakota *"Sourire"* Logan, une chasseuse de prime, inspirée du personnage de Lucky Luke.
 
 ![Dakota Logan](/blog-cabane-jdr/images/dakota-logan/dakota-logan_1.jpg)
 
