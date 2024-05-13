@@ -3,13 +3,12 @@ title = 'Dakota Logan - Episode 8'
 date = 2024-04-27T10:00:00+02:00
 tags = ['Hitos', 'Western', 'Dakota Logan']
 draft = false
-summary = 'Dernier épisode, où le méchant est enfin attrapé'
-tldr = 'toto'
+summary = 'Course-poursuite :horse_racing: et entrainement au lasso :cowboy_hat_face:'
 +++
 
 Earnest me lance la corde.
 
-- Attache-toi, à la balustrade.
+-- Attache-toi, à la balustrade.
 
 Je m’exécute en restant calme. Une fois qu'ils me voient attachée, ils partent en courant en direction de la rue.
 
@@ -30,8 +29,10 @@ Derrière nous, la ville se prépare à accueillir Zaccheus Gibson.
 
 ----
 
-**Note** : le dernier paragraphe est en cinématique (ça reste dans le canon de Lucky Luke, même si c'est un départ au soleil levant ;) ).
+### Notes de fin de partie
 
-**Seconde note** : j'ai perdu du temps de jeu sur les trois dernières séances pour créer les statistiques de PNJ (et je n'ai même pas créé d'aspects pour eux). Il faudrait les faire en amont, mais ce n'est pas très amusant pour moi quand c'est complexe et long. De plus, ça fixerait certaines données que j'aurais peut-être fait évoluer d'ici à ce que je les "affronte", et donc il faudrait recommencer. À réfléchir donc. Je pourrais au moins faire les compagnons (comme Rocket dans cette histoire) en avance. Au risque que ça ne me serve pas ou bien cela va m'encourager à les utiliser, mécaniquement parlant.
+- Le dernier paragraphe est en cinématique. ça reste dans le canon de Lucky Luke, même si c'est un départ au soleil levant :sunrise: 
 
-**Troisième note** : Fin de ma première partie en solo. Je suis fière d'être allée au bout. Les séances n'ont pas toutes été du même niveau, mais j'ai appris à chaque fois et presque à chaque fois je me suis amusée. Je vais donc continuer mes séances. Je vais changer d'univers et de personnage. Cela va me demander quelques temps de préparation, mais c'est aussi ça du jdr :)
+- J'ai perdu du temps de jeu sur les trois dernières séances pour créer les statistiques de PNJ (et je n'ai même pas créé d'aspects pour eux). Il faudrait les faire en amont, mais ce n'est pas très amusant pour moi quand c'est complexe et long. De plus, ça fixerait certaines données que j'aurais peut-être fait évoluer d'ici à ce que je les "affronte", et donc il faudrait recommencer. À réfléchir donc. Je pourrais au moins faire les compagnons (comme Rocket dans cette histoire) en avance. Au risque que ça ne me serve pas ou bien cela va m'encourager à les utiliser, mécaniquement parlant.
+
+- Fin de ma première partie en solo. Je suis fière d'être allée au bout. Les séances n'ont pas toutes été du même niveau, mais j'ai appris à chaque fois et presque à chaque fois je me suis amusée. Je vais donc continuer mes séances. Je vais changer d'univers et de personnage. Cela va me demander quelques temps de préparation, mais c'est aussi ça du jdr :)

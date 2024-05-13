@@ -2,6 +2,7 @@
 title = 'Dakota Logan - Episode 5'
 date = 2024-04-22
 tags = ['Hitos', 'Western', 'Dakota Logan']
+summary = "Enfin arrivée à Limbo Ridge, début des recherches :female_detective:"
 draft = false
 +++
 
@@ -19,4 +20,6 @@ C'est une petite maison. Personne ne semble y habiter pour le moment.
 
 ----
 
-**Notes** : j'ai mis de côté l'oracle OMEN nouvellement choisi, car j'ai eu l'impression qu'il me serait assez compliqué d'avoir des "oui" avec. En y réfléchissant plus tard, je ne pense pas que mon impression soit justifiée. Je lui laisserais sa chance une autre fois. Je suis passé sur un simple tirage des cartes de Muses et Oracle pour avoir des réponses rapides. Ce qui ne m'a pas empêché d'avoir beaucoup de non. Mais j'ai apprécié la rapidité de résultat.
+### Notes de fin de partie
+
+J'ai mis de côté l'oracle OMEN nouvellement choisi, car j'ai eu l'impression qu'il me serait assez compliqué d'avoir des "oui" avec. En y réfléchissant plus tard, je ne pense pas que mon impression soit justifiée. Je lui laisserais sa chance une autre fois. Je suis passé sur un simple tirage des cartes de Muses et Oracle pour avoir des réponses rapides. Ce qui ne m'a pas empêché d'avoir beaucoup de non. Mais j'ai apprécié la rapidité de résultat.

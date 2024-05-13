@@ -2,6 +2,7 @@
 title = 'Sarspira - Episode 4'
 date = 2024-05-10
 tags = ['Dungeon World', 'Sarspira']
+summary = "Je l'ai enfin eu ce nécromant ! mais à quel prix ? :money_with_wings:"
 draft = true
 +++
 
@@ -19,9 +20,9 @@ Je suis trop focalisée pour voir que le zombi la tut alors qu'elle lui ouvre la
 
 J'ai plus de mal à lancer ce sort que d'habitude. Je vise le livre que le sorcier est en train de lire.
 
-Il repousse l'objet aussi loin qu'il peut et se recroqueville en suppliant qu'on le laisse en paix. Les ombres s'agitent et convergent vers moi. Elles n'ont pas l'air d' avoir aimé ce que j'ai fait. J'essaie de me souvenir comment briser le sort sans m'exposer.
+Il repousse l'objet aussi loin qu'il peut et se recroqueville en suppliant qu'on le laisse en paix. Les ombres s'agitent et convergent vers moi. Elles n'ont pas l'air d'avoir aimé ce que j'ai fait. J'essaie de me souvenir comment briser le sort sans m'exposer.
 
-Je récupère le livre et le consulte rapidement. Il est bien question d'une poudre à répandre sur le pentacle d' invocation. Je récupère un sachet de poudre à la ceinture de l'humain terrifié et m'applique à suivant les indications du livre.
+Je récupère le livre et le consulte rapidement. Il est bien question d'une poudre à répandre sur le pentacle d'invocation. Je récupère un sachet de poudre à la ceinture de l'humain terrifié et m'applique à suivant les indications du livre.
 
 Sentant ce que je fais, les ombres se ruent sur moi. Elles me traversent à maintes reprises. Je serre les dents et achève mon ouvrage. J'ai les mains et le corps qui tremble, mais les ombres enfin sont retournées d'où elles venaient.
 

@@ -3,6 +3,7 @@ title = '5 minutes en défunte compagnie'
 date = 2022-01-01
 tags = ['5-minutes']
 draft = false
+summary = "5 minutes de jeu dans la peau d'un médium"
 +++
 
 **JDR : [5 min en défunte compagnie](https://b0ng.itch.io/5-min-en-dfunte-compagnie)**

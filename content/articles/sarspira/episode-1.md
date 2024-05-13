@@ -2,6 +2,7 @@
 title = 'Sarspira - Episode 1'
 date = 2024-05-04
 tags = ['Dungeon World', 'Sarspira']
+summary = "Alors à quoi il ressemble ce nouvel univers ? :mag:"
 draft = true
 +++
 
@@ -54,7 +55,7 @@ Il y a de forte chance que le propriétaire des lieux soit derrière ce sort et 
 
 ----
 
-## Note de fin de partie
+### Note de fin de partie
 
-C'est ce que j'aime dans le JDR solo : j’ai commencé sans idée pour la scène de départ et deux mots ont suffi et m'ont mené sur un chemin que je n'aurais pas pensé sans oracle.
+Ca fait partie de ce que j'aime dans le JDR solo : j’ai commencé sans idée pour la scène de départ et deux mots ont suffi et m'ont mené sur un chemin que je n'aurais pas pensé sans oracle.
 

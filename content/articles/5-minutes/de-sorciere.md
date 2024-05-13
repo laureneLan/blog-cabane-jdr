@@ -3,6 +3,7 @@ title = '5 minutes de sorcière'
 date = 2023-01-01
 tags = ['5-minutes']
 draft = false
+summary = "5 minutes d'écriture sur la journée d'une sorcière"
 +++
 
 **JDR : [5 min Witch](https://enui.itch.io/5-min-witch)**

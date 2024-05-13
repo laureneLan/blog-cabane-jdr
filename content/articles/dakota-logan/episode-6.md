@@ -2,6 +2,7 @@
 title = 'Dakota Logan - Episode 6'
 date = 2024-04-25
 tags = ['Hitos', 'Western', 'Dakota Logan']
+summary = "Visite de la maison de Earnest et rencontre avec Célia"
 draft = false
 +++
 
@@ -19,37 +20,37 @@ Il s'agit de Earnest Bowen. Il n'a pas l'air très en forme. Il s'est armé d'un
 
 Me préparant quand même, à d'autres attaques, je lève les mains dans un geste d'apaisement.
 
-- Bonsoir Earnest, désolée de pas avoir frappé avant d'entrer.
+-- Bonsoir Earnest, désolée de pas avoir frappé avant d'entrer.
 
-- Qui es-tu ? Pourquoi tu me connais ? Qu'est-ce que tu viens faire ici ?
+-- Qui es-tu ? Pourquoi tu me connais ? Qu'est-ce que tu viens faire ici ?
 
-- Je m'appelle Dakota. Je suis chasseuse de prime. Monsieur White m'a demandé de te ramener au pénitencier.
+-- Je m'appelle Dakota. Je suis chasseuse de prime. Monsieur White m'a demandé de te ramener au pénitencier.
 
-- Hors de question !
+-- Hors de question !
 
 Il s'enfuit, en renversant la table pour me gêner.
 
 Ce n'est pas le premier qui essaie. Je saute par-dessus la table et le rattrape alors qu'il passe par la fenêtre. Je l'immobilise en lui tordant le bras.
 
-- Tu voulais aller où au juste ?
+-- Tu voulais aller où au juste ?
 
-- Je n'ai pas l'intention de retourner là-bas.
+-- Je n'ai pas l'intention de retourner là-bas.
 
-- Tu as fait exploser un pont, tu t'attendais à quoi ?
+-- Tu as fait exploser un pont, tu t'attendais à quoi ?
 
 Sa réponse se perd dans un fracas, au moment où des planches explosent juste au-dessus de ma tête.
 
-- Lâche mon frère !
+-- Lâche mon frère !
 
 Je regarde rapidement par le trou du mur. Une femme en robe bleue tient un fusil. Célia probablement. Je nous traîne derrière la table. Ce n'est pas une protection très efficace, mais c'est tout ce que j'ai pour le moment.
 
-- Célia, va-t'en ! (Earnest crie)
+-- Célia, va-t'en ! (Earnest crie)
 
-- Je ne peux pas faire ça Célia. Je dois le ramener en prison.
+-- Je ne peux pas faire ça Célia. Je dois le ramener en prison.
 
 Un autre tir nous répond. Elle vise assez haut, elle ne veut pas toucher son frère. J'attache Earnest à la table et lui enfonce un mouchoir dans la bouche. Il se débat pas mal.
 
-- Ne bouge pas, je vais empêcher ta sœur de faire une bâtisse encore plus grosse.
+-- Ne bouge pas, je vais empêcher ta sœur de faire une bâtisse encore plus grosse.
 
 Je cherche une sortie possible sur les côtés de la maison.
 
@@ -57,7 +58,7 @@ Aucune fenêtre, je me rabats sur la porte avant, qui heureusement, n'est pas bl
 
 Je fais le tour de la maison rapidement et en silence. Mais au moment où je vais m'élancer vers Célia pour la surprendre, son frère crie :
 
-- Va-t'en Célia ! Elle est dehors !
+-- Va-t'en Célia ! Elle est dehors !
 
 Et merde. Tant pis pour l'approche en douceur, je sors mon lasso et cours vers elle.
 
@@ -75,4 +76,6 @@ Le père finit par entraîner sa femme et son fils vers l'entrée, ils ne se son
 
 ----
 
-**Note** : une séance plus longue que les autres, mais très amusante. J'ai utilisé l'oracle OMEN que j'avais laissé de coté au dernier épisode. Pas mal, il ne donne pas toujours des réponses avec ET ou MAIS, cependant l'interprétation du résultat ralenti le jeu. À voir.
+### Notes de fin de partie
+
+Une séance plus longue que les autres, mais très amusante. J'ai utilisé l'oracle OMEN que j'avais laissé de coté au dernier épisode. Pas mal, il ne donne pas toujours des réponses avec ET ou MAIS, cependant l'interprétation du résultat ralenti le jeu. À voir.
