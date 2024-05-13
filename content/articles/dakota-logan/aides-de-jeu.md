@@ -9,11 +9,11 @@ Leur état à la fin de la partie.
 
 ## Fiche de personnage
 
-![Dakota Logan - Fiche de personnage](/blog-cabane-jdr/images/dakota-logan/fdp.png)
+![Dakota Logan - Fiche de personnage](/blog-cabane-jdr/images/dakota-logan/fdp.png#center)
 
 ## Carte
 
-![Carte - Dakota Logan](/blog-cabane-jdr/images/dakota-logan/carte.png)
+![Carte - Dakota Logan](/blog-cabane-jdr/images/dakota-logan/carte.png#center)
 
 ## Liste d'intrigues
 

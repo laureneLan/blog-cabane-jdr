@@ -1,11 +1,11 @@
 +++
 title = 'Générateur de potions*'
-date = 2024-04-30
-layout = "about"
+date = 2023-01-01
+type = 'page'
+layout = 'singlepage'
 draft = false
+ShowBreadCrumbs = true
 +++
-
-## Générateur de Potions*
 
 *bizarres et inatendues  
 *à manipuler avec précautions
@@ -14,8 +14,7 @@ draft = false
 
 <div>
     <button onclick="generatePotion()">Générer une potion</button>
-    <div id='divP'>
-    </div>
+    <div id='divP'></div>
 </div>
 
 <script>
@@ -272,7 +271,7 @@ draft = false
         }
 
         if(document.getElementById('btnReset') === null) {
-            divP.insertAdjacentHTML('afterend', '<button id="btnReset" onclick="resetRes()">Remettre à zero les résultats</button>');
+            divP.insertAdjacentHTML('afterend', '<br/><button id="btnReset" onclick="resetRes()">Remettre à zero les résultats</button>');
         }
     };
 
@@ -293,7 +292,3 @@ draft = false
 </script>
 
 {{< /rawhtml >}}
-
-----
-
-**[Retour à la page des générateurs]({{< ref "/generateurs" >}})**

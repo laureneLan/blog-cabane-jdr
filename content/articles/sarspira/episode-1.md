@@ -9,23 +9,23 @@ Je suis dans la cour d'un bâtiment. J’aperçois des soldats qui fouillent les
 
 En prenant une inspiration, je réalise qu'il y a une odeur de salpêtre dans l'air. Ce n'est pas normal du tout. La première chose qui me vient en tête est "boom". Je connais cette odeur pour avoir eu affaire à des pièges à retardement explosifs pendant ma formation. Je ne sais pas qui est le propriétaire, mais si mon maître et les gardes s'y intéressent, c'est que ça ne doit pas être tout à fait légal. Je m'avance d'un pas rapide vers le garde le plus proche, écartant mes mains pour qu'il ne me prenne pas pour une menace.
 
-- Vous devriez dire à vos collègues de sortir très vite, ça sent le salpêtre à plein nez. Ça va exploser d'une minute à l'autre.
+-- Vous devriez dire à vos collègues de sortir très vite, ça sent le salpêtre à plein nez. Ça va exploser d'une minute à l'autre.
 
 Il renifle d'un air dédaigneux.
 
-- Va-t'en démon ou je me ferais un plaisir de te passer par le fil de l'épée.
+-- Va-t'en démon ou je me ferais un plaisir de te passer par le fil de l'épée.
 
 Je fais une moue désolée en reculant d'un pas. Je suis habituée à ce traitement.
 
 Soudain, un bruit sourd se fait entendre et le sol tremble. Tout le monde vacille et un grade est même projeté au sol. Celui devant moi me regarde, hésitant entre colère et peur.
 
-- Qu'est-ce que tu as fait ?
+-- Qu'est-ce que tu as fait ?
 
-- Faites sortir tout le monde !
+-- Faites sortir tout le monde !
 
 Sous mes pas, le sol s'enfonce. Je me mets à courir pour sortir de la cour en criant :
 
-- Ça s'effondre, fuyez !
+-- Ça s'effondre, fuyez !
 
 Les soldats commencent à courir vers le portail. J'arrive à la double porte, quand l'un d'eux hurle. Il vient de passer à travers le sol, seuls sa tête et un bras dépassent. Jurant, je fais demi-tour pour aller l'aider. J'essaie de marcher autant que possible sur de gros morceaux de terre, loin des failles déjà ouvertes. Arrivé à deux mètres de l'homme, je me rends compte que le terrain autour de lui est complètement disloqué. Je pourrais peut-être le tirer de là, mais pas sans risquer fortement d'y passer.
 

@@ -1,11 +1,12 @@
 +++
 title = 'Dungeon World - De quelle espèce est la personne en face de moi ?'
 date = 2024-04-30
-layout = "about"
+tags = ['Dungeon World']
+type = 'page'
+layout = 'singlepage'
 draft = false
+ShowBreadCrumbs = true
 +++
-
-## Dungeon World - De quelle espèce est la personne en face de moi ?
 
 En fonction du pourcentage de présence de l'espèce (dans mon monde)
 
@@ -13,8 +14,7 @@ En fonction du pourcentage de présence de l'espèce (dans mon monde)
 
 <div>
     <button onclick="generateEspece()">Générer une espèce</button>
-    <div id='divE'>
-    </div>
+    <div id='divE'></div>
 </div>
 
 <script>
@@ -119,7 +119,7 @@ En fonction du pourcentage de présence de l'espèce (dans mon monde)
         }
 
         if(document.getElementById('btnReset') === null) {
-            divE.insertAdjacentHTML('afterend', '<button id="btnReset" onclick="resetRes()">Remettre à zero les résultats</button>');
+            divE.insertAdjacentHTML('afterend', '<br/><button id="btnReset" onclick="resetRes()">Remettre à zero les résultats</button>');
         }
     };
 
@@ -147,7 +147,3 @@ En fonction du pourcentage de présence de l'espèce (dans mon monde)
 </script>
 
 {{< /rawhtml >}}
-
-----
-
-**[Retour à la page des générateurs]({{< ref "/generateurs" >}})**

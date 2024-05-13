@@ -3,6 +3,8 @@ title = 'Dakota Logan - Episode 8'
 date = 2024-04-27T10:00:00+02:00
 tags = ['Hitos', 'Western', 'Dakota Logan']
 draft = false
+summary = 'Dernier épisode, où le méchant est enfin attrapé'
+tldr = 'toto'
 +++
 
 Earnest me lance la corde.

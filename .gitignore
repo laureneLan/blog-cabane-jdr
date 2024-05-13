@@ -1,2 +1,4 @@
 content/**/*.backup
 public/*
+.DS_Store
+resources/_gen/*

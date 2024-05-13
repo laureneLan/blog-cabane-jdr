@@ -1,28 +1,80 @@
 baseURL: https://localhost:1313/blog-cabane-jdr
 languageCode: fr-fr
-theme: 'mini'
 
 title: Cabane JDR
 defaultContentLanguage: fr
 
-paginate: 10
+paginate: 5
 
 taxonomies:
   tags: tags
 
 enableEmoji: true
+enableRobotsTXT: true
+
+buildDrafts: false
+buildExpired: false
+buildFuture: false
+
+menu:
+  main:
+    -
+      name: 'Etiquettes'
+      url: '/tags'
+      weight: 1
+    -
+      name: 'Archives'
+      url: '/archives/'
+      weight: 2
+    -
+      name: 'Générateurs'
+      url: '/generateurs'
+      weight: 3
 
 params:
   author: Lan
+  hideAuthor: true
   #bio: Les comptes rendus de mes parties de jeux de rôles. # sous-titre du blog
+
   mainSections : ["articles"]
-  hiddenPostSummaryInHomePage: true
   showToc: false #table des matière (dans tous les articles)
+
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false # fil d'ariane
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
 
   enableComments: false
   enableGoogleAnalytics: false
 
   description: Rôliste solo mimaliste # dans la balise meta
+  keywords: [jeu de rôle, jeu de rôle solo, jdr, jdr solo, solotaisie]
 
-  about: A propos
-  generateurs: Générateurs
+  profileMode:
+    enable: false
+
+  homeInfoParams:
+    content: 'Je suis une rôliste solo minimaliste. Vous trouverez sur ce site les notes prises pendant mes parties.'
+
+minify:
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: false
+  minifyOutput: true

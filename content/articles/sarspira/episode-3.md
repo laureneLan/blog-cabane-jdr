@@ -39,18 +39,20 @@ Sans attendre, j'ouvre.
 
 L'odeur de pourriture est encore plus forte.
 
-// petite pause pour créer le petit donjon qu'il y a dans le sous-sol[^1]
+----
 
-[^1]:  Sous-sol du nécromant  
+*Petite pause pour créer le donjon qu'il y a dans le sous-sol*[^1]
+
+[^1]:  **Sous-sol du nécromant**  
 **Fondation** : antre de sorcier.  
 **Taille** : petit (2 thèmes + 6 secteurs)  
 **Thèmes** : forces de l'ombre, pourrissement  
-G 1 pièce vide  
-G 2 cellules  
-G 3 stockage  
-U 4  
-U 5 bibliothèque  
-U 6 salle de magie/expérience  
+*G* 1 - pièce vide  
+*G* 2 - cellules  
+*G* 3 - stockage  
+*U* 4 -  
+*U* 5 - bibliothèque  
+*U* 6 - salle de magie/expérience  
 
 ----
 
