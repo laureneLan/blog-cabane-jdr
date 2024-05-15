@@ -62,13 +62,13 @@ params:
   enableGoogleAnalytics: false
 
   description: Rôliste solo mimaliste # dans la balise meta
-  keywords: [jeu de rôle, jeu de rôle solo, jdr, jdr solo, solotaisie]
+  keywords: [jeu de rôle, jeu de rôle solo, jdr, jdr solo, solotaisie, cr, compte rendu de partie]
 
   profileMode:
     enable: false
 
   homeInfoParams:
-    content: 'Je suis une rôliste solo minimaliste. Vous trouverez sur ce site les notes prises pendant mes parties.'
+    content: 'Je suis une rôliste solo minimaliste. Vous trouverez sur ce blog les notes prises pendant mes parties.'
 
 minify:
   disableCSS: false
