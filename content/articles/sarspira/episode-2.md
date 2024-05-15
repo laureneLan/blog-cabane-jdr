@@ -45,7 +45,7 @@ Je crée un feu magique qui enflamme et brûle chaque petit morceau pour en fair
 Je prends une grande inspiration.  
 Maintenant, il est temps d'aller chasser ce nécromant et d'obtenir les informations que mon maître veut.
 
-----
+-----
 
 ## Note de fin de partie
 

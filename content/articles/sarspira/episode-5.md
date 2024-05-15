@@ -49,6 +49,8 @@ J'en profite pour relire mon grimoire. Et manger un morceau en fin de journée. 
 
 Le soleil est sur le point de se coucher quand je percois du mouvement.
 
+-----
+
 ### Notes de fin de partie
 
 à l'origine il y avait une vague suite ici. Mais alors je n'avait aucune envie de lancer les dés, juste de laisser les créatures en paix sans qu'elles ne m'attaquent en retour. J'avais utilisée les tables aléatoires de "En terres sauvages" pour les générer. J'avais surtout utilisée toutes les options, ce qui faisait que j'en savais plus que le personnage et que j'avais du mal à jouer ensuite. Donc j'ai décidé de revenir en arrière d'un paragraphe tout en gardant les résultats des dés (Monter un camp : 6- => Danger ; Rester sur ses gardes : 10+) Et de redéfinir ce qu'il se passerait ensuite la prochaine fois.

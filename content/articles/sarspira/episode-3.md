@@ -121,4 +121,3 @@ La pièce perd soudain plusieurs degrés et Morthra commence à pleurer en recul
 
 Pardonnez-la, messieurs. Elle n'est pas méchante, vous l'avez surprise. Nous allons vous laisser en paix.
 Malgré le froid glacial qui l'entoure et l'étrange sensation que mes bras se décomposent, je fais face aux fantômes. D'un geste, Finéas nous congédie et je m'empresse de sortir de la pièce, Morthra dans les bras.
-

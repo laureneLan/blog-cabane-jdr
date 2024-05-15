@@ -3,7 +3,7 @@ title = 'Sarspira - Session 0'
 date = 2024-05-03
 tags = ['Dungeon World', 'Sarspira']
 summary = "Présentation et introduction à la prochaine partie. On change de décor et de climat :wink: "
-draft = true
+draft = false
 +++
 
 Et voilà une nouvelle partie. Celle-là a pris bien plus de temps à préparer que la précédente. En plus de créer un personnage (que j'ai construit à partir d'une idée, de la compilation des classes de SIVA et du Class Warfare), je me suis créé des aides de jeu contenant toutes les actions des joueurs (livre de base et suppléments) ainsi que celles du MJ. J'en ai profité pour réviser les règles. Et j'ai créé un générateur pour savoir l'espèce de la personne que le personnage va rencontrer[^1]. *Qu'est-ce que l'on ne ferrait pas pour jouer ? :rofl:*
@@ -35,4 +35,3 @@ La Tieffline à la peau rouge cligna des yeux, surprise par le soleil.
 Elle n'avait pas de cheveux, mais deux courtes cornes de mouflon lui ornaient le crâne. Elle portait une armure de cuir usée, mais propre.
 
 Elle avança d'un pas alors que le portail se fermait et regarda autour d'elle.
-

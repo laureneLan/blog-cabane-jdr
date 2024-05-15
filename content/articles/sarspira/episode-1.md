@@ -3,7 +3,7 @@ title = 'Sarspira - Episode 1'
 date = 2024-05-04
 tags = ['Dungeon World', 'Sarspira']
 summary = "Alors à quoi il ressemble ce nouvel univers ? :mag:"
-draft = true
+draft = false
 +++
 
 Je suis dans la cour d'un bâtiment. J’aperçois des soldats qui fouillent les lieux. Ils cherchent quelque chose / quelqu'un. Il m'a envoyé ici pour avoir des renseignements sur les clients d'un tisserand. Je suppose que ce bâtiment lui appartient. Les gardes continuent leur tâche comme si je n'étais pas là, seul celui à l'entrée me regarde fixement. Je ne fais aucun mouvement susceptible de les provoquer et j'observe autour de moi.
@@ -58,4 +58,3 @@ Il y a de forte chance que le propriétaire des lieux soit derrière ce sort et 
 ### Note de fin de partie
 
 Ca fait partie de ce que j'aime dans le JDR solo : j’ai commencé sans idée pour la scène de départ et deux mots ont suffi et m'ont mené sur un chemin que je n'aurais pas pensé sans oracle.
-
