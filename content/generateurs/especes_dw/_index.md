@@ -1,7 +1,6 @@
 +++
 title = 'Dungeon World - De quelle espèce est la personne en face de moi ?'
 date = 2024-04-30
-tags = ['Dungeon World']
 type = 'page'
 layout = 'singlepage'
 draft = false
