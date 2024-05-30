@@ -13,12 +13,14 @@ ShowBreadCrumbs = true
 {{< rawhtml >}}
 
 <div>
-    <button onclick="generatePotion()">Générer une potion</button>
     <div id='divP'></div>
+    <br/>
+    <button onclick="generatePotion()" id="btnGen">Générer une potion</button>
 </div>
 
 <script>
     const divP = document.getElementById('divP');
+    const btnGen = document.getElementById('btnGen');
 
     const formeFlacon = [
         ['d\'amphore', 'de topette', 'de tube', 'de bulbe', 'cubique', 'cônique'],
@@ -271,7 +273,7 @@ ShowBreadCrumbs = true
         }
 
         if(document.getElementById('btnReset') === null) {
-            divP.insertAdjacentHTML('afterend', '<br/><button id="btnReset" onclick="resetRes()">Remettre à zero les résultats</button>');
+            btnGen.insertAdjacentHTML('afterend', '<br/><button id="btnReset" onclick="resetRes()">Remettre à zero les résultats</button>');
         }
     };
 

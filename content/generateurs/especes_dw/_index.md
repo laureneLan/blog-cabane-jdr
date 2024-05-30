@@ -12,12 +12,14 @@ En fonction du pourcentage de présence de l'espèce (dans mon monde)
 {{< rawhtml >}}
 
 <div>
-    <button onclick="generateEspece()">Générer une espèce</button>
     <div id='divE'></div>
+    <br/>
+    <button onclick="generateEspece()" id="btnGen">Générer une espèce</button>
 </div>
 
 <script>
     const divE = document.getElementById('divE');
+    const btnGen = document.getElementById('btnGen');
 
     const configEspeces1 = [
         // 0
@@ -118,7 +120,7 @@ En fonction du pourcentage de présence de l'espèce (dans mon monde)
         }
 
         if(document.getElementById('btnReset') === null) {
-            divE.insertAdjacentHTML('afterend', '<br/><button id="btnReset" onclick="resetRes()">Remettre à zero les résultats</button>');
+            btnGen.insertAdjacentHTML('afterend', '<br/><button id="btnReset" onclick="resetRes()">Remettre à zero les résultats</button>');
         }
     };
 
