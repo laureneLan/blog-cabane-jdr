@@ -3,7 +3,7 @@ title = 'Sarspira - Episode 2'
 date = 2024-05-05
 tags = ['Dungeon World', 'Sarspira']
 summary = "Premier combat :crossed_swords: #aie"
-draft = true
+draft = false
 +++
 
 ## Notes avant de début de la séance
@@ -36,7 +36,7 @@ L'aura magique change de couleur autour de mort-vivant .
 
 Profitant que ce dernier ne bouge presque plus, je récupère mon épée et ... [^1]
 
-[^1]: ... lui tranche la tête (enfin, j'essaie :see_no_evil: (+ 1PX)) 
+[^1]: ... lui tranche la tête (enfin, j'essaie :see_no_evil: (+ 1PX))
 
 Mais il n'y a plus de soldat, juste une tornade de magie qui charrie des centaines de morceaux de son corps. Erk ! Et cette tornade déchiquetante arrive sur moi.
 
@@ -52,4 +52,3 @@ Maintenant, il est temps d'aller chasser ce nécromant et d'obtenir les informat
 La partie a été beaucoup plus laborieuse qu'hier. J'ai joué le même temps (~2h), mais j'ai passé la plupart de ce temps à me demander comment appliquer le résultat des 7-9 et 6- que j'ai obtenu. Ce n'était pas très amusant, surtout sur la fin. Il faut que je réfléchisse à une meilleure façon de procéder.
 
 J'ai aussi essayé de diversifier les actions utilisées autant que possible.
-
