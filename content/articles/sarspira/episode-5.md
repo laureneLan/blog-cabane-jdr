@@ -3,7 +3,7 @@ title = 'Sarspira - Episode 5'
 date = 2024-05-14
 tags = ['Dungeon World', 'Sarspira']
 summary = "Un peu de géogrpahie :compass:"
-draft = true
+draft = false
 +++
 
 Une femme léonin[^1] est assisse près des débris. Elle nous regarde émerger avec un air interrogateur. Son chien est près d'elle et montre les dents.

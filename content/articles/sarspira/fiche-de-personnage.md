@@ -3,7 +3,7 @@ title = 'Sarspira - Fiche de Personnage'
 date = 2024-05-17
 tags = ['Dungeon World', 'Sarspira']
 summary = "La fiche de personnage de Sarspira"
-draft = true
+draft = false
 +++
 
 Voici la fiche du personnage de Sarspira. Pour vous faciliter la lecture, je la note en format texte et non image comme je l'ai fait précédemment. C'est l'état du personnage à la fin de l'épisode 7.

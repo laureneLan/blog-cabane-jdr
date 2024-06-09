@@ -3,7 +3,7 @@ title = 'Sarspira - Episode 6'
 date = 2024-05-15
 tags = ['Dungeon World', 'Sarspira']
 summary = "Il y a des drôles de vivants dans cette région :parrot: :lion:"
-draft = true
+draft = false
 +++
 
 Je vois 5 grosses oies marchant dans la plaine (au sud-ouest). Elles semblent chercher de la nourriture en promenant leurs tête près du sol, sauf une qui regarde autour du groupe. Quelques étincelles violette sortent de leur bec. La vigie du groupe commence à émettre des sons qui ne semblent pas amicaux quand elle me repère.
