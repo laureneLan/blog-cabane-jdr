@@ -1,5 +1,5 @@
 +++
-title = 'Sarspira - Episode 6'
+title = 'Sarspira - Épisode 6'
 date = 2024-05-15
 tags = ['Dungeon World', 'Sarspira']
 summary = "Il y a des drôles de vivants dans cette région :parrot: :lion:"

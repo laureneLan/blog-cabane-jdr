@@ -1,5 +1,5 @@
 +++
-title = 'Sarspira - Episode 4'
+title = 'Sarspira - Épisode 4'
 date = 2024-05-10
 tags = ['Dungeon World', 'Sarspira']
 summary = "Je l'ai enfin eu ce nécromant ! mais à quel prix ? :money_with_wings:"

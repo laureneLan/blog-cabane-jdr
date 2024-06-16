@@ -1,5 +1,5 @@
 +++
-title = 'Dakota Logan - Episode 5'
+title = 'Dakota Logan - Épisode 5'
 date = 2024-04-22
 tags = ['Hitos', 'Western', 'Dakota Logan']
 summary = "Enfin arrivée à Limbo Ridge, début des recherches :female_detective:"

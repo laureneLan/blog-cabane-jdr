@@ -1,5 +1,5 @@
 +++
-title = 'Sarspira - Episode 2'
+title = 'Sarspira - Épisode 2'
 date = 2024-05-05
 tags = ['Dungeon World', 'Sarspira']
 summary = "Premier combat :crossed_swords: #aie"

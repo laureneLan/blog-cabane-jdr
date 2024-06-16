@@ -1,5 +1,5 @@
 +++
-title = 'Dakota Logan - Episode 8'
+title = 'Dakota Logan - Épisode 8'
 date = 2024-04-27T10:00:00+02:00
 tags = ['Hitos', 'Western', 'Dakota Logan']
 draft = false

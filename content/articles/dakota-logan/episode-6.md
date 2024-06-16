@@ -1,5 +1,5 @@
 +++
-title = 'Dakota Logan - Episode 6'
+title = 'Dakota Logan - Épisode 6'
 date = 2024-04-25
 tags = ['Hitos', 'Western', 'Dakota Logan']
 summary = "Visite de la maison de Earnest et rencontre avec Célia"

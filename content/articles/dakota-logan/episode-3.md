@@ -1,5 +1,5 @@
 +++
-title = 'Dakota Logan - Episode 3'
+title = 'Dakota Logan - Épisode 3'
 date = 2024-04-14
 tags = ['Hitos', 'Western', 'Dakota Logan']
 summary = "Je ne suis pas la bienvenue ici"

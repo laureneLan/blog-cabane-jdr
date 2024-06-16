@@ -1,5 +1,5 @@
 +++
-title = 'Dakota Logan - Episode 2'
+title = 'Dakota Logan - Épisode 2'
 date = 2024-04-07
 tags = ['Hitos', 'Western', 'Dakota Logan']
 summary = "Mon arrivée à Silvercross"

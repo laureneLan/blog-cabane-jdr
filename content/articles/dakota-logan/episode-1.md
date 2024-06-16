@@ -1,5 +1,5 @@
 +++
-title = 'Dakota Logan - Episode 1'
+title = 'Dakota Logan - Épisode 1'
 date = 2024-03-24
 tags = ['Hitos', 'Western', 'Dakota Logan']
 summary = "Le shérif Davidson me confit une mission"
