@@ -3,7 +3,7 @@ title = 'Alex Monroe - Épisode 1'
 date = 2024-06-09
 tags = ['Mélodie pour un meurtre', 'Alex Monroe']
 summary = "Qui est mort cette nuit ? :monocle_face:"
-draft = true
+draft = false
 +++
 
 Ce soir encore, je récupère un bout de papier dans la boite à pourboire. L'écriture est toujours soignée. Uniquement un nom : Bradley Keats. Qu'est-ce qu'il est arrivé à cette pauvre âme ?
@@ -40,6 +40,6 @@ Une femme entre deux âges fini de descendre les escaliers.
 -- Oui. Je vous souhaite une bonne journée, dit-elle en partant.  
 -- Merci, vous de même.[^1]
 
-[^1]: J'ai joué le dialogue entre les deux femmes avec l'outil [Let's Talk](https://ucmeumm.blogspot.com/2022/11/lets-talk-standalone-npc-dialogue.html). Sur le papier, il me semble très intéressant. Je réserve mon avis pour plus tard, quand je l'aurais plus utilisé. 
+[^1]: J'ai joué le dialogue entre les deux femmes avec l'outil [Let's Talk](https://ucmeumm.blogspot.com/2022/11/lets-talk-standalone-npc-dialogue.html). Sur le papier, il me semble très intéressant. Je réserve mon avis pour plus tard, quand je l'aurais plus utilisé.
 
 Je reste dans le hall encore une seconde avant de me diriger à pas de loup vers les étages.
