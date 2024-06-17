@@ -48,7 +48,7 @@ Elle me laisse la caresser une fois avant d'aller bouder sur l'appui du minuscul
 
 J'avais hâte de tester un PBTA en solo et ...le moins que l'on puisse dire c'est que ça à été laborieux à de nombreuses reprises...
 
-Pour détailler un peu plus : j'ai surtout bloqué au niveau des actions du MJ. Je les avait sous les yeux mais, soit je les oubliais, soit celles tirées[^1] au sort ne semblait impossible à placer.
+Pour détailler un peu plus : j'ai surtout bloqué au niveau des actions du MJ. Je les avait sous les yeux mais, soit je les oubliais, soit celles tirées[^1] au sort me semblaient impossible à placer.
 J'ai aussi eu du mal à séparer les parties MJ de celles Joueur.
 
 [^1]: à force je lançais 2 dés dans l'espoir d'avoir de l'inspiration pour au moins l'un des deux ... non concluant.
