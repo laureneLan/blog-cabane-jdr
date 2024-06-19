@@ -3,7 +3,7 @@ title = 'Planifier ses aventures'
 date = 2024-06-15
 tags = ['Vie de solorôliste']
 summary = "Comment je vais planifier mes prochaines aventures."
-draft = true
+draft = false
 +++
 
 Aujourd'hui, j'ai écouté la dernière vidéo publiée par Au bazar d'Hectelyon[^1] sur YouTube. Le sujet : [la planification](https://www.youtube.com/watch?v=CWuWkPRc9Zs). Il parle de comment il enchaîne ses campagnes et en mène plusieurs en parallèle. Il n’est donc pas question de jdr solo mais il m’a quand même fait réaliser quelque chose.
