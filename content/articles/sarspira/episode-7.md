@@ -12,17 +12,17 @@ Une douleur sourde naît instantanément dans mon abdomen.
 
 Je m'incline en forçant le nécromant à faire de même.
 
--- Maître, vous m'avez demander des informations sur cet homme. Quand je suis arrivée, des soldats fouillaient sa maison et il a préféré la faire exploser plutôt que de leur répondre. Je vous l'ai ramené afin que vous puissiez lui posez autant de questions que vous le voulez.
+-- Maître, vous m'avez demandé des informations sur cet homme. Quand je suis arrivée, des soldats fouillaient sa maison et il a préféré la faire exploser plutôt que de leur répondre. Je vous l'ai ramené afin que vous puissiez lui poser autant de questions que vous le voulez.
 
 La douleur hurle en moi. Je lutte pour rester debout.
 
 -- Ce n'est pas ce que je voulais !  
 -- Il s'est caché de la garde. J'ai vu ses zombies et son repaire. Je vous ai rapporté son grimoire et une statuette de pouvoir.
 
-Je les extraits comme je peux de mon sac et les passe à travers les grilles. Sur un signe de tête, l'érudit qui l'accompagne les prend et commence à les examiner.
+Je les extrais comme je peux de mon sac et les passe à travers les grilles. Sur un signe de tête, l'érudit qui l'accompagne les prend et commence à les examiner.
 
 -- La garde était là ?
--- Oui avant même que j'arrive. La seul facon d'être sûre que vous ayez les informations que vous vouliez était de vous le rapport...
+-- Oui avant même que j'arrive. La seule façon d'être sûre que vous ayez les informations que vous vouliez était de vous le rapport...
 -- Tu parles trop.
 
 Il se tourne vers l'érudit qui lui confirme la valeur de ce qu'il tient. La douleur diminue un peu.
@@ -46,11 +46,11 @@ Elle me laisse la caresser une fois avant d'aller bouder sur l'appui du minuscul
 
 ### Note de fin de partie
 
-J'avais hâte de tester un PBTA en solo et ...le moins que l'on puisse dire c'est que ça à été laborieux à de nombreuses reprises...
+J'avais hâte de tester un PBTA en solo et ...le moins que l'on puisse dire c'est que ça a été laborieux à de nombreuses reprises...
 
-Pour détailler un peu plus : j'ai surtout bloqué au niveau des actions du MJ. Je les avait sous les yeux mais, soit je les oubliais, soit celles tirées[^1] au sort me semblaient impossible à placer.
+Pour détailler un peu plus : j'ai surtout bloqué au niveau des actions du MJ. Je les avais sous les yeux, mais, soit je les oubliais, soit celles tirées[^1] au sort me semblaient impossibles à placer.
 J'ai aussi eu du mal à séparer les parties MJ de celles Joueur.
 
 [^1]: à force je lançais 2 dés dans l'espoir d'avoir de l'inspiration pour au moins l'un des deux ... non concluant.
 
-J'ai envie de poursuivre l'histoire de Sarspira mais je ne sais pas si je garderais le même système ...
+J'ai envie de poursuivre l'histoire de Sarspira, mais je ne sais pas si je garderais le même système ...

@@ -34,13 +34,13 @@ Voici la fiche du personnage de Sarspira. Pour vous faciliter la lecture, je la 
 
 **Grimoire** :  
 Vous avez maîtrisé plusieurs sorts et les avez inscrits dans votre grimoire.  
-Quand vous montrez d'un niveau, ajoutez un nouveau sort de votre niveau ou inférieur.
+Quand vous montez d'un niveau, ajoutez un nouveau sort de votre niveau ou inférieur.
 
 **Préparer des sorts** :  
 Quand vous consacrez un moment ininterrompu (environ 1h) en apprentissage tranquille de votre grimoire :  
 -- vous perdez tous les sorts que vous aviez préparés.  
 -- vous préparez de nouveaux sorts choisis dans votre grimoire dont le niveau total ne peut pas dépasser votre propre niveau +1.  
--- vous préparez aussi tous vos sorts mineurs qui ne compte jamais dans la limite de niveau de sorts.
+-- vous préparez aussi tous vos sorts mineurs qui ne comptent jamais dans la limite de niveaux de sorts.
 
 **Lancer un sort magique** :  
 Quand vous lancez un sort que vous avez préparé, lancez +INT.  
@@ -63,7 +63,7 @@ Dépensez une commande pour :
 
 **Eidolon** :  
 Vous avez un monstre loyal qui vous est lié et que vous pouvez invoquer. Quand vous invoquez votre Eidolon, lancez +INT.  
-Sur 10+, il apparaît instantanément à vos cotés.  
+Sur 10+, il apparaît instantanément à vos côtés.  
 Sur 7-9, il faut un peu de temps pour qu'il apparaisse.  
 Toutes ses caractéristiques ont un ajustement de +1, il a 1PV et inflige votre dé de dégâts.  
 Il a également 2 attributs parmi les choix ci-dessous :  
@@ -90,14 +90,14 @@ Vous pouvez le renvoyer à tout moment. Si ses PV sont réduits à 0, il retourn
 
 **Causer la peur** - *Continu* : Choisissez une cible que vous voyez et un objet proche. La cible est effrayée par l'objet tant que vous maintenez le sort. Sa réaction dépend d'elle : fuir, paniquer, implorer, combattre. Vous ne pouvez pas affecter des cibles dont l'intelligence est inférieure à celle d'un animal (automates, morts-vivants, constructions magiques, etc.). Tant que vous maintenez ce sort, vous recevez -1 lorsque vous lancez un autre sort.
 
-**Mains brûlantes** - *Continu* : Vos mains s'enflamment, d'un feu qui ne brûle pas tant que vous le retenez. Autrement, vous pouvez utiliser ce feu comme une arme pour faire vos dégâts, ou pour enflammer des matériaux inflammable.
+**Mains brûlantes** - *Continu* : Vos mains s'enflamment, d'un feu qui ne brûle pas tant que vous le retenez. Autrement, vous pouvez utiliser ce feu comme une arme pour faire vos dégâts, ou pour enflammer des matériaux inflammables.
 
 ### Équipement
 
 - Grimoire (1)
 - Matériel aventurier [x] [x] [] [] [] (1)
 - Dague *contact* (1)
-- Épée longue *proche* (2) +1 dégat
+- Épée longue *proche* (2) +1 dégât
 - Armure de cuir *portée* (1) 1 armure
 
 **Argent** : 0
