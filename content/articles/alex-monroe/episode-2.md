@@ -3,7 +3,7 @@ title = 'Alex Monroe - Épisode 2'
 date = 2024-06-16
 tags = ['Mélodie pour un meurtre', 'Alex Monroe']
 summary = "Je découvre un secret :notes:"
-draft = true
+draft = false
 +++
 
 J'arrive devant la porte de l'appartement de Bradley Keats. Verrouillée comme je m'y attendais, mais à l'aide d'un verrou tout simple, de ceux que l'on peut crocheter. Je récupère une épingle dans ma chevelure et après un dernier regard autour de moi pour m'assurer que je suis seule, je m'attaque à la serrure.
