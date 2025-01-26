@@ -3,7 +3,7 @@ title = 'Alex Monroe - Épisode 3'
 date = 2024-06-23
 tags = ['Mélodie pour un meurtre', 'Alex Monroe']
 summary = "Enquête vers l'église :church:"
-draft = true
+draft = false
 +++
 
 J'arrive près de la petite église. La peinture blanche qui recouvre le bois extérieur s'écaille par endroit.
