@@ -1,8 +1,9 @@
 :root {
-    --saison: var(--automne);
+    --saison: var(--hiver);
     --printemps: #aad79d;
     --ete: #f7fb1e;
     --automne: #df6d14;
+    --hiver: #e2fcfb;
  }
 
 body {
