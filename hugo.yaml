@@ -4,7 +4,10 @@ languageCode: fr-fr
 title: Cabane JDR
 defaultContentLanguage: fr
 
-paginate: 5
+pagination:
+  disableAliases: false
+  pagerSize: 5
+  path: page
 
 taxonomies:
   tags: tags
