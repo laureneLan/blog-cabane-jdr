@@ -1,8 +1,8 @@
 +++
-title = 'Evolution du matériel du soloroliste'
-date = 2025-02-23
+title = 'Outils du soloroliste'
+date = 2026-01-01
 tags = ['Vie de solorôliste']
-summary = "Comment faire évoluer son matériel de soloroliste."
+summary = "Faire évoluer ses outils de soloroliste."
 draft = true
 +++
 
