@@ -30,7 +30,7 @@ Heaven a hâte de rejoindre cette école parce que tout sera nouveau et à déco
 
 Mais elle a aussi peur qu'ils la rejettent. Après tout, elle n'a pas grandi avec eux. C'est une étrangère.
 
-----
+![Caractèristiques et compétences](/blog-cabane-jdr/images/heaven-wheeler/Heaven_Wheeler_fpd_extrait.png#center)
 
 Quelques semaines plus tard, un autre adulte vient la chercher pour l'emmener acheter ses fournitures scolaires.
 
