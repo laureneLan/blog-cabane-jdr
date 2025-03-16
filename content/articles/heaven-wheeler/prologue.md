@@ -6,6 +6,12 @@ summary = "Il était une fois ... :books:"
 draft = false
 +++
 
+> **Jeu** : [Tu es un sorcier](https://jeudijdr.itch.io/tu-es-un-sorcier-2019)  
+> **Époque** : Réalité alternative. En fait, une autre école de magie. Quelque part dans le temps et l'espace.   
+>  
+
+----
+
 Une petite fille de dos, aux cheveux couleur boue, très courts, balaye une salle de classe. Elle porte un tee-shirt gris trop grand pour elle, d'autant plus qu'elle est un peu maigre, et un pantalon trop court qui ne cache rien de ses chaussures rapiécées.
 
 Elle finit sa tâche. Prend ensuite un livre dans la petite bibliothèque au fond de la salle et sort dans une cour en béton chauffée par le soleil et s'installe par terre pour lire.
@@ -31,6 +37,8 @@ Heaven a hâte de rejoindre cette école parce que tout sera nouveau et à déco
 Mais elle a aussi peur qu'ils la rejettent. Après tout, elle n'a pas grandi avec eux. C'est une étrangère.
 
 ![Caractèristiques et compétences](/blog-cabane-jdr/images/heaven-wheeler/Heaven_Wheeler_fpd_extrait.png#center)
+
+----
 
 Quelques semaines plus tard, un autre adulte vient la chercher pour l'emmener acheter ses fournitures scolaires.
 
@@ -58,7 +66,7 @@ C'est une baguette en Chêne blanc, d'une trentaine de centimètres, avec un cœ
 
 L'artisan applaudit, ainsi que le professeur. Aucun ne semble la reprendre sur le fait qu'il ait fallu autant d'essais.
 
-> Baguette : Chêne blanc, plume de Phénix, 30 cm.
+> **Baguette** : Chêne blanc, plume de Phénix, 30 cm.
 
 ----
 
@@ -66,13 +74,13 @@ Pendant qu'ils continuent les courses de la rentrée, Heaven est confrontée à 
 
 Barnett Isherwood finit par expliquer la mauvaise réputation de ses parents dans le monde magique. Il lui assure que les élèves et leurs parents finiront par oublier toute cette histoire, si elle se comporte correctement à l'école.
 
-> Trait : Famille déchue
+> **Trait** : Famille déchue
 
 ----
 
 Alors qu'elle attend le professeur à la terrasse d'un café, où il l'a fait patienter en lui faisant goûter son premier jus de citrouille. Heaver sauve une minuscule chouette-moussue du braconnier qui la recherche. Le professeur Isherwood lui permet de l'adopter quand il constate que l'animal choisit de rester avec la jeune fille plutôt que de reprendre sa liberté. Il lui offre même un livre sur les créatures magiques pour qu'elle apprenne à mieux connaitre cette espèce.
 
-> Trait : Familier spécial (chouette-moussue)  
+> **Trait** : Familier spécial (chouette-moussue)  
 > Petite chouette, dont les plumes ressemblent à des feuilles  
 > Vol silencieux, camouflée parmi les feuilles, détecte les plantes magiques autour d'elle  
 
@@ -88,4 +96,4 @@ Pendant les deux semaines qu’il reste avant le jour de la rentrée, Heaven com
 
 Elle n'ose pas sortir la baguette de son étui, même si elle l'observe presque tous les jours.
 
-> Traits : niveau Bon (Enchantements, Soins aux créatures magiques, Botanique)
+> **Traits** : niveau Bon (Enchantements, Soins aux créatures magiques, Botanique)
