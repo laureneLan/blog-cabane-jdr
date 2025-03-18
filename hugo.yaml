@@ -30,9 +30,13 @@ menu:
       url: '/archives/'
       weight: 2
     -
+      name: 'A lire, à voir'
+      url: 'pages/a-lire-a-voir/'
+      weight: 3
+    -
       name: 'Générateurs'
       url: '/generateurs'
-      weight: 3
+      weight: 4
 
 params:
   author: Lan
