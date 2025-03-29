@@ -7,15 +7,23 @@ draft = false
 showToc = true
 +++
 
-Liens vers des livres, articles, vidéos, etc. que j'ai trouvés interessants sur le jeu de rôle solo. Pas de classement hormis l'alphabet. Regardez, lisez et ne gardez que ce qui vous amuse :) 
+Liens vers des livres, articles, vidéos, etc. que j'ai trouvés interessants sur le jeu de rôle solo. Regardez, lisez et ne gardez que ce qui vous amuse :) 
 
-Dernière mise à jour : _18 mars 2025_.
+Dernière mise à jour : _29 mars 2025_.
 
 ## Lire
 ### En français
 #### OnirArts
 - [Le petit guide du jeu de rôle en solo](https://www.onirarts.com/solo/)
 - [Muses&Oracles](https://www.onirarts.com/Muses&Oracles/) - la version imprimé du jeu (livre)
+### En anglais
+- [Exploring the Solo RPG Spectrum](https://soloist.substack.com/p/exploring-the-solo-rpg-spectrum)
+- [Anatomy of a Solo RPG Scene - The Ironsworn Flow of Play](https://croakerrpgs.substack.com/p/anatomy-of-a-solo-rpg-scene-the-ironsworn)
+- [O.R.A.C.L.E. System - A Procedure for playing Solo RPGs](https://croakerrpgs.substack.com/p/oracle-system-a-procedure-for-playing)
+- [Getting into the Mood for Solo RPGs](https://croakerrpgs.substack.com/p/getting-into-the-mood-for-solo-rpgs)
+- [7 Tips How To Play Solo TTRPG Campaigns Consistently](https://radioactivecarrot.substack.com/p/7-advises-how-to-play-ttrpg-campaigns)
+- [6 Fixes For Your Solo TTRPG Campaign](https://castlegrief.substack.com/p/6-fixes-for-your-solo-ttrpg-campaign)
+- [Random Encounters, Not Random Chaos: A GM’s Guide](https://www.domainofmanythings.com/blog/random-encounters-not-random-chaos-a-gms-guide)
 
 ## Voir
 ### En français
