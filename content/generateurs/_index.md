@@ -7,4 +7,4 @@ draft = false
 +++
 
 - [Potions]({{< ref "/generateurs/potions" >}})
-- [Espèces pour Dungon World]({{< ref "/generateurs/especes_dw" >}})
+- [Espèces pour un monde médiéval fantastique]({{< ref "/generateurs/especes_medfan" >}})
