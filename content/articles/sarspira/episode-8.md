@@ -10,6 +10,8 @@ Un autre endroit ; un autre portail[^1]. Sarspira en émerge.
 
 [^1]: et un autre système de jeu aussi : [F.A.C.E.S. de James Tornades](https://www.lulu.com/fr/shop/james-tornade/faces-le-jeu-de-r%C3%B4le-aux-mille-visages-livre-couleurs/hardcover/product-24052449.html). Vous pouvez voir la feuille de personnage [dans cet article](/blog-cabane-jdr/articles/vie-de-soloroliste/passage-a-vide-2024/)
 
+:calendar: **4ème jour de Basse (1ère semaine du mois) de Troll (1er mois de l'automne), avec un climat : Beau temps**
+
 Tout autour de la tiefline, des arbres couverts de fruits. Plus loin dans ce verger, elle aperçoit un homme imposant coiffé d'un casque à trois cornes : un des gardiens du lieu. Attiré par le portail, il se dirige droit sur elle.
 
 ----
