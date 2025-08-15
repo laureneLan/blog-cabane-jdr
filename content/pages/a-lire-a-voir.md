@@ -9,10 +9,13 @@ showToc = true
 
 Liens vers des livres, articles, vidéos, etc. que j'ai trouvés interessants sur le jeu de rôle solo. Regardez, lisez et ne gardez que ce qui vous amuse :) 
 
-Dernière mise à jour : _06 avril 2025_.
+Dernière mise à jour : _15 août 2025_.
 
 ## Lire
 ### En français
+#### Sur ce blog
+- [Les outils des solorôliste](https://laurenelan.github.io/blog-cabane-jdr/articles/vie-de-soloroliste/outils-de-soloroliste/)
+- [Tag : vie-de-solorôliste](https://laurenelan.github.io/blog-cabane-jdr/tags/vie-de-solor%C3%B4liste/)
 #### OnirArts
 - [Le petit guide du jeu de rôle en solo](https://www.onirarts.com/solo/)
 - [Muses&Oracles](https://www.onirarts.com/Muses&Oracles/) - la version imprimé du jeu (livre)
