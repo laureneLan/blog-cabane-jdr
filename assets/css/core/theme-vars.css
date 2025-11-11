@@ -36,3 +36,20 @@
 .dark.list {
     background: var(--theme);
 }
+
+@font-face {
+    font-family: "caveat";
+    src: url("/blog-cabane-jdr/fonts/CaveatBrush-Regular.ttf");
+}
+.handwriter {
+    font-family: "caveat";
+}
+
+@font-face {
+    font-family: "oldnewspapertypes";
+	src: url("/blog-cabane-jdr/fonts/OldNewspaperTypes.ttf");
+}
+.typewriter {
+    font-family: "oldnewspapertypes";
+}
+

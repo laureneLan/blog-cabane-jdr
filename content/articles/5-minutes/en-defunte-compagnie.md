@@ -6,11 +6,15 @@ draft = false
 summary = "5 minutes de jeu dans la peau d'un médium"
 +++
 
-**JDR : [5 min en défunte compagnie](https://b0ng.itch.io/5-min-en-dfunte-compagnie)**
+JDR : [5 min en défunte compagnie](https://b0ng.itch.io/5-min-en-dfunte-compagnie)
 
 -----
 
-Les yeux dans le vague je touille distraitement mon café noir en écoutant mon client du jour. Certains n'attendent pas que je suis arrivé à mon bureau pour me solliciter. Ajouter un verrou n'aurait rien changé. Et pour cause : aucun verrou n'a jamais arrêté un fantôme.
+{{< rawhtml >}}
+<div class="typewriter">
+{{< /rawhtml >}}
+
+Les yeux dans le vague, je touille distraitement mon café noir en écoutant mon client du jour. Certains n'attendent pas que je suis arrivé à mon bureau pour me solliciter. Ajouter un verrou n'aurait rien changé. Et pour cause : aucun verrou n'a jamais arrêté un fantôme.
 
 Je dois mon client matinal à Bernie, la vielle liche qui me rend visite quand elle s’ennuie trop dans son caveau. Ce qui arrive très souvent. Nous finissons généralement la soirée en parlant de la vie et de la mort, tout en sirotant du whisky de 20 d'âge. Faut dire qu'elle connait le sujet.
 
@@ -23,3 +27,7 @@ La nuit tombe déjà et avec elle, la pluie. Au moins je ne verrais pas Bernie c
 Mes rêves m'emmène sur un bateau, en pleine tempête. Je reconnais le marin de ce matin. Je me débat pour ne pas me noyer dans ses souvenirs. Je sens l'eau remplir mes poumons, quand un hurlement retenti dans mon appartement, me projetant dans le monde réel.
 
 Le soleil n'est pas encore levé qu'un client m'attend déjà.
+
+{{< rawhtml >}}
+</div>
+{{< /rawhtml >}}
