@@ -2,7 +2,7 @@
 title = 'Sarspira - Épisode 12'
 date = 2025-04-13
 tags = ['F.A.C.E.S.', 'Sarspira']
-summary = "Observation et infiltration"
+summary = "Observation et infiltration 🥷"
 draft = false
 +++
 

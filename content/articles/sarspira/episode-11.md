@@ -2,7 +2,7 @@
 title = 'Sarspira - Épisode 11'
 date = 2025-04-06
 tags = ['Sarspira']
-summary = "Le secret du tatouage"
+summary = "Le secret du tatouage 🐉"
 draft = false
 +++
 

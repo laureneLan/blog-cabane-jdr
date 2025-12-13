@@ -2,7 +2,7 @@
 title = 'Sarspira - Épisode 10'
 date = 2025-03-30
 tags = ['F.A.C.E.S.', 'Sarspira']
-summary = "C'est pas le moment de traîner !"
+summary = "C'est pas le moment de traîner ! 🏃"
 draft = false
 +++
 

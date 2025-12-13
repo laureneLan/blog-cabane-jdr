@@ -2,7 +2,7 @@
 title = "Correspondance d'une sorcière débutante - Lettre 2"
 date = 2025-11-12
 tags = ["Village Witch", "Correspondance d'une sorcière débutante"]
-summary = "2nd lettre - Printemps"
+summary = "2nd lettre - Printemps 👓"
 draft = false
 +++
 
