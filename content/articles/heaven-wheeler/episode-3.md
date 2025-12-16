@@ -46,6 +46,8 @@ Je n'attendais à quelque chose ressemblant à l'orphelinat. Il n'en est rien. L
 
 Je suis Helen, Gemma, Joan et Margaret jusqu'à une porte portant l'inscription "dortoir des 1ère années". Cinq lits en hauteur nous attendent.
 
+![Chambre](/blog-cabane-jdr/images/heaven-wheeler/chambre_couleur.png#center)
+
 Je retrouve aussi Feuille-au-vent qui ulule depuis son nouveau perchoir quand j'entre. Elle n'est plus dans sa cage. Près d'elle se trouve un bol d'eau et un bol de petites baies. Elle m'en partage une. Des mûres. Je retrouve aussi mon sac et comme attendu les documents mentionnés par la directrice Shackelbolt. Aucune de nous ne traîne à se changer et à aller se mettre au lit.
 
 ----
