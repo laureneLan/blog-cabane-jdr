@@ -13,7 +13,7 @@ draft = false
 
 [PJ: Tecoztli | diplomate naine | objectif : veut devenir une chef respectée]
     
-[S1]
+## [S1]
 
 ? Quand se passe la scène ?  
 -> 1/5  
@@ -32,7 +32,7 @@ draft = false
 ? PCP[^1] ?  
 -> oui (1)
 
-[S2] à l'intérieur de l'auberge
+## [S2] à l'intérieur de l'auberge
 
 ? Est ce que le vendeur est présent ?  
 -> oui et  
@@ -121,7 +121,7 @@ gen: Interrupt scene 4 => NPC Random Event
 gen: NPC Random Event 7 => NPC Positive  
 => Alors que Tecoztli sort de l'auberge, elle voit quelque chose de positif pour un PNJ.
 
-[S3] Devant l'auberge
+## [S3] Devant l'auberge
 
 ? De quel PNJ il s'agit ?  
 -> tbl: pnj[^2] 8 => voyageur  
