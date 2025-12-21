@@ -8,7 +8,7 @@ draft = false
 
 Le groupe de première année s'avance entre quatres tables qui font presque toute la longueur de la pièce. D'autres enfants y sont assis. Des adultes sont devant une table tout au fond de la salle. Je reconnais Opale fint et Barnett Isherwood. Le groupe s'arrête à quelques mètres d'eux.
 
--- Bienvenue à Skothub, commence la directrice.
+-- Bienvenue à Skolhub, commence la directrice.
 
 Elle annonce que nous allons être répartis dans les différentes Familles de l'école : Tan, Aer, Dour, Douar. Puis nous pourrons manger et aller dormir.
 

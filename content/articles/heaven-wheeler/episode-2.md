@@ -33,7 +33,7 @@ Il me retourne un grand sourire
 
 -- O-oui.
 
--- Vous vous habituerez. Je m'appelle Tyredes. Je suis garde-chasse à Skothub, nous nous recroiserons donc pendant votre scolarité. Puis-je prendre votre chouette ? Je dois l'emmener à l'école pour qu’elle puisse prendre ses quartiers elle aussi.
+-- Vous vous habituerez. Je m'appelle Tyredes. Je suis garde-chasse à Skolhub, nous nous recroiserons donc pendant votre scolarité. Puis-je prendre votre chouette ? Je dois l'emmener à l'école pour qu’elle puisse prendre ses quartiers elle aussi.
 
 Voyant que j'hésite encore, il ajoute :
 
@@ -49,7 +49,7 @@ Je chuchote "On se retrouve très vite." à la jeune chouette qui hulule douceme
 
 Je me tourne de nouveau vers l'estrade.
 
-"Bien bien bien. Maintenant que toutes vos affaires ont été récupérées ... Ne vous inquiétez pas ! Vous les retrouverez dans votre dortoir après le repas. Je me présente. Zik, gardienne des clés et des lieux à Skothub ... Et oui, pour ceux qui se posent la question, je suis une gobelin. Pas de quoi en faire un tartare ! Maintenant, suivez-moi, nous allons prendre les calèches pour aller à l'école."
+"Bien bien bien. Maintenant que toutes vos affaires ont été récupérées ... Ne vous inquiétez pas ! Vous les retrouverez dans votre dortoir après le repas. Je me présente. Zik, gardienne des clés et des lieux à Skolhub ... Et oui, pour ceux qui se posent la question, je suis une gobelin. Pas de quoi en faire un tartare ! Maintenant, suivez-moi, nous allons prendre les calèches pour aller à l'école."
 
 Elle descend de son estrade et traverse le groupe de jeunes rassemblé sur le quai.
 
@@ -67,7 +67,7 @@ Je hoche la tête poliment au bavardage de mon voisin. Je le relance avec d'autr
 
 Arundel m'explique ainsi que ces parents ont dû beaucoup économiser pour payer l'inscription et ses affaires d'école. Sa baguette et sa cape sont neuves, mais le reste a du être acheté d'occasion ou fabriqué par sa famille. Il semble très fier de son entourage et espère devenir un bon sorcier pour leur rendre la vie plus facile. Après tout, c’est le premier à avoir des pouvoirs.
 
-Il faut une dizaine de minutes pour arriver dans le parc de l'école.
+Il faut une quarantaine de minutes pour arriver dans le parc de l'école.
 
 Des lanternes ont été disposées sur les derniers mètres du chemin, puis se poursuivent sur un escalier et une terrasse jusqu'à la grande porte d'un château de pierres blanches.
 

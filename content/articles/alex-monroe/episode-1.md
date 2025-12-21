@@ -6,9 +6,9 @@ summary = "Qui est mort cette nuit ? :monocle_face:"
 draft = false
 +++
 
-Ce soir encore, je récupère un bout de papier dans la boite à pourboire. L'écriture est toujours soignée. Uniquement un nom : Bradley Keats. Qu'est-ce qu'il est arrivé à cette pauvre âme ?
+Ce soir encore, je récupère un bout de papier dans la boîte à pourboire. L'écriture est toujours soignée. Uniquement un nom : Bradley Keats. Qu'est-ce qu'il est arrivé à cette pauvre âme ?
 
-Je ferme le capot du piano sur lequel je jouais ce soir, salut le barman, récupère mon manteau et sors dans la rue.
+Je ferme le capot du piano sur lequel je jouais ce soir, salue le barman, récupère mon manteau et sors dans la rue.
 
 Je trouve un abri contre la pluie en plus d'un annuaire dans une cabine téléphonique proche.
 
