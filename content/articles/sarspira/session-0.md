@@ -8,7 +8,7 @@ draft = false
 
 Et voilà une nouvelle partie. Celle-là a pris bien plus de temps à préparer que la précédente. En plus de créer un personnage (que j'ai construit à partir d'une idée, de la compilation des classes de SIVA et du Class Warfare), je me suis créé des aides de jeu contenant toutes les actions des joueurs (livre de base et suppléments) ainsi que celles du MJ. J'en ai profité pour réviser les règles. Et j'ai créé un générateur pour savoir l'espèce de la personne que le personnage va rencontrer[^1]. *Qu'est-ce que l'on ne ferrait pas pour jouer ? :rofl:*
 
-[^1]: Il est disponible [ici](/blog-cabane-jdr/generateurs/especes_dw/). J'ai calculé des pourcentages pour chacune des 57 races suivant ce que je pensais être sa fréquence. Par exemple, 50% de la population sera "humain", 4.25% seront des "nains", 0.5% pour les "licornes".
+[^1]: Il est disponible [ici](/blog-cabane-jdr/generateurs/especes_medfan/). J'ai calculé des pourcentages pour chacune des 57 races suivant ce que je pensais être sa fréquence. Par exemple : 50% de la population sera "humain", 4.25% seront des "nains", 0.5% "licornes", etc..
 
 ----
 

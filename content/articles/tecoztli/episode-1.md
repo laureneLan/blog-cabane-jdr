@@ -73,9 +73,9 @@ PJ : "5 PA comme convenu."
 
 ? Est-ce qu'il accepte le prix convenu ?  
 -> non  
-=> Le vendeur annonce que le prix à changer.
+=> Le vendeur annonce que le prix a changé.
 
-N (vendeur) : "Le prix à augmenté."  
+N (vendeur) : "Le prix a augmenté."  
 PJ: "C'est une plaisanterie ?!" (hausse la voie)
 
 De nouveau il me fixe sans répondre.

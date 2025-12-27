@@ -48,7 +48,7 @@ a à cœur de bien faire son travail
 dégingandé  
 ~~doit demander autour de lui si quelqu'un connait Célia la sœur de Earnest Bowen~~
 - **Modesty Edgar** : la propriétaire du "The Wise Pear", un des 4 magasins d'alimentation de Limbo Ridge, située au nord-est  
-menu  
+menue  
 accepte de répondre à quelques questions en échange d'achat dans sa boutique.
 - **Shérif Léonard Horne** : shérif de Limbo Ridge  
 n'aime pas trop les chasseurs de prime, car il a dû en traquer un, cannibale de surcroît, dans sa ville.

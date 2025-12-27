@@ -15,7 +15,7 @@ J'achète quelques vivres pour le voyage et fais vérifier les fers de mon cheva
 
 Après 2 jours de voyage, j'arrive au pénitencier. Et demande à parler au directeur.
 
-Le directeur est ravi d'avoir de l'aide pour récupérer le fugitif. Il n'apprend que Earnest Bowen :
+Le directeur est ravi d'avoir de l'aide pour récupérer le fugitif. Il m'apprend que Earnest Bowen :
 
 - à un accent
 - s'est battu il y a quelques jours, il a gagné, mais il boitait

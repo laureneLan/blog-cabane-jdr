@@ -50,7 +50,7 @@ Je regarde rapidement par le trou du mur. Une femme en robe bleue tient un fusil
 
 Un autre tir nous répond. Elle vise assez haut, elle ne veut pas toucher son frère. J'attache Earnest à la table et lui enfonce un mouchoir dans la bouche. Il se débat pas mal.
 
--- Ne bouge pas, je vais empêcher ta sœur de faire une bâtisse encore plus grosse.
+-- Ne bouge pas, je vais empêcher ta sœur de faire une bêtise encore plus grosse.
 
 Je cherche une sortie possible sur les côtés de la maison.
 

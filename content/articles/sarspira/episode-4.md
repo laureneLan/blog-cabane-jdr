@@ -16,7 +16,7 @@ Le zombi est de nouveau sur moi. J'essaie autant que possible de le toucher à l
 
 L’incantation se fait plus forte. Je sens les ombres commencer à se solidifier autour de moi. Plus de temps à perdre, je dois l'arrêter. Maintenant. Je fais signe à Morthra d'occuper le zombi. Elle se jette dessus toutes griffes dehors. Je me tourne vers le nécromant et convoque ma magie.
 
-Je suis trop focalisée pour voir que le zombi la tut alors qu'elle lui ouvre la gorge. Le cadavre s'affaisse, définitivement mort alors qu'elle disparait, ne laissant qu'un peu de fumée derrière elle.
+Je suis trop focalisée pour voir que le zombi la tue alors qu'elle lui ouvre la gorge. Le cadavre s'affaisse, définitivement mort alors qu'elle disparait, ne laissant qu'un peu de fumée derrière elle.
 
 J'ai plus de mal à lancer ce sort que d'habitude. Je vise le livre que le sorcier est en train de lire.
 
