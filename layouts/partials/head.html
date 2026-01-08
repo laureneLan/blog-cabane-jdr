@@ -155,9 +155,8 @@
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
-
-<script defer async src="https://tracker.hakanai.io/hakanai.min.js" data-site="e8bf7959-951d-4782-92a5-0423af53a177" data-link-tracking="true"></script>
-
+{{- template "_internal/google_analytics.html" . }}
 {{- template "partials/templates/opengraph.html" . }}
+{{- template "partials/templates/twitter_cards.html" . }}
 {{- template "partials/templates/schema_json.html" . }}
 {{- end -}}
