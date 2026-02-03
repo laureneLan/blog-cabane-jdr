@@ -38,6 +38,11 @@
 }
 
 @font-face {
+    font-family: "Chilanka";
+    src: url("/blog-cabane-jdr/fonts/Chilanka-Regular.ttf");
+}
+
+@font-face {
     font-family: "caveat";
     src: url("/blog-cabane-jdr/fonts/CaveatBrush-Regular.ttf");
 }
