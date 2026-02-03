@@ -40,19 +40,31 @@
 @font-face {
     font-family: "Chilanka";
     src: url("/blog-cabane-jdr/fonts/Chilanka-Regular.ttf");
+    font-weight: 400;
 }
 
 @font-face {
     font-family: "caveat";
     src: url("/blog-cabane-jdr/fonts/CaveatBrush-Regular.ttf");
+    font-weight: 400;
+}
+.handwriter-bold {
+    font-family: "caveat";
+}
+
+@font-face {
+    font-family: "annie";
+    src: url("/blog-cabane-jdr/fonts/AnnieUseYourTelescope-Regular.ttf");
+    font-weight: 400;
 }
 .handwriter {
-    font-family: "caveat";
+    font-family: "annie";
 }
 
 @font-face {
     font-family: "oldnewspapertypes";
 	src: url("/blog-cabane-jdr/fonts/OldNewspaperTypes.ttf");
+    font-weight: 400;
 }
 .typewriter {
     font-family: "oldnewspapertypes";
