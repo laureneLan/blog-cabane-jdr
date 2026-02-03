@@ -1,0 +1,92 @@
+@font-face {
+    font-family: "Spectral";
+    src: url("/blog-cabane-jdr/fonts/Spectral-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Spectral";
+    src: url("/blog-cabane-jdr/fonts/Spectral-Italic.ttf");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Spectral";
+    src: url("/blog-cabane-jdr/fonts/Spectral-Bold.ttf");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Spectral";
+    src: url("/blog-cabane-jdr/fonts/Spectral-BoldItalic.ttf");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Comfortaa";
+    src: url("/blog-cabane-jdr/fonts/Comfortaa-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Comfortaa";
+    src: url("/blog-cabane-jdr/fonts/Comfortaa-Bold.ttf");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Chilanka";
+    src: url("/blog-cabane-jdr/fonts/Chilanka-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "caveat";
+    src: url("/blog-cabane-jdr/fonts/CaveatBrush-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "annie";
+    src: url("/blog-cabane-jdr/fonts/AnnieUseYourTelescope-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "oldnewspapertypes";
+	src: url("/blog-cabane-jdr/fonts/OldNewspaperTypes.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+body {
+    font-family: "Spectral", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Comfortaa", cursive;
+}
+
+.logo {
+    font-family: "Chilanka";
+}
+
+.handwriter {
+    font-family: "annie";
+}
+.handwriter-bold {
+    font-family: "caveat";
+}
+
+.typewriter {
+    font-family: "oldnewspapertypes";
+}
