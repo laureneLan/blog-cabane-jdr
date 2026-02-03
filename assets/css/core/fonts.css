@@ -1,3 +1,4 @@
+/*
 @font-face {
     font-family: "Spectral";
     src: url("/blog-cabane-jdr/fonts/Spectral-Regular.ttf");
@@ -22,7 +23,9 @@
     font-weight: 700;
     font-style: italic;
 }
+*/
 
+/*
 @font-face {
     font-family: "Comfortaa";
     src: url("/blog-cabane-jdr/fonts/Comfortaa-Regular.ttf");
@@ -35,6 +38,7 @@
     font-weight: 700;
     font-style: normal;
 }
+*/
 
 @font-face {
     font-family: "Chilanka";
@@ -67,17 +71,9 @@
 
 
 body {
-    font-family: "Spectral", serif;
+    font-family: "Chilanka", cursive;
     font-weight: 400;
     font-style: normal;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Comfortaa", cursive;
-}
-
-.logo {
-    font-family: "Chilanka";
 }
 
 .handwriter {
