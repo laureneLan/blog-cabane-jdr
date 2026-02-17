@@ -7,6 +7,11 @@ draft = false
 showToc = true
 +++
 
+**EDIT** : Cet article n'est plus d'actualité. Depuis sa parution, il y a non seulement eu une v2, mais aussi un renommage du projet, accompagné de (gros) changements. Je fais donc un tout nouvel article pour mettre à jour cette notation.  
+Vous pouvez le lire [ici](/blog-cabane-jdr/articles/vie-de-soloroliste/lonelog/).
+
+---
+
 C'est en grande partie la traduction de [cet article](https://zeruhur.icu/solorpgnotation/)[^1]. J'ai traduit les libellés, et fait quelques ajustements propres à ma pratique.
 
 

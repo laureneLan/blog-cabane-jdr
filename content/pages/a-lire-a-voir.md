@@ -9,13 +9,14 @@ showToc = true
 
 Liens vers des livres, articles, vidéos, etc. que j'ai trouvés interessants sur le jeu de rôle solo. Regardez, lisez et ne gardez que ce qui vous amuse :) 
 
-Dernière mise à jour : _15 août 2025_.
+Dernière mise à jour : _17 février 2026_.
 
 ## Lire
 ### En français
 #### Sur ce blog
-- [Les outils des solorôliste](https://laurenelan.github.io/blog-cabane-jdr/articles/vie-de-soloroliste/outils-de-soloroliste/)
-- [Tag : vie-de-solorôliste](https://laurenelan.github.io/blog-cabane-jdr/tags/vie-de-solor%C3%B4liste/)
+- [Les outils des solorôliste](/blog-cabane-jdr/articles/vie-de-soloroliste/outils-de-soloroliste/)
+- [Ma version de Lonelog](/blog-cabane-jdr/articles/vie-de-soloroliste/lonelog/)
+- [Tag : vie-de-solorôliste](/blog-cabane-jdr/tags/vie-de-solor%C3%B4liste/)
 #### OnirArts
 - [Le petit guide du jeu de rôle en solo](https://www.onirarts.com/solo/)
 - [Muses&Oracles](https://www.onirarts.com/Muses&Oracles/) - la version imprimé du jeu (livre)
@@ -29,6 +30,7 @@ Dernière mise à jour : _15 août 2025_.
 - [6 Fixes For Your Solo TTRPG Campaign](https://castlegrief.substack.com/p/6-fixes-for-your-solo-ttrpg-campaign)
 - [campaign modules drag on, run episodic games instead](https://www.domainofmanythings.com/blog/try-running-episodic-games-instead-of-campaigns-for-your-rpg)
 - [Random Encounters, Not Random Chaos: A GM’s Guide](https://www.domainofmanythings.com/blog/random-encounters-not-random-chaos-a-gms-guide)
+- [Lonelog](https://zeruhur.itch.io/lonelog)
 
 ## Voir
 ### En français
