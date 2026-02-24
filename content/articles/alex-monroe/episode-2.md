@@ -20,6 +20,6 @@ Quand je rouvre les yeux, la pièce a pris les couleurs des vieilles photographi
 
 [^3]: est-ce que j'arrive à savoir lequel ? jet de Discernement => oui, mais. La situation correspond à mes attentes, mais avec un élément que je n'ai pas envisagé.
 
-En les observant avec encore plus d' attention, je m’aperçois que ni l'un ni l'autre ne sont sincères en vérité. Ils attendent quelque chose de l'autre qui dépasse le simple amour. Sidérée, je cligne des yeux et la scène s'évanouit. À la dernière seconde, une note de musique retentit distinctement. [Sol](https://www.musicca.com/fr/piano?2g). J'ai mis le doigt sur quelque chose d'important. Je me retrouve de nouveau dans un lieu vide et froid.
+En les observant avec encore plus d'attention, je m’aperçois que ni l'un ni l'autre ne sont sincères en vérité. Ils attendent quelque chose de l'autre qui dépasse le simple amour. Sidérée, je cligne des yeux et la scène s'évanouit. À la dernière seconde, une note de musique retentit distinctement. [Sol](https://www.musicca.com/fr/piano?2g). J'ai mis le doigt sur quelque chose d'important. Je me retrouve de nouveau dans un lieu vide et froid.
 
 Je referme la porte en sortant et retourne dans la rue où je laisse un pâle soleil essayer de me réchauffer. Je me demande ce qu'ils pouvaient bien se vouloir l'un à l'autre, pendant que je me dirige vers l'église la plus proche. Espérant que ce soit celle dont parlait la voisine et que j'y trouverais des réponses.

@@ -12,7 +12,7 @@ Je ferme le capot du piano sur lequel je jouais ce soir, salue le barman, récup
 
 Je trouve un abri contre la pluie en plus d'un annuaire dans une cabine téléphonique proche.
 
-Il n'y a qu'un seul Bradley Keats de listé ! Je recopie avec soin ses adresse et numéro dans mon carnet. Ce n'est pas tout près d'ici.
+Il n'y a qu'un seul Bradley Keats de listé ! Je recopie avec soin son adresse et numéro dans mon carnet. Ce n'est pas tout près d'ici.
 
 Je choisis de repasser chez moi, me changer, avant d'appeler un taxi. J'y serais aux premières lueurs de l'aube.
 

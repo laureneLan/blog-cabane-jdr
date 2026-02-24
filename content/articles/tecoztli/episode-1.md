@@ -8,8 +8,8 @@ draft = false
     
 > [Date] **19-08-2025**  
 > [Durée] **3 heures**  
-> [Numéro de la scène] **S1**  
-> [Objectifs] **reprise du jdr solo**  
+> [Numéro des scènes] **S1-S3**  
+> [Objectifs] **Reprendre le jdr solo**  
 
 [PJ: Tecoztli | diplomate naine | objectif : veut devenir une chef respectée]
     

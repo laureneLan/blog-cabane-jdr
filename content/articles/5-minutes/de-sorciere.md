@@ -12,7 +12,7 @@ summary = "5 minutes d'écriture sur la journée d'une sorcière"
 
 Ce matin, j'ai pris le panier que j'avais préparé hier pour offrir à Murya, le chef du village voisin. Et j'ai descendu la centaine de marches qui me séparaient du sol.
 
-Malgré la pénombre, le soleil n'avait pas encore franchi les montagnes alentour, et l'air frais de ce début d'automne, le trajet s'est bien déroulé. J'ai même rencontré une biche.
+Malgré la pénombre, le soleil n'ayant pas encore franchi les montagnes alentour, et l'air frais de ce début d'automne, le trajet s'est bien déroulé. J'ai même rencontré une biche.
 
 C'est à Harrow Creek que les choses se sont gâtées. J'ai vite remarqué que les habitants me regardaient de biais et s'éloignaient. Rien de bien nouveau malheureusement. Quant à savoir ce qui leur passait par la tête ...
 

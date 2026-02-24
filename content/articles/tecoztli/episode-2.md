@@ -6,11 +6,11 @@ summary = "Génération de ville 🏙️"
 draft = false
 +++
 
-[Date] **24 aout 2025**  
-[Durée] **120 minutes**  
-[Numéro de la scène] **S4**  
-[Récapitulatif] **Tecoztli a acheté du poison dans une auberge. Maintenant elle rentre dans sa ville.**  
-[Objectifs] **Utiliser le générateur de ville de Impitoyables Bourgades**
+> [Date] **24 aout 2025**  
+> [Durée] **120 minutes**  
+> [Numéro des scènes] **S4**  
+> [Résumé de l'épisode précédent] **Tecoztli a acheté du poison dans une auberge. Maintenant elle rentre dans sa ville.**  
+> [Objectifs] **Utiliser le générateur de ville de Impitoyables Bourgades**
 
 (note : [S4] A l'entrée de la ville, en fin d'après-midi)
 

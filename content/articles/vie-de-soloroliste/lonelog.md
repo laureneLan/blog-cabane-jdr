@@ -83,17 +83,18 @@ Date de dernière mise à jour :
 Notes :  
 ```
 
-## En-tête de session
+## En-tête d'épisode
 
 ```
-=== Session 1 ===   
+=== Episode X ===   
   
 Date :  
 Objectifs :  
 Durée :  
 Ambiance :  
 Scènes :  
-Récapitulatif :  
+Résumé de l'épisode précédent :  
 Fils :  
+Horloge :  
 Notes :  
 ```

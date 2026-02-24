@@ -33,11 +33,11 @@ Malgré l'anxiété j'ai fini par m'endormir.
 Quand je me suis réveillée le lendemain, tout était silencieux.
 La vagabonde était partie
 
-{{< rawhtml >}}<br/>{{< /rawhtml >}}
+{{< rawhtml >}}<br/><br/><br/>{{< /rawhtml >}}
 
 en emportant bon nombre de mes affaires.
 
-{{< rawhtml >}}<br/><br/>{{< /rawhtml >}}
+{{< rawhtml >}}<br/><br/><br/>{{< /rawhtml >}}
 
 Elle a pris de la nourriture, des affaires de toilettes, mais aussi des cadres, des bibelots.
 

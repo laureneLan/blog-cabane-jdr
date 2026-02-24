@@ -6,10 +6,10 @@ summary = "Lecture des étoiles ⭐"
 draft = false
 +++
 
->[Date] **23 mars 2025**  
->[Durée] **90 minutes**  
->[Numéro de la scène] **S10**  
->[Récapitulatif] **Arrivée à Skolhub, début des cours**
+> [Date] **23 mars 2025**  
+> [Durée] **90 minutes**  
+> [Numéro de la scène] **S10**  
+> [Récapitulatif] **Arrivée à Skolhub, début des cours**
 
 Dernier jour de la semaine. Voilà 15 jours que les cours ont débuté. Je commence à avoir des habitudes. Me réveiller dans le dortoir. Petit-déjeuner dans la grande salle. Puis les cours. 
 

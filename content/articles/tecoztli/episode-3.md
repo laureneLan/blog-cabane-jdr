@@ -6,11 +6,11 @@ summary = "Moutons d’eau douce 🐑"
 draft = false
 +++
 
-[Date] **28 décembre 2025**  
-[Durée] **30 minutes + 120 minutes**  
-[Numéro de la scène] **S4**  
-[Récapitulatif] **Tecoztli est de retour dans sa ville, avec le poison destiné au hors la loi retranché.**  
-[Objectifs] **Continuer l’histoire pour se débloquer.**
+> [Date] **28 décembre 2025**  
+> [Durée] **30 minutes + 120 minutes**  
+> [Numéro des scènes] **S4-S7**  
+> [Résumé de l'épisode précédent] **Tecoztli est de retour dans sa ville, avec le poison destiné au hors la loi retranché.**  
+> [Objectifs] **Continuer l’histoire pour se débloquer.**
 
 (note : on est toujours dans [S4] A l’entrée de la ville des nains, en fin d’après-midi)
 
