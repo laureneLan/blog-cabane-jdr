@@ -16,7 +16,7 @@ Dernier jour de la semaine. Voilà 15 jours que les cours ont débuté. Je comme
 ? Quel cours aujourd’hui ?  
 gen: cours -> Astronomie
 
-## [S10] Cours d’Astronomie / 18 sept. 
+### [S10] Cours d’Astronomie / 18 sept. 
 
 Ce matin : Astronomie.
 
@@ -36,7 +36,7 @@ gen : PNJ
 
 (note : Je pensais faire la scène au repas de midi, mais au vu des résultats je vais plutôt dire que je parle avec Arundel juste à la sortie des cours)
 
-## [S11] Après la sortie du cours, devant la salle de classe.
+### [S11] Après la sortie du cours, devant la salle de classe.
 
 \> Je discute avec Arundel de ce que j’ai découvert pendant le cours.
 
@@ -53,7 +53,7 @@ gen : PNJ
 ? Quel est le cours de l’après-midi ?  
 -> gen : cours -> Potions
 
-## [S12] Dans l’après-midi, Dans le salle de cours de Potions
+### [S12] Dans l’après-midi, Dans le salle de cours de Potions
 
 ? qui est le professeur ?  
 -> gen : PNJ  
@@ -73,7 +73,7 @@ d: Potions (1d20 + Esprit + Precision /r. Potions.) -> 13 + 2 + 1 = 16. => Réus
 
 \> Après le cours je vais à la bibliothèque chercher ce que je peux sur des voyages en cette période de l'année.
 
-## [S13] A la bibliothèque, après les cours
+### [S13] A la bibliothèque, après les cours
 
 J’ai fini par comprendre que la lecture des étoiles était cryptique.
 

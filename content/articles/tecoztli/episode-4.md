@@ -28,7 +28,7 @@ draft = false
 -> gen Événement aléatoire simple : (5) positif pour le PJ  
 -> muse : pitié + rancoeur
 
-## [S9] Chez Tecoztli, assez tard dans la nuit
+### [S9] Chez Tecoztli, assez tard dans la nuit
 
 => Chez moi, une lettre m'attend. Mon correspondant m'annonce la fin d'une rancœur qu'il avait envers moi.  
 (note : je traduit ça par l'ajout d'un contact d6 (connaissance))
@@ -60,7 +60,7 @@ sujet de la rancoeur : j'ai été choisi pour être dans le conseil quartier et 
 
 @Je vais dormir  
 
-## [S10] : le lendemain matin
+### [S10] : le lendemain matin
 
 ? météo ?  
 -> météo : soleil et nuages

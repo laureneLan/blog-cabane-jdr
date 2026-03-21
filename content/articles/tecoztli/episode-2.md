@@ -31,7 +31,7 @@ gen: ville
 
 (note : Q. pour Quartier, S. pour Site, F. pour Faction)
 
-## Lieux de la ville
+### Lieux de la ville
 
 Q. Bastion du refuge loyal : premier quartier de la ville (à avoir été construit), on y trouve tous les bâtiments importants.
 - S. Mur royal 
@@ -61,7 +61,7 @@ Q. Point du refuge
 Q. Temple des Explorateurs
 - S. Palais enfoui (site de fouille, controversé)
 
-## Factions 
+### Factions 
 
 F. Clique de la chaîne radieuse
 - influence : 0 
