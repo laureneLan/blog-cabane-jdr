@@ -8,7 +8,7 @@ draft = false
 
 > [Date] **28 décembre 2025**  
 > [Durée] **30 minutes + 120 minutes**  
-> [Numéro des scènes] **S4-S7**  
+> [Numéro des scènes] **S4-S8**  
 > [Résumé de l'épisode précédent] **Tecoztli est de retour dans sa ville, avec le poison destiné au hors la loi retranché.**  
 > [Objectifs] **Continuer l’histoire pour se débloquer.**
 
@@ -150,6 +150,8 @@ Je monte sur le pont sans que personne ne m’arrête. Mais au moment où je vai
 
 Il me dit qu’avant d’aller me coucher je dois aller aider à nettoyer la stalle des moutons. Ils ont clairement mangé un mauvais truc avant d’embarquer.  
 Je grommelle un assentiment et m'empresse de disparaître.
+
+### [S8] Dans la soute
 
 ? Est-ce qu'avant de m’occuper des moutons je peux aller discrètement dans la soute?  
 d: SENS + Filou (d6&d4)  
