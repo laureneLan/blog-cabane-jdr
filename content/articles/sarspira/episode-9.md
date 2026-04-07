@@ -1,7 +1,8 @@
 +++
 title = 'Sarspira - Épisode 9'
 date = 2025-03-15
-tags = ['F.A.C.E.S.', 'Sarspira']
+series = ["Sarspira"]
+tags = ["F.A.C.E.S.", "médiéval", "partie"]
 summary = "Passage par la case prison :police_car:"
 draft = false
 +++

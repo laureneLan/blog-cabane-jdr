@@ -1,7 +1,8 @@
 +++
 title = 'Sarspira - Épisode 3'
 date = 2024-05-06
-tags = ['Dungeon World', 'Sarspira']
+series = ["Sarspira"]
+tags = ["Dungeon World", "médiéval", "partie"]
 summary = "C'est pour ça que l'on est là : visite de donjon ! :black_cat: avec des copains :zombie:"
 draft = false
 +++

@@ -40,6 +40,26 @@
   {{- end }}
 
   <footer class="post-footer">
+    {{- with .GetTerms "series" }}
+    {{- range . }}
+    <div class="post-series">
+      <details>
+        <summary>
+          <span class="details">📖 <a href="{{ .Permalink }}"> Série {{ .LinkTitle }}</a></span>
+        </summary>
+        <div class="inner">
+          <ul>
+            {{- range .Pages.ByDate }}
+            <li{{- if eq .Permalink $.Permalink }} class="active"{{ end }}>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+            {{- end }}
+          </ul>
+        </div>
+      </details>
+    </div>
+    {{- end }}
+    {{- end }}
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}

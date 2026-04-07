@@ -1,7 +1,8 @@
 +++
 title = 'Lonelog - Notation pour les JDR solo'
 date = 2026-02-17
-tags = ['Vie de solorôliste']
+series = ["Outils de solorôliste"]
+tags = ["prise de notes", "outils"]
 summary = "Formalisation de la prise de notes pendant les parties (méthode Lonelog)"
 draft = false
 showToc = true

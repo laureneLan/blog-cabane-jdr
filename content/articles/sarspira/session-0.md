@@ -1,7 +1,8 @@
 +++
 title = 'Sarspira - Session 0'
 date = 2024-05-03
-tags = ['Dungeon World', 'Sarspira']
+series = ["Sarspira"]
+tags = ["Dungeon World", "médiéval", "partie"]
 summary = "Présentation et introduction à la prochaine partie. On change de décor et de climat :wink: "
 draft = false
 +++

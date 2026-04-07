@@ -1,8 +1,9 @@
 +++
 title = 'Alex Monroe - Session 0'
 date = 2024-06-02
-tags = ['Mélodie pour un meurtre', 'Alex Monroe']
-summary = "Présentation et introduction de la partie"
+series = ["Alex Monroe"]
+tags = ['Mélodie pour un meurtre', 'partie']
+summary = "Présentation et introduction"
 draft = false
 +++
 

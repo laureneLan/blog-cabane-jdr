@@ -1,7 +1,8 @@
 +++
 title = 'Sarspira - Épisode 12'
 date = 2025-04-13
-tags = ['F.A.C.E.S.', 'Sarspira']
+series = ["Sarspira"]
+tags = ["F.A.C.E.S.", "médiéval", "partie"]
 summary = "Observation et infiltration 🥷"
 draft = false
 +++

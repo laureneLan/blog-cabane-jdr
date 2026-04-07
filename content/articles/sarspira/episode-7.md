@@ -1,7 +1,8 @@
 +++
 title = 'Sarspira - Épisode 7'
 date = 2024-05-16
-tags = ['Dungeon World', 'Sarspira']
+series = ["Sarspira"]
+tags = ["Dungeon World", "médiéval", "partie"]
 summary = "Enfin de retour :house:"
 draft = false
 +++

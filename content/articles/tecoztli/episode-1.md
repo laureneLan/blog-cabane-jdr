@@ -1,7 +1,8 @@
 +++
 title = 'Tecoztli - Épisode 1'
 date = 2025-08-19
-tags = ['F.A.C.E.S.', 'Tecoztli']
+series = ["Tecoztli"]
+tags = ["F.A.C.E.S.", "médiéval", "partie"]
 summary = "Achat discret 🏺"
 draft = false
 +++

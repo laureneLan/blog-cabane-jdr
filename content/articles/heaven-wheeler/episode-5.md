@@ -1,7 +1,8 @@
 +++
 title = 'Heaven Wheeler - Épisode 5'
 date = 2026-04-06
-tags = ['Tu es un sorcier', 'Heaven Wheeler']
+series = ["Heaven Wheeler"]
+tags = ["Tu es un sorcier", "contemporain", "partie"]
 summary = "Les cours s'enchaînent."
 draft = false
 +++

@@ -1,7 +1,8 @@
 +++
 title = "Correspondance d'une sorcière débutante - Lettre 2"
 date = 2025-11-12
-tags = ["Village Witch", "Correspondance d'une sorcière débutante"]
+series = ["Correspondance d'une sorcière débutante"]
+tags = ["Village Witch", 'contemporain', "partie"]
 summary = "2nd lettre - Printemps 👓"
 draft = false
 +++

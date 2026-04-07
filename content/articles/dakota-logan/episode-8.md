@@ -1,7 +1,8 @@
 +++
 title = 'Dakota Logan - Épisode 8'
 date = 2024-04-27T10:00:00+02:00
-tags = ['Hitos', 'Western', 'Dakota Logan']
+series = ["Dakota Logan"]
+tags = ['Hitos', 'western', 'partie']
 draft = false
 summary = 'Course-poursuite :horse_racing: et entrainement au lasso :cowboy_hat_face:'
 +++

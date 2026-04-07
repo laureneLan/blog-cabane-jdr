@@ -1,7 +1,8 @@
 +++
 title = 'Sarspira - Épisode 4'
 date = 2024-05-10
-tags = ['Dungeon World', 'Sarspira']
+series = ["Sarspira"]
+tags = ["Dungeon World", "médiéval", "partie"]
 summary = "Je l'ai enfin eu ce nécromant ! mais à quel prix ? :money_with_wings:"
 draft = false
 +++

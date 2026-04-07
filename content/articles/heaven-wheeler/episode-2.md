@@ -1,7 +1,8 @@
 +++
 title = 'Heaven Wheeler - Épisode 2'
 date = 2025-03-09
-tags = ['Tu es un sorcier', 'Heaven Wheeler']
+series = ["Heaven Wheeler"]
+tags = ["Tu es un sorcier", "contemporain", "partie"]
 summary = "Arrivé à Skolhub :japanese_castle:"
 draft = false
 +++

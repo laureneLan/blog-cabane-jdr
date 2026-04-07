@@ -1,7 +1,8 @@
 +++
 title = 'Dakota Logan - Session 0'
 date = 2024-03-17
-tags = ['Hitos', 'Western', 'Dakota Logan']
+series = ["Dakota Logan"]
+tags = ['Hitos', 'western', 'partie']
 summary = "Présentation et introduction de la partie"
 draft = false
 +++

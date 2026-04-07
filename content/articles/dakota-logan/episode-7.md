@@ -1,7 +1,8 @@
 +++
 title = 'Dakota Logan - Épisode 7'
 date = 2024-04-26
-tags = ['Hitos', 'Western', 'Dakota Logan']
+series = ["Dakota Logan"]
+tags = ['Hitos', 'western', 'partie']
 summary = "Pas de duel au Far West ce soir :gun:"
 draft = false
 +++

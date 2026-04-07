@@ -11,6 +11,7 @@ pagination:
 
 taxonomies:
   tags: tags
+  series: series
 
 enableEmoji: true
 enableRobotsTXT: true
@@ -22,20 +23,20 @@ buildFuture: false
 menu:
   main:
     -
-      name: 'Etiquettes'
-      url: '/tags'
+      name: 'Séries & Étiquettes'
+      url: '/taxonomies/'
       weight: 1
     -
-      name: 'Archives'
-      url: '/archives/'
-      weight: 2
-    -
       name: 'A lire, à voir'
-      url: 'pages/a-lire-a-voir/'
-      weight: 3
+      url: '/pages/a-lire-a-voir/'
+      weight: 2
     -
       name: 'Générateurs'
       url: '/generateurs'
+      weight: 3
+    -
+      name: 'Archives'
+      url: '/archives/'
       weight: 4
 
 params:

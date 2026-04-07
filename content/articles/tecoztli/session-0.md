@@ -1,7 +1,8 @@
 +++
 title = 'Journal de campagne : Tecoztli'
 date = 2025-08-01
-tags = ['Tecoztli']
+series = ["Tecoztli"]
+tags = ["médiéval", "partie"]
 summary = "Présentation de la campagne Tecoztli"
 draft = false
 +++

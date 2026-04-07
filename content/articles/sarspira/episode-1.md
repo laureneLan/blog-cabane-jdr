@@ -1,7 +1,8 @@
 +++
 title = 'Sarspira - Épisode 1'
 date = 2024-05-04
-tags = ['Dungeon World', 'Sarspira']
+series = ["Sarspira"]
+tags = ["Dungeon World", "médiéval", "partie"]
 summary = "Alors à quoi il ressemble ce nouvel univers ? :mag:"
 draft = false
 +++

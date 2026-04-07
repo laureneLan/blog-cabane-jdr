@@ -1,7 +1,8 @@
 +++
 title = 'Heaven Wheeler - Prologue'
 date = 2025-02-15
-tags = ['Tu es un sorcier', 'Heaven Wheeler']
+series = ["Heaven Wheeler"]
+tags = ["Tu es un sorcier", "contemporain", "partie"]
 summary = "Il était une fois ... :books:"
 draft = false
 +++

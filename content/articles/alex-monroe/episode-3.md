@@ -1,7 +1,8 @@
 +++
 title = 'Alex Monroe - Épisode 3'
 date = 2024-06-23
-tags = ['Mélodie pour un meurtre', 'Alex Monroe']
+series = ["Alex Monroe"]
+tags = ["Mélodie pour un meurtre", "contemporain", "partie"]
 summary = "Enquête vers l'église :church:"
 draft = false
 +++

@@ -1,7 +1,8 @@
 +++
 title = 'Tecoztli - Épisode 3'
 date = 2025-12-28
-tags = ['Tecoztli', 'F.A.C.E.S.']
+series = ["Tecoztli"]
+tags = ["F.A.C.E.S.", "médiéval", "partie"]
 summary = "Moutons d’eau douce 🐑"
 draft = false
 +++

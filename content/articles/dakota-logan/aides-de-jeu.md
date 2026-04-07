@@ -1,7 +1,8 @@
 +++
 title = 'Dakota Logan - Aides De Jeu'
 date = 2024-04-27T11:00:00+02:00
-tags = ['Hitos', 'Western', 'Dakota Logan']
+series = ["Dakota Logan"]
+tags = ['Hitos', 'Western']
 summary = "La fiche de personnage, la carte :world_map:, les intrigues :spiral_notepad: et les PNJs rencontrés :people_holding_hands:"
 draft = false
 +++

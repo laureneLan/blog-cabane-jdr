@@ -1,7 +1,8 @@
 +++
 title = 'Dakota Logan - Épisode 4'
 date = 2024-04-21
-tags = ['Hitos', 'Western', 'Dakota Logan']
+series = ["Dakota Logan"]
+tags = ['Hitos', 'western', 'partie']
 summary = "Le shérif Whitelock débloque la situation"
 draft = false
 +++

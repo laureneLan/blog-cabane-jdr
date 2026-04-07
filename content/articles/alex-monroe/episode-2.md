@@ -1,7 +1,8 @@
 +++
 title = 'Alex Monroe - Épisode 2'
 date = 2024-06-16
-tags = ['Mélodie pour un meurtre', 'Alex Monroe']
+series = ["Alex Monroe"]
+tags = ["Mélodie pour un meurtre", "contemporain", "partie"]
 summary = "Je découvre un secret :notes:"
 draft = false
 +++

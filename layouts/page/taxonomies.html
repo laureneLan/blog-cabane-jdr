@@ -1,0 +1,35 @@
+{{- define "main" }}
+
+<header class="page-header">
+    <h1>Séries</h1>
+</header>
+
+<ul class="terms-tags terms-series">
+    {{- range site.Taxonomies.series.Alphabetical }}
+        {{- $count := .Count }}
+        {{- with site.GetPage (printf "/series/%s" (.Name | urlize)) }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Name }} ({{ $count }})</a>
+        </li>
+        {{- end }}
+    {{- end }}
+</ul>
+
+<br/>
+
+<header class="page-header">
+    <h1>Étiquettes</h1>
+</header>
+
+<ul class="terms-tags">
+    {{- range site.Taxonomies.tags.ByCount }}
+        {{- $count := .Count }}
+        {{- with site.GetPage (printf "/tags/%s" (.Name | urlize)) }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Name }} ({{ $count }})</a>
+        </li>
+        {{- end }}
+    {{- end }}
+</ul>
+
+{{- end }}
