@@ -4,11 +4,6 @@
         --gap: 14px;
     }
 
-    /* profile-mode */
-    .profile img {
-        transform: scale(0.85);
-    }
-
     /* archive */
     .archive-month {
         flex-direction: column;
@@ -38,9 +33,8 @@
 }
 
 @media (prefers-reduced-motion) {
-    /* terms; profile-mode; post-single; post-entry; post-entry; search; search */
+    /* terms; post-single; post-entry; search */
     .terms-tags a:active,
-    .button:active,
     .post-entry:active,
     .top-link,
     #searchResults .focus,
