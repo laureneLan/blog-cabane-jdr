@@ -3,11 +3,12 @@ title = 'A lire, à voir'
 date = 2025-03-18
 type = 'page'
 layout = 'singlepage'
+description="Liens vers des livres, articles, vidéos, etc. que j'ai trouvés interessants sur le jeu de rôle solo."
 draft = false
 showToc = true
 +++
 
-Liens vers des livres, articles, vidéos, etc. que j'ai trouvés interessants sur le jeu de rôle solo. Regardez, lisez et ne gardez que ce qui vous amuse :) 
+Regardez, lisez et ne conservez que ce qui vous amuse :) 
 
 Dernière mise à jour : _17 février 2026_.
 

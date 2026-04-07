@@ -17,6 +17,10 @@
     <span>
         Propulsé par
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a>
+        &nbsp;·&nbsp;
+        {{- with site.Home.OutputFormats.Get "rss" }}
+        <a href="{{ .RelPermalink }}" title="Flux RSS" aria-label="RSS">RSS</a>
+        {{- end }}
     </span>
 </footer>
 {{- end }}
