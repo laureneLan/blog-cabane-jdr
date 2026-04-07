@@ -37,7 +37,7 @@
     {{- if (and $index)}}, {{end }}
     {
       "@type": "ListItem",
-      "position": {{ add 1 $index  }},
+      "position": {{ math.Add 1 $index }},
       "name": {{ $bc_pg.Name }},
       "item": {{ $bc_pg.Permalink | safeHTML }}
     }
