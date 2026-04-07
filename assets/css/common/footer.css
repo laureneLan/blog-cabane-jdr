@@ -50,7 +50,7 @@
     color: var(--primary);
 }
 
-.top-link:focus,
-#theme-toggle:focus {
+.top-link:focus-visible,
+#theme-toggle:focus-visible {
     outline: 0;
 }
