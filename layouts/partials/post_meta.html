@@ -1,9 +1,8 @@
 {{- $scratch := newScratch }}
 
 {{- if not .Date.IsZero -}}
-{{ $mymonths := index hugo.Data.mois }}
-{{ $month := index $mymonths (printf "%d" .Date.Month) }}
-{{ $dateFR := (printf "%d %s %d" .Date.Day $month .Date.Year) }}
+{{- $months := slice "" "janvier" "février" "mars" "avril" "mai" "juin" "juillet" "août" "septembre" "octobre" "novembre" "décembre" -}}
+{{- $dateFR := printf "%d %s %d" .Date.Day (index $months .Date.Month) .Date.Year -}}
 {{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) ($dateFR))) }}
 {{- end }}
 
