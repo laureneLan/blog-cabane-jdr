@@ -54,7 +54,6 @@ params:
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: false # fil d'ariane
-  ShowCodeCopyButtons: false
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
