@@ -40,6 +40,7 @@ menu:
       weight: 4
 
 params:
+  images: ["images/blog.png"]
   author: Lan
   hideAuthor: true
   #bio: Les comptes rendus de mes parties de jeux de rôles. # sous-titre du blog
