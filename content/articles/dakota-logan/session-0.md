@@ -12,7 +12,7 @@ draft = false
 >
 > **Personnage :** Dakota *"Sourire"* Logan, une chasseuse de prime, inspirée du personnage de Lucky Luke.
 
-![Dakota Logan](/blog-cabane-jdr/images/dakota-logan/dakota-logan_1.jpg#center)
+{{< figure src="/blog-cabane-jdr/images/dakota-logan/dakota-logan_1.jpg" alt="Dakota Logan" align="center" caption="Dakota « Sourire » Logan, chasseuse de prime" >}}
 
 ## Introduction
 

@@ -26,7 +26,7 @@ Dans la posture du PJ, on pense comme le personnage, on ressent ses hésitations
 
 Ces deux postures ne s'alternent pas au hasard — elles s'inscrivent dans un mouvement rythmé, presque cyclique, qui structure la partie de bout en bout.
 
-![Boucle de jeu en jdr solo](/blog-cabane-jdr/images/vie-soloroliste/boucle_jeu.png#center)  
+{{< figure src="/blog-cabane-jdr/images/vie-soloroliste/boucle_jeu.png" alt="Boucle de jeu en jdr solo" align="center" caption="Schéma de la boucle de jeu en jdr solo" >}}
 
 Le jeu avance ainsi en boucles successives : description → action → résolution → nouvelle description.  
 Chaque étape appelle la suivante, et la résolution ne clôt rien — elle relance.

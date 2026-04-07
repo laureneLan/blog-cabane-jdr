@@ -36,7 +36,7 @@ Heaven a hâte de rejoindre cette école parce que tout sera nouveau et à déco
 
 Mais elle a aussi peur qu'ils la rejettent. Après tout, elle n'a pas grandi avec eux. C'est une étrangère.
 
-![Caractèristiques et compétences](/blog-cabane-jdr/images/heaven-wheeler/Heaven_Wheeler_fpd_extrait.png#center)
+{{< figure src="/blog-cabane-jdr/images/heaven-wheeler/Heaven_Wheeler_fpd_extrait.png" alt="Caractéristiques et compétences" align="center" caption="Extrait de la fiche de personnage d'Heaven Wheeler" >}}
 
 ----
 
@@ -84,7 +84,7 @@ Alors qu'elle attend le professeur à la terrasse d'un café, où il l'a fait pa
 > Petite chouette, dont les plumes ressemblent à des feuilles  
 > Vol silencieux, camouflée parmi les feuilles, détecte les plantes magiques autour d'elle  
 
-![Chouette-moussue juvénile](/blog-cabane-jdr/images/heaven-wheeler/feuille-au-vent_jeune.jpg#center)
+{{< figure src="/blog-cabane-jdr/images/heaven-wheeler/feuille-au-vent_jeune.jpg" alt="Chouette-moussue juvénile" align="center" caption="Feuille-au-vent, chouette-moussue juvénile — le familier d'Heaven" >}}
 
 ----
 

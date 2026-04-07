@@ -14,9 +14,9 @@ J'ai "traduit" deux fiches personnages (que vous connaissez) sous le système [F
 
 Les voici : 
 
-![Feuille de personnage Dakota Logan pour F.A.C.E.S.](/blog-cabane-jdr/images/dakota-logan/fdp_faces.png#center)
+{{< figure src="/blog-cabane-jdr/images/dakota-logan/fdp_faces.png" alt="Feuille de personnage Dakota Logan pour F.A.C.E.S." align="center" caption="Dakota Logan adaptée pour F.A.C.E.S." >}}
 
-![Feuille de personnage Sarspira pour F.A.C.E.S.](/blog-cabane-jdr/images/sarspira/fdp_faces.png#center)
+{{< figure src="/blog-cabane-jdr/images/sarspira/fdp_faces.png" alt="Feuille de personnage Sarspira pour F.A.C.E.S." align="center" caption="Sarspira adaptée pour F.A.C.E.S." >}}
 
 Merci de votre patience :)  
 De nouvelles histoires devraient voir le jour bientôt. 
