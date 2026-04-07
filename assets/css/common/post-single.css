@@ -266,8 +266,7 @@
     font-weight: normal;
 }
 
-.toc,
-.post-series {
+.toc {
     margin: 0 2px 40px 2px;
     border: 1px solid var(--border);
     background: var(--code-bg);
@@ -275,30 +274,25 @@
     padding: 0.4em;
 }
 
-.dark .toc,
-.dark .post-series {
+.dark .toc {
     background: var(--entry);
 }
 
-.toc details summary,
-.post-series details summary {
+.toc details summary{
     cursor: zoom-in;
     margin-inline-start: 20px;
 }
 
-.toc details[open] summary,
-.post-series details[open] summary {
+.toc details[open] summary {
     cursor: zoom-out;
 }
 
-.toc .details,
-.post-series .details {
+.toc .details {
     display: inline;
     font-weight: 500;
 }
 
-.toc .inner,
-.post-series .inner {
+.toc .inner{
     margin: 0 20px;
     padding: 10px 20px;
 }
@@ -307,27 +301,8 @@
     margin-inline-start: var(--gap);
 }
 
-.toc summary:focus,
-.post-series summary:focus {
+.toc summary:focus {
     outline: 0;
-}
-
-.post-series ol {
-    margin: 0;
-    padding-inline-start: 20px;
-}
-
-.post-series li {
-    margin-top: 5px;
-}
-
-.post-series li.active {
-    font-weight: 700;
-}
-
-.post-series li.active a {
-    pointer-events: none;
-    color: var(--primary);
 }
 
 .post-footer {
@@ -338,32 +313,45 @@
     margin-bottom: 10px;
 }
 
-.post-tags {
+.post-taxonomies {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
 }
 
-.post-tags li {
+.post-tags,
+.post-series {
+    display: contents;
+}
+
+.post-tags li,
+.post-series li {
     display: inline-block;
 }
 
 .post-tags a,
+.post-series a,
 .share-buttons,
 .paginav {
     border-radius: var(--radius);
     background: var(--code-bg);
 }
 
-.post-tags a {
+.post-tags a,
+.post-series a {
     display: block;
     padding: 5px 7px 0 7px;
     font-size: 14px;
     line-height: 34px;
     background: var(--border);
 }
+
 .post-tags a::before {
     content: "🏷 ";
+}
+
+.post-series a::before {
+    content: "📖 ";
 }
 
 .share-buttons {

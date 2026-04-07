@@ -40,32 +40,21 @@
   {{- end }}
 
   <footer class="post-footer">
-    {{- with .GetTerms "series" }}
-    {{- range . }}
-    <div class="post-series">
-      <details>
-        <summary>
-          <span class="details">📖 <a href="{{ .Permalink }}"> Série {{ .LinkTitle }}</a></span>
-        </summary>
-        <div class="inner">
-          <ul>
-            {{- range .Pages.ByDate }}
-            <li{{- if eq .Permalink $.Permalink }} class="active"{{ end }}>
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
-            {{- end }}
-          </ul>
-        </div>
-      </details>
+    <div class="post-taxonomies">
+      {{- $series := .Language.Params.Taxonomies.series | default "series" }}
+      <ul class="post-series">
+        {{- range ($.GetTerms $series) }}
+        <li><a href="{{ .Permalink }}">{{ .LinkTitle }} ({{ len .Pages }})</a></li>
+        {{- end }}
+      </ul>
+      {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+      <ul class="post-tags">
+        {{- range ($.GetTerms $tags) }}
+        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+        {{- end }}
+      </ul>
     </div>
-    {{- end }}
-    {{- end }}
-    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
-    <ul class="post-tags">
-      {{- range ($.GetTerms $tags) }}
-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-      {{- end }}
-    </ul>
+
     <hr/>
     {{- if (.Param "ShowPostNavLinks") }}
       {{- partial "post_nav_links.html" . }}
