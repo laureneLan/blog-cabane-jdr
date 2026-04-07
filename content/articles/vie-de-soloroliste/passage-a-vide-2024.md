@@ -1,8 +1,8 @@
 +++
 title = 'Passage à vide de 2024'
 date = 2025-02-05
-series = ["Vie de solorôliste", "Dakota Logan", "Sarspira"]
-tags = ['F.A.C.E.S.']
+series = ["Dakota Logan", "Sarspira"]
+tags = ['F.A.C.E.S.', 'vie de solorôliste']
 summary = "et reprise en 2025"
 draft = false
 +++

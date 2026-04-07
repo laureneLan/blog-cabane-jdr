@@ -1,7 +1,7 @@
 +++
 title = 'Planifier ses aventures'
 date = 2024-06-15
-series = ["Vie de solorôliste"]
+tags = ["vie de solorôliste"]
 summary = "Comment je vais planifier mes prochaines aventures."
 draft = false
 +++

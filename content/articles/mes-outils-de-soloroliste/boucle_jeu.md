@@ -1,7 +1,7 @@
 +++
 title = 'Postures et boucle de jeu'
 date = 2026-03-21
-series = ["Outils de solorôliste"]
+series = ["Mes outils de solorôliste"]
 tags = ["outils"]
 summary = "Formalisation des postures et de la boucle de jeu"
 draft = false

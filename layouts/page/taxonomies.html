@@ -5,11 +5,11 @@
 </header>
 
 <ul class="terms-tags terms-series">
-    {{- range site.Taxonomies.series.Alphabetical }}
+    {{- range site.Taxonomies.series.ByCount }}
         {{- $count := .Count }}
-        {{- with site.GetPage (printf "/series/%s" (.Name | urlize)) }}
+        {{- with .Page }}
         <li>
-            <a href="{{ .Permalink }}">{{ .Name }} ({{ $count }})</a>
+            <a href="{{ .Permalink }}">{{ .Title }} ({{ $count }})</a>
         </li>
         {{- end }}
     {{- end }}
@@ -22,11 +22,11 @@
 </header>
 
 <ul class="terms-tags">
-    {{- range site.Taxonomies.tags.ByCount }}
+    {{- range site.Taxonomies.tags.Alphabetical }}
         {{- $count := .Count }}
-        {{- with site.GetPage (printf "/tags/%s" (.Name | urlize)) }}
+        {{- with .Page }}
         <li>
-            <a href="{{ .Permalink }}">{{ .Name }} ({{ $count }})</a>
+            <a href="{{ .Permalink }}">{{ .Title }} ({{ $count }})</a>
         </li>
         {{- end }}
     {{- end }}
