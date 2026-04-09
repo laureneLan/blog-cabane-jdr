@@ -1,8 +1,8 @@
 - id: prev_page
-  translation: "Précédent"
+  translation: "Article Précédent"
 
 - id: next_page
-  translation: "Suivant"
+  translation: "Article Suivant"
 
 - id: read_time
   translation:
