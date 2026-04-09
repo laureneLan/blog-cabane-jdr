@@ -10,7 +10,7 @@
 </head>
 
 <body class="
-{{- if (or (eq .Kind `home`) (eq .Kind `term`) (eq .Layout `search`)) -}}
+{{- if (or (eq .Kind `home`) (eq .Kind `term`) (eq .Layout `search`) (eq .Kind `page`) (eq .Layout `singlepage`)) -}}
 {{- print " list" -}}
 {{- end -}}
 {{- if eq site.Params.defaultTheme `dark` -}}
