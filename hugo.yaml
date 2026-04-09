@@ -41,7 +41,9 @@ menu:
 
 params:
   images: ["images/blog.png"]
-  author: Lan
+  author:
+    name: Lan
+    email: cabanejdr+commentaires@gmail.com
   hideAuthor: true
   #bio: Les comptes rendus de mes parties de jeux de rôles. # sous-titre du blog
 
