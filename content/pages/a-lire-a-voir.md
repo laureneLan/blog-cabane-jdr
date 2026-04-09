@@ -15,7 +15,7 @@ Dernière mise à jour : _17 février 2026_.
 ## Lire
 ### En français
 #### Sur ce blog
-- [Série : Mes outils de solorôliste](/blog-cabane-jdr/series/outils-de-solor%C3%B4liste/)
+- [Série : Mes outils de solorôliste](/blog-cabane-jdr/series/mes-outils-de-solor%C3%B4liste/)
 #### OnirArts
 - [Le petit guide du jeu de rôle en solo](https://www.onirarts.com/solo/)
 - [Muses&Oracles](https://www.onirarts.com/Muses&Oracles/) - la version imprimé du jeu (livre)
