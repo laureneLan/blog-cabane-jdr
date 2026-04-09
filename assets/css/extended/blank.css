@@ -3,3 +3,33 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
+
+.reply-email {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    width: fit-content;
+    margin: 1.5rem auto;
+    padding: 0.5rem 1.5rem;
+    border: 2px solid var(--saison);
+    border-radius: var(--radius);
+    color: var(--primary);
+    text-align: center;
+    z-index: 0;
+}
+
+.reply-email::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 0;
+    background: var(--saison);
+    transition: height 0.3s ease;
+    z-index: -1;
+}
+
+.reply-email:hover::before {
+    height: 100%;
+}

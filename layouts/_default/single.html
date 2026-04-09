@@ -37,6 +37,8 @@
   {{- end }}
 
   <footer class="post-footer">
+    <a class="reply-email" id="reply-link" href="#">Répondre par email</a>
+    <script>(function(){document.getElementById('reply-link').href='mailto:'+atob('{{ $.Site.Params.author.email | base64Encode }}')+'?subject='+atob('{{ replace (printf "Re: %s" .Page.Title) "\"" "'" | base64Encode }}')})();</script>
     <div class="post-taxonomies">
       {{- $series := .Language.Params.Taxonomies.series | default "series" }}
       <ul class="post-series">
