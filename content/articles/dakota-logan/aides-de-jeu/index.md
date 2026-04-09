@@ -11,11 +11,11 @@ Leur état à la fin de la partie.
 
 ## Fiche de personnage
 
-{{< figure src="/blog-cabane-jdr/images/dakota-logan/fdp.png" alt="Dakota Logan - Fiche de personnage" align="center" caption="Fiche de personnage de Dakota Logan à la fin de la partie" >}}
+{{< figure src="fdp.png" alt="Dakota Logan - Fiche de personnage" align="center" caption="Fiche de personnage de Dakota Logan à la fin de la partie" >}}
 
 ## Carte
 
-{{< figure src="/blog-cabane-jdr/images/dakota-logan/carte.png" alt="Carte - Dakota Logan" align="center" caption="Carte de la région explorée par Dakota Logan" >}}
+{{< figure src="carte.png" alt="Carte - Dakota Logan" align="center" caption="Carte de la région explorée par Dakota Logan" >}}
 
 ## Liste d'intrigues
 

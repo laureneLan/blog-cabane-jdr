@@ -19,4 +19,4 @@ draft = false
 > [Remarques] **parties pour me remettre au jdr solo, et voir ce que ça donne en générant tous les éléments.**   
 
 
-{{< figure src="/blog-cabane-jdr/images/tecoztli/map.jpg" alt="Carte de la zone de jeu" align="center" caption="Carte de la zone de jeu, générée pour la campagne" >}}
+{{< figure src="map.jpg" alt="Carte de la zone de jeu" align="center" caption="Carte de la zone de jeu, générée pour la campagne" >}}

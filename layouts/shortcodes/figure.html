@@ -5,24 +5,41 @@
     {{- if .Get "link" -}}
         <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
     {{- end }}
-    <img loading="lazy" src="{{ .Get "src" }}{{- if eq (.Get "align") "center" }}#center{{- end }}"
-         {{- if or (.Get "alt") (.Get "caption") }}
-         alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
-         {{- end -}}
-         {{- with .Get "width" }} width="{{ . }}"{{ end -}}
-         {{- with .Get "height" }} height="{{ . }}"{{ end -}}
-    /> <!-- Closing img tag -->
+    {{- $src := .Get "src" -}}
+    {{- $alt := or (.Get "alt") (.Get "caption" | markdownify | plainify) -}}
+    {{- $suffix := cond (eq (.Get "align") "center") "#center" "" -}}
+    {{- if hasPrefix $src "/" -}}
+        <img loading="lazy" src="{{ $src }}{{ $suffix }}"
+             {{- with $alt }} alt="{{ . }}"{{ end }}
+             {{- with .Get "width" }} width="{{ . }}"{{ end }}
+             {{- with .Get "height" }} height="{{ . }}"{{ end }}
+        />
+    {{- else -}}
+        {{- $img := .Page.Resources.GetMatch $src -}}
+        {{- $sizes := slice 360 480 720 1080 -}}
+        {{- $srcset := slice -}}
+        {{- range $sizes -}}
+            {{- if le . $img.Width -}}
+                {{- $resized := $img.Resize (printf "%dx" .) -}}
+                {{- $srcset = $srcset | append (printf "%s %dw" $resized.RelPermalink .) -}}
+            {{- end -}}
+        {{- end -}}
+        {{- $srcset = $srcset | append (printf "%s %dw" $img.RelPermalink $img.Width) -}}
+        <img loading="lazy"
+             srcset="{{ delimit $srcset ", " }}"
+             sizes="{{ $img.Width }}px"
+             width="{{ $img.Width }}" height="{{ $img.Height }}"
+             src="{{ $img.RelPermalink }}{{ $suffix }}"
+             {{- with $alt }} alt="{{ . }}"{{ end }}
+        />
+    {{- end }}
     {{- if .Get "link" }}</a>{{ end -}}
     {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
         <figcaption>
-            {{ with (.Get "title") -}}
-                {{ . }}
-            {{- end -}}
+            {{- with .Get "title" }}{{ . }}{{ end -}}
             {{- if or (.Get "caption") (.Get "attr") -}}<p>
                 {{- .Get "caption" | markdownify -}}
-                {{- with .Get "attrlink" }}
-                    <a href="{{ . }}">
-                {{- end -}}
+                {{- with .Get "attrlink" }}<a href="{{ . }}">{{ end -}}
                 {{- .Get "attr" | markdownify -}}
                 {{- if .Get "attrlink" }}</a>{{ end }}</p>
             {{- end }}
