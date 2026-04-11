@@ -52,6 +52,11 @@ buildFuture = false
   url = '/archives/'
   weight = 4
 
+[[menu.main]]
+  name = 'À propos'
+  url = '/pages/a-propos'
+  weight = 5
+
 [params]
   mainSections = ['articles']
   ShowReadingTime = true
