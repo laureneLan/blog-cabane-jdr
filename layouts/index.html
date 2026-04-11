@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+{{ with .Site.Params.homeIntro }}
+<div class="home-intro">
+  <p>{{ . }}</p>
+</div>
+{{ end }}
+
+{{- $sections := .Site.Params.mainSections | default (slice "articles") -}}
+{{- $pages := where .Site.RegularPages "Section" "in" $sections -}}
+{{- $paginator := .Paginate $pages -}}
+
+<ul class="article-list">
+  {{ range $paginator.Pages }}
+  {{ partial "article-card.html" . }}
+  {{ end }}
+</ul>
+{{ partial "pagination.html" .Paginator }}
+{{ end }}

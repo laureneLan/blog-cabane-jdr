@@ -1,45 +1,7 @@
-{{- if not (.Param "hideFooter") }}
-<footer class="footer">
-    {{- if not site.Params.footer.hideCopyright }}
-        {{- if site.Copyright }}
-        <span>{{ site.Copyright | markdownify }}</span>
-        {{- else }}
-        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
-        {{- end }}
-        {{- print " · "}}
-    {{- end }}
-
-    {{- with site.Params.footer.text }}
-        {{ . | markdownify }}
-        {{- print " · "}}
-    {{- end }}
-
-    <span>
-        Propulsé par
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a>
-        &nbsp;·&nbsp;
-        {{- with site.Home.OutputFormats.Get "rss" }}
-        <a href="{{ .RelPermalink }}" title="Flux RSS" aria-label="RSS">RSS</a>
-        {{- end }}
-    </span>
+<footer role="contentinfo">
+  <a class="footer-site link-fx" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
+  <span class="footer-sep" aria-hidden="true">·</span>
+  <span>© {{ now.Year }}</span>
+  <span class="footer-sep" aria-hidden="true">·</span>
+  <a class="rss-link link-fx" href="{{ (.Site.Home.OutputFormats.Get "rss").Permalink }}" target="_blank" rel="noopener noreferrer">Flux RSS</a>
 </footer>
-{{- end }}
-
-{{- if (not site.Params.disableScrollToTop) }}
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
-{{- end }}
-
-{{- partial "extend_footer.html" . }}
-
-{{- $js := resources.Get "js/theme.js" | resources.Minify }}
-{{- if not site.Params.assets.disableFingerprinting }}
-{{- $js = $js | fingerprint }}
-<script defer crossorigin="anonymous" src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
-{{- else }}
-<script defer src="{{ $js.RelPermalink }}"></script>
-{{- end }}
-

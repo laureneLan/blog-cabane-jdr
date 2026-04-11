@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+{{ with .Site.Taxonomies.series }}
+<div class="taxonomy-block taxonomy-block--page">
+  <h1>Séries</h1>
+  <div class="tag-list">
+    {{ range .ByCount }}
+    <a class="tag-link link-fx" href="{{ .Page.RelPermalink }}">
+      {{ .Page.Name }} <span class="tag-count">({{ len .Pages }})</span>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+<hr>
+
+{{ with .Site.Taxonomies.tags }}
+<div class="taxonomy-block taxonomy-block--page">
+  <h1>Étiquettes</h1>
+  <div class="tag-list">
+    {{ range .Alphabetical }}
+    <a class="tag-link link-fx" href="{{ .Page.RelPermalink }}">
+      {{ .Page.Name }} <span class="tag-count">({{ len .Pages }})</span>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+{{ end }}

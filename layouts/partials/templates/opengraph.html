@@ -1,29 +1,20 @@
 <meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 {{- if .Params.cover.image -}}
 {{- if (ne .Params.cover.relative true) }}
 <meta property="og:image" content="{{ .Params.cover.image | absURL }}" />
-{{- else}}
-<meta property="og:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}" />
-{{- end}}
 {{- else }}
-
+<meta property="og:image" content="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}" />
+{{- end }}
+{{- else }}
 {{- $images := partial "templates/_funcs/get-page-images" . -}}
 {{- range first 6 $images }}
 <meta property="og:image" content="{{ .Permalink }}" />
 {{ end -}}
 {{- end }}
-
-{{- with .Params.audio }}<meta property="og:audio" content="{{ . }}" />{{ end }}
-{{- with .Params.locale }}<meta property="og:locale" content="{{ . }}" />{{ end }}
-{{- with site.Params.title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
-{{- with .Params.videos }}{{- range . }}
-<meta property="og:video" content="{{ . | absURL }}" />
-{{ end }}{{ end }}
-
-{{- /* If it is part of a series, link to related articles */}}
+{{- with site.Title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
 {{- $permalink := .Permalink }}
 {{- $siteSeries := site.Taxonomies.series }}
 {{- if $siteSeries }}
@@ -34,4 +25,3 @@
   {{- end }}
 {{ end }}{{ end }}
 {{- end }}
-

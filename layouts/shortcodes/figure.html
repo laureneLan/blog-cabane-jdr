@@ -1,21 +1,19 @@
-<figure{{ if or (.Get "class") (eq (.Get "align") "center") }} class="
-           {{- if eq (.Get "align") "center" }}align-center {{ end }}
-           {{- with .Get "class" }}{{ . }}{{- end }}"
-{{- end -}}>
-    {{- if .Get "link" -}}
-        <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
-    {{- end }}
+<figure class="figure{{ with .Get "class" }} {{ . }}{{ end }}">
     {{- $src := .Get "src" -}}
     {{- $alt := or (.Get "alt") (.Get "caption" | markdownify | plainify) -}}
-    {{- $suffix := cond (eq (.Get "align") "center") "#center" "" -}}
     {{- if hasPrefix $src "/" -}}
-        <img loading="lazy" src="{{ $src }}{{ $suffix }}"
+        {{- if .Get "link" -}}<a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>{{- end -}}
+        <img loading="lazy" src="{{ $src }}"
              {{- with $alt }} alt="{{ . }}"{{ end }}
              {{- with .Get "width" }} width="{{ . }}"{{ end }}
              {{- with .Get "height" }} height="{{ . }}"{{ end }}
         />
+        {{- if .Get "link" }}</a>{{ end -}}
     {{- else -}}
         {{- $img := .Page.Resources.GetMatch $src -}}
+        {{- if not $img -}}
+        <figcaption class="figure-missing">⚠ Image manquante : {{ $src }}</figcaption>
+        {{- else -}}
         {{- $sizes := slice 360 480 720 1080 -}}
         {{- $srcset := slice -}}
         {{- range $sizes -}}
@@ -25,23 +23,25 @@
             {{- end -}}
         {{- end -}}
         {{- $srcset = $srcset | append (printf "%s %dw" $img.RelPermalink $img.Width) -}}
+        {{- if .Get "link" -}}<a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>{{- end -}}
         <img loading="lazy"
              srcset="{{ delimit $srcset ", " }}"
-             sizes="{{ $img.Width }}px"
+             sizes="(max-width: {{ $img.Width }}px) 100vw, {{ $img.Width }}px"
              width="{{ $img.Width }}" height="{{ $img.Height }}"
-             src="{{ $img.RelPermalink }}{{ $suffix }}"
+             src="{{ $img.RelPermalink }}"
              {{- with $alt }} alt="{{ . }}"{{ end }}
         />
+        {{- if .Get "link" }}</a>{{ end -}}
+        {{- end -}}
     {{- end }}
-    {{- if .Get "link" }}</a>{{ end -}}
     {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
         <figcaption>
-            {{- with .Get "title" }}{{ . }}{{ end -}}
-            {{- if or (.Get "caption") (.Get "attr") -}}<p>
+            {{- with .Get "title" }}<span class="figure-title">{{ . }}</span>{{ end -}}
+            {{- if or (.Get "caption") (.Get "attr") -}}
                 {{- .Get "caption" | markdownify -}}
                 {{- with .Get "attrlink" }}<a href="{{ . }}">{{ end -}}
                 {{- .Get "attr" | markdownify -}}
-                {{- if .Get "attrlink" }}</a>{{ end }}</p>
+                {{- if .Get "attrlink" }}</a>{{ end -}}
             {{- end }}
         </figcaption>
     {{- end }}

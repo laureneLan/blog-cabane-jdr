@@ -1,0 +1,7 @@
+{{ partial "collapsible-box.html" (dict
+  "id"          (printf "encart-body-%d" .Ordinal)
+  "toggle_id"   (printf "encart-toggle-%d" .Ordinal)
+  "title"       (.Get "titre")
+  "extra_class" "encart-body"
+  "body_html"   .Inner
+) }}

@@ -5,12 +5,15 @@ series = ["Mes outils de solorôliste"]
 tags = ["outils"]
 summary = "Faire évoluer ses outils de soloroliste."
 draft = false
-showToc = true
 +++
 
 De quoi avez-vous besoin pour jouer en solo la première fois ? 
 
 De deux choses : une pièce de monnaie et ... vous. 
+
+{{< toc >}}
+
+---
 
 ## Un oracle : Pour répondre aux questions fermées
 

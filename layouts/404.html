@@ -1,3 +1,7 @@
-{{- define "main" }}
-<div class="not-found">404</div>
-{{- end }}{{/* end main */ -}}
+{{ define "main" }}
+<div class="not-found">
+  <p class="not-found-code">404</p>
+  <p class="not-found-msg">Cette page n'existe pas (ou n'existe plus).</p>
+  <a class="not-found-link" href="{{ .Site.BaseURL }}">← Retour à la liste des articles</a>
+</div>
+{{ end }}

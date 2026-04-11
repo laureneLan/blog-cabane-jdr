@@ -1,68 +1,44 @@
-{{- define "main" }}
-
-<article class="post-single">
-  <header class="post-header">
-    {{ partial "breadcrumbs.html" . }}
-    <h1 class="post-title entry-hint-parent">
-      {{ .Title }}
-      {{- if .Draft }}
-      <span class="entry-hint" title="Draft">
-        DRAFT
+{{ define "main" }}
+<article>
+  <header class="article-header">
+    <h1 class="article-title">{{ .Title }}</h1>
+    <div class="article-meta">
+      <span>
+        {{ partial "meta-icon.html" "date" }}
+        {{ partial "date-fr.html" .Date }}
       </span>
-      {{- end }}
-    </h1>
-    {{- if .Description }}
-    <div class="post-description">
-      {{ .Description }}
+      {{ if .Site.Params.ShowWordCount }}
+      <span>
+        {{ partial "meta-icon.html" "words" }}
+        {{ .WordCount }} mots
+      </span>
+      {{ end }}
+      {{ if .Site.Params.ShowReadingTime }}
+      <span>
+        {{ partial "meta-icon.html" "time" }}
+        environ {{ .ReadingTime }} minute{{ if gt .ReadingTime 1 }}s{{ end }} de lecture
+      </span>
+      {{ end }}
     </div>
-    {{- end }}
-    {{- if not (.Param "hideMeta") }}
-    <div class="post-meta">
-      {{- partial "post_meta.html" . -}}
-    </div>
-    {{- end }}
   </header>
-  {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
-  {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
-  {{- if (.Param "ShowToc") }}
-  {{- partial "toc.html" . }}
-  {{- end }}
 
-  {{- if .Content }}
-  <div class="post-content">
-    {{- if not (.Param "disableAnchoredHeadings") }}
-    {{- partial "anchored_headings.html" .Content -}}
-    {{- else }}{{ .Content }}{{ end }}
+  <div class="prose">
+    {{ .Content }}
   </div>
-  {{- end }}
 
-  <footer class="post-footer">
-    <a class="reply-email" id="reply-link" href="#">Répondre par email</a>
-    <script>(function(){document.getElementById('reply-link').href='mailto:'+atob('{{ $.Site.Params.author.email | base64Encode }}')+'?subject='+atob('{{ replace (printf "Re: %s" .Page.Title) "\"" "'" | base64Encode }}')})();</script>
-    <div class="post-taxonomies">
-      {{- $series := .Language.Params.Taxonomies.series | default "series" }}
-      <ul class="post-series">
-        {{- range ($.GetTerms $series) }}
-        <li><a href="{{ .Permalink }}">{{ .LinkTitle }} ({{ len .Pages }})</a></li>
-        {{- end }}
-      </ul>
-      {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
-      <ul class="post-tags">
-        {{- range ($.GetTerms $tags) }}
-        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-        {{- end }}
-      </ul>
-    </div>
+  <footer class="article-footer">
+    {{ with .Site.Params.contact }}
+    <a class="btn-contact link-fx" id="reply-link" href="#"
+       data-m="{{ . | base64Encode }}"
+       data-s="{{ replace (printf "Re: %s" $.Page.Title) "\"" "'" | base64Encode }}">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><rect x="1" y="3" width="14" height="10" rx="1.5"/><path d="M1 4l7 5 7-5"/></svg>
+      Échanger à propos de l'article
+    </a>
+    {{ end }}
 
-    <hr/>
-    {{- if (.Param "ShowPostNavLinks") }}
-      {{- partial "post_nav_links.html" . }}
-    {{- end }}
+    {{ partial "article-series.html" . }}
+    {{ partial "article-tags.html" . }}
+    {{ partial "article-nav.html" . }}
   </footer>
-
-  {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  {{- end }}
 </article>
-
-{{- end }}{{/* end main */}}
+{{ end }}

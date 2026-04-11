@@ -1,0 +1,36 @@
+{{ with .Params.series }}
+<div class="taxonomy-block">
+  <p class="taxonomy-label">Série</p>
+  {{ range . }}
+    {{ $serieName := . }}
+    {{ $serie := false }}
+    {{ range ($.Site.GetPage "/series").Pages }}
+      {{ if eq .Name $serieName }}{{ $serie = . }}{{ end }}
+    {{ end }}
+    {{ if $serie }}
+      {{ $pages := $serie.Pages.ByDate }}
+      {{ $currentURL := $.Permalink }}
+      <div class="serie-nav-row">
+        {{ range $i, $p := $pages }}
+          {{ if eq $p.Permalink $currentURL }}
+            {{ if gt $i 0 }}
+              {{ $prev := index $pages (sub $i 1) }}
+              <a class="serie-arrow link-fx" href="{{ $prev.RelPermalink }}" rel="prev" aria-label="Épisode précédent de {{ $serie.Name }}">←</a>
+            {{ else }}
+              <span class="serie-arrow serie-arrow--off" aria-hidden="true">←</span>
+            {{ end }}
+            <a class="tag-link link-fx" href="{{ $serie.RelPermalink }}">{{ $serie.Name }}</a>
+            {{ $nextIdx := add $i 1 }}
+            {{ if lt $nextIdx (len $pages) }}
+              {{ $next := index $pages $nextIdx }}
+              <a class="serie-arrow link-fx" href="{{ $next.RelPermalink }}" rel="next" aria-label="Épisode suivant de {{ $serie.Name }}">→</a>
+            {{ else }}
+              <span class="serie-arrow serie-arrow--off" aria-hidden="true">→</span>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+    {{ end }}
+  {{ end }}
+</div>
+{{ end }}

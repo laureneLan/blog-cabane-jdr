@@ -1,25 +1,36 @@
 +++
 title = 'A lire, à voir'
 date = 2025-03-18
-type = 'page'
+type = 'pages'
 layout = 'singlepage'
-description="Liens vers des livres, articles, vidéos, etc. que j'ai trouvés interessants sur le jeu de rôle solo."
 draft = false
-showToc = true
 +++
+
+Liens vers des livres, articles, vidéos, etc. que j'ai trouvés interessants sur le jeu de rôle solo.
 
 Regardez, lisez et ne conservez que ce qui vous amuse :) 
 
 Dernière mise à jour : _17 février 2026_.
 
+{{< toc >}}
+
+---
+
 ## Lire
+
 ### En français
+
 #### Sur ce blog
+
 - [Série : Mes outils de solorôliste](/blog-cabane-jdr/series/mes-outils-de-solor%C3%B4liste/)
+
 #### OnirArts
+
 - [Le petit guide du jeu de rôle en solo](https://www.onirarts.com/solo/)
 - [Muses&Oracles](https://www.onirarts.com/Muses&Oracles/) - la version imprimé du jeu (livre)
+
 ### En anglais
+
 - [Exploring the Solo RPG Spectrum](https://soloist.substack.com/p/exploring-the-solo-rpg-spectrum)
 - [Rolling for Initiative I: Mastering the Mindset of Solo RPGs](https://substack.com/inbox/post/158736321)
 - [Anatomy of a Solo RPG Scene - The Ironsworn Flow of Play](https://croakerrpgs.substack.com/p/anatomy-of-a-solo-rpg-scene-the-ironsworn)

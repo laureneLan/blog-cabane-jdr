@@ -11,9 +11,7 @@ JDR : [5 min en défunte compagnie](https://b0ng.itch.io/5-min-en-dfunte-compagn
 
 -----
 
-{{< rawhtml >}}
-<div class="typewriter">
-{{< /rawhtml >}}
+{{< typewriter >}}
 
 Les yeux dans le vague, je touille distraitement mon café noir en écoutant mon client du jour. Certains n'attendent pas que je sois arrivé à mon bureau pour me solliciter. Ajouter un verrou n'aurait rien changé. Et pour cause : aucun verrou n'a jamais arrêté un fantôme.
 
@@ -29,6 +27,4 @@ Mes rêves m'emmènent sur un bateau, en pleine tempête. Je reconnais le marin 
 
 Le soleil n'est pas encore levé qu'un client m'attend déjà.
 
-{{< rawhtml >}}
-</div>
-{{< /rawhtml >}}
+{{< /typewriter >}}

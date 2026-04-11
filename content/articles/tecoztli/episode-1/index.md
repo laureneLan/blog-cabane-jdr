@@ -5,16 +5,21 @@ series = ["Tecoztli"]
 tags = ["F.A.C.E.S.", "médiéval", "partie"]
 summary = "Achat discret 🏺"
 draft = false
+
 +++
-    
-> [Date] **19-08-2025**  
-> [Durée] **3 heures**  
-> [Numéro des scènes] **S1-S3**  
-> [Objectifs] **Reprendre le jdr solo**  
+
+{{% encart titre="Fiche de session" %}}
+
+**Date** 19-08-2025  
+**Durée** 3 heures  
+**Scènes** S1-S3  
+**Objectifs** Reprendre le jdr solo
+
+{{% /encart %}}
 
 [PJ: Tecoztli | diplomate naine | objectif : veut devenir une chef respectée]
-    
-### [S1]
+
+{{< scene num="S1" >}}
 
 ? Quand se passe la scène ?  
 -> 1/5  
@@ -33,7 +38,7 @@ draft = false
 ? PCP[^1] ?  
 -> oui (1)
 
-### [S2] à l'intérieur de l'auberge
+{{< scene num="S2" titre="À l'intérieur de l'auberge" >}}
 
 ? Est ce que le vendeur est présent ?  
 -> oui et  
@@ -122,7 +127,7 @@ gen: Interrupt scene 4 => NPC Random Event
 gen: NPC Random Event 7 => NPC Positive  
 => Alors que Tecoztli sort de l'auberge, elle voit quelque chose de positif pour un PNJ.
 
-### [S3] Devant l'auberge
+{{< scene num="S3" titre="Devant l'auberge" >}}
 
 ? De quel PNJ il s'agit ?  
 -> tbl: pnj[^2] 8 => voyageur  

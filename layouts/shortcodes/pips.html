@@ -1,0 +1,1 @@
+{{- $rempli := .Get "rempli" | int -}}{{- $total := .Get "total" | int -}}<span class="inline-pips" aria-label="{{ $rempli }} sur {{ $total }}">{{- range seq $total -}}<span class="pip{{ if le . $rempli }} filled{{ end }}"></span>{{- end -}}{{- with .Get "unite" -}}<span class="horloge-unite"> {{- . -}}</span>{{- end -}}</span>

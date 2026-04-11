@@ -1,0 +1,73 @@
+baseURL = 'https://laurenelan.github.io/blog-cabane-jdr'
+languageCode = 'fr-fr'
+title = 'Cabane JDR'
+defaultContentLanguage = 'fr'
+
+enableEmoji = true
+enableRobotsTXT = true
+
+buildDrafts = false
+buildExpired = false
+buildFuture = false
+
+[pagination]
+  disableAliases = false
+  pagerSize = 5
+  path = 'page'
+
+[taxonomies]
+  tags = 'tags'
+  series = 'series'
+
+[[menu.main]]
+  name = 'Séries & Étiquettes'
+  url = '/taxonomies/'
+  weight = 1
+
+[[menu.main]]
+  name = 'A lire, à voir'
+  url = '/pages/a-lire-a-voir/'
+  weight = 2
+
+[[menu.main]]
+  name = 'Générateurs'
+  url = '/pages/generateurs'
+  weight = 3
+  identifier = 'generateurs'
+
+[[menu.main]]
+  name = 'Potions'
+  url = '/pages/generateurs/potions'
+  weight = 1
+  parent = 'generateurs'
+
+[[menu.main]]
+  name = 'Espèces MédFan'
+  url = '/pages/generateurs/especes_medfan'
+  weight = 2
+  parent = 'generateurs'
+
+[[menu.main]]
+  name = 'Archives'
+  url = '/archives/'
+  weight = 4
+
+[params]
+  mainSections = ['articles']
+  ShowReadingTime = true
+  ShowWordCount = true
+  description = 'Rôliste solo minimaliste' # dans la balise meta
+  keywords = ['jeu de rôle', 'jeu de rôle solo', 'jdr', 'jdr solo', 'solotaisie', 'cr', 'compte rendu de partie']
+  author = 'Lan'
+  contact = 'cabanejdr+commentaires@gmail.com'
+  homeIntro = 'Je suis une rôliste solo minimaliste. Vous trouverez sur ce blog les notes prises pendant mes parties.'
+
+  [params.assets]
+    favicon = 'images/favicon.ico'
+    images = ['images/blog.png']
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[minify]
+  minifyOutput = true #tout est minifié

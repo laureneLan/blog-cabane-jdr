@@ -1,13 +1,21 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = {{ .Date }}
-series = [""]
-tags = [""]
+date = '{{ .Date }}'
+series = []
+tags = []
 summary = ""
 draft = true
 
-[cover]
-  image = ""
-  alt = ""
-  caption = ""
+[session]
+infos = [
+  {"Date"             = "{{ .Date }}"},
+  {"Durée"            = ""},
+  {"Scènes"           = ""},
+  {"Objectifs"        = ""},
+  {"Résumé précédent" = ""},
+]
+fils = [""]
+horloges = [
+  {label = "", total = 4, rempli = 0, unite = ""},
+]
 +++

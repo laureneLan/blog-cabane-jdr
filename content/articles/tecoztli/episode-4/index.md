@@ -5,21 +5,27 @@ series = ["Tecoztli"]
 tags = ["F.A.C.E.S.", "médiéval", "partie"]
 summary = "Reprise 👣"
 draft = false
+
 +++
 
-> [Date] **1 mars 2026**  
-> [Durée] **3h**  
-> [Numéro des scènes] **S9-S10**  
-> [Objectifs] **Reprendre la série. Faire une partie.**  
-> [Résumé de l'épisode précédent] **Tecoztli est de retour dans sa ville, avec le poison destiné au hors la loi retranché.**  
-> [Fils]  
-> - Devenir une bonne chef  
-> - Que va faire le marchand louche ?  
->
-> [Horloge]  
-> - Effet du poison : o o o o (jours)  
+{{% encart titre="Fiche de session" %}}
 
----
+**Date** 1 mars 2026  
+**Durée** 3h  
+**Scènes** S9–S10  
+**Objectifs** Reprendre la série. Faire une partie.  
+**Résumé précédent** Tecoztli est de retour dans sa ville, avec le poison destiné au hors-la-loi retranché.
+
+**Fils narratifs**
+
+- Devenir une bonne cheffe
+- Que va faire le marchand louche ?
+
+**Horloges**
+
+Effet du poison {{% pips total="4" rempli="0" unite="jours" %}}
+
+{{% /encart %}}
 
 @Je rentre chez moi dormir
 
@@ -29,7 +35,7 @@ draft = false
 -> gen Événement aléatoire simple : (5) positif pour le PJ  
 -> muse : pitié + rancoeur
 
-### [S9] Chez Tecoztli, assez tard dans la nuit
+{{< scene num="S9" titre="Chez Tecoztli, assez tard dans la nuit" >}}
 
 => Chez moi, une lettre m'attend. Mon correspondant m'annonce la fin d'une rancœur qu'il avait envers moi.  
 (note : je traduit ça par l'ajout d'un contact d6 (connaissance))
@@ -61,18 +67,18 @@ sujet de la rancoeur : j'ai été choisi pour être dans le conseil quartier et 
 
 @Je vais dormir  
 
-### [S10] : le lendemain matin
+{{< scene num="S10" titre="Le lendemain matin" >}}
 
 ? météo ?  
 -> météo : soleil et nuages
 
 ? Quelle est ma tâche prioritaire de la journée ?  
-> 1 : faire un compte rendu de mes actions de la veille (note : si ce n'est pas choisi, je considère que je l'ai fait sans que ma famille soit au courant)  
-> 2 : assister à un conseil de clan  
-> 3 : accomplir une mission pour ma famille  
-> 4 : assister pendant une réunion avec un/d' autre(s) clan(s)  
-> 5 : rien (note : elle ira voir Mizquitl dans ce cas)  
-> 6 : se renseigner sur une rumeur d'importance qu'elle a entendue avant son départ 
+1. faire un compte rendu de mes actions de la veille (note : si ce n'est pas choisi, je considère que je l'ai fait sans que ma famille soit au courant)  
+2. assister à un conseil de clan  
+3. accomplir une mission pour ma famille  
+4. assister pendant une réunion avec un/d' autre(s) clan(s)  
+5. rien (note : elle ira voir Mizquitl dans ce cas)  
+6. se renseigner sur une rumeur d'importance qu'elle a entendue avant son départ  
 
 -> tbl : (6) -> enquête sur rumeur  
 

@@ -1,0 +1,12 @@
+{{ with .Params.tags }}
+<div class="taxonomy-block">
+  <p class="taxonomy-label">Étiquettes</p>
+  <div class="tag-list">
+    {{ range . }}
+    {{ with $.Site.GetPage (printf "/tags/%s" (. | urlize)) }}
+    <a class="tag-link link-fx" href="{{ .RelPermalink }}">{{ .Name }}</a>
+    {{ end }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}

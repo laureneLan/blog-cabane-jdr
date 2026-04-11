@@ -1,0 +1,20 @@
+{{- $id          := .id -}}
+{{- $toggle_id   := .toggle_id -}}
+{{- $title       := .title -}}
+{{- $body_html   := .body_html -}}
+{{- $body_partial := .body_partial -}}
+{{- $body_ctx    := .body_ctx -}}
+{{- $extra_class := .extra_class -}}
+<div class="session-block-a">
+  <button class="session-toggle link-fx" aria-expanded="true" aria-controls="{{ $id }}" id="{{ $toggle_id }}">
+    <span>{{ $title }}</span>
+    <span class="toggle-arrow" aria-hidden="true">▾</span>
+  </button>
+  <div class="session-body-a open" id="{{ $id }}" role="region" aria-labelledby="{{ $toggle_id }}">
+    <div class="session-body-inner{{ with $extra_class }} {{ . }}{{ end }}">
+      {{- if $body_html }}{{ $body_html }}
+      {{- else if $body_partial }}{{ partial $body_partial $body_ctx }}
+      {{- end -}}
+    </div>
+  </div>
+</div>

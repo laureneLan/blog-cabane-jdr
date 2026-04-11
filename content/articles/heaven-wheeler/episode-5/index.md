@@ -5,15 +5,18 @@ series = ["Heaven Wheeler"]
 tags = ["Tu es un sorcier", "contemporain", "partie"]
 summary = "Les cours s'enchaînent."
 draft = false
+
 +++
 
-> [Date] **06-04-2026**  
-> [Durée] **2h**  
-> [Numéro des scènes] **S14-S17**  
-> [Objectifs] **Débloquer l'histoire.**  
-> [Résumé de l'épisode précédent] **Heaven assiste à un cours d' Astronomie, pendant lequel elle découvre un étrange indice à propos d'un chemin éprouvant interrompu. L'après-midi est consacré à un cours de potion contre la toux.** 
+{{% encart titre="Fiche de session" %}}
 
----
+**Date** 06-04-2026  
+**Durée** 2h  
+**Scènes** S14–S17  
+**Objectifs** Débloquer l'histoire.  
+**Résumé précédent** Heaven assiste à un cours d'Astronomie, pendant lequel elle découvre un étrange indice à propos d'un chemin éprouvant interrompu. L'après-midi est consacré à un cours de potion contre la toux.
+
+{{% /encart %}}
 
 ? combien de jours après la scène précédente ?  
 -> d8: 7  
@@ -29,7 +32,7 @@ draft = false
 ? quel est le cours du matin ?  
 -> botanique (note : tiré au hasard dans les cours qui n'ont pas encore été joué)
 
-### [S14] Serre de botanique, Vendredi 25 septembre, cours du matin
+{{< scene num="S14" titre="Serre de botanique, Vendredi 25 septembre, cours du matin" >}}
 
 => Heaven assiste au cours de Botanique dans une des serres. Elle se frotte les mains l'une contre l'autre en soufflant dessus pour essayer de se réchauffer un peu. Heureusement ils ont pu garder leur cape.
 
@@ -58,14 +61,12 @@ d: 1d20+esprit+perception/précision / relance Botanique (2) - test étendu - di
 -> N  
 => Elle range rapidement ces affaires et va rejoindre d'autres filles de Aer.
 
----
-
 ? Est-ce que tout se passe comme prévu jusqu'au prochain cours ?  
 -> (8) interupt scene  
 -> (3) simple random event  
 -> (3) current context
 
-### [S15] Pendant le repas de midi, dans la grande salle.
+{{< scene num="S15" titre="Pendant le repas de midi, dans la grande salle" >}}
 
 ? est ce que Heaven mange seule ?  
 -> OE  
@@ -87,8 +88,6 @@ Pendant la pause de repas, Heaven surprend une conversation entre deux élèves 
 
 Heaven choisit de ne pas intervenir pour le moment.
 
----
-
 ? quel est le cours de l'après-midi ?  
 -> Métamorphose (hasard parmis ceux pas encore joué)
 
@@ -96,7 +95,7 @@ Heaven choisit de ne pas intervenir pour le moment.
 -> (5) altered scene  
 -> (8) roll twice : (6) add an object, (4) increase an activity
 
-### [S16] Salle de classe de métamorphose, après-midi
+{{< scene num="S16" titre="Salle de classe de métamorphose, après-midi" >}}
 
 ? qui est le professeur de métamorphose ?  
 -> gen pnj : Homme, sang-mélé. Marlow Elder. Coiffure élaborée, repoussant, nonchalant.
@@ -116,8 +115,6 @@ d: 1d20+érudition(point restant)+Magie / relance métamorphose (0) - difficult�
 -> 8+1+1 = 10  
 => Heaven n'arrive à métamorphoser l'objet qu'une seconde. Le professeur ne lui donne pas de points mais ne lui en enlève pas non plus car elle ne participe pas aux bavardages des autres.
 
----
-
 ? est-ce que tout se passe comme prévu le soir ?  
 -> (6) altered scene  
 -> (5) remove an object
@@ -126,7 +123,7 @@ d: 1d20+érudition(point restant)+Magie / relance métamorphose (0) - difficult�
 -> tbl (repas/étude/nuit) -> (1) repas  
 -> muse (objet) : chandelle
 
-### [S17] Dans la grande salle pour le repas du soir
+{{< scene num="S17" titre="Dans la grande salle pour le repas du soir" >}}
 
 A l'heure du repas du soir, la grande salle est plongée dans la noir. Les élèves et les professeurs utilisent leur baguette pour s'éclairer.  
 Peut-être est-ce un test pour les premières années ?
@@ -159,10 +156,10 @@ tbl :
 > (3) se balader dans le parc avec Feuille-au-vent  
 > (4) aller rendre visite au garde chasse centaure (et lui parler de ses recherches ?)  
 > (5) essayer de parler avec d'autres élèves  
-> (6) chercher à écouter les autres pour avoir une rumeur sur ce qui se passe d'intéressant dans l’école
+> (6) chercher à écouter les autres pour avoir une rumeur sur ce qui se passe d'intéressant dans l'école
 
 ---
 
-### Note de fin de partie
+## Note de fin de partie
 
-C'est toujours aussi laborieux. Je ne sais pas comment la rendre meilleure (plus dynamique et intéressante). :/ 
+C'est toujours aussi laborieux. Je ne sais pas comment la rendre meilleure (plus dynamique et intéressante). :/

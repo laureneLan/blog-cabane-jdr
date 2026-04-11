@@ -1,0 +1,16 @@
+{{ if or .PrevInSection .NextInSection }}
+<nav class="article-nav" aria-label="Navigation entre articles">
+  {{ with .PrevInSection }}
+  <a class="link-fx" href="{{ .RelPermalink }}" rel="prev">
+    <span class="nav-dir">← Article précédent</span>
+    <span class="nav-title">{{ .Title }}</span>
+  </a>
+  {{ else }}<div></div>{{ end }}
+  {{ with .NextInSection }}
+  <a href="{{ .RelPermalink }}" rel="next" class="nav-next link-fx">
+    <span class="nav-dir">Article suivant →</span>
+    <span class="nav-title">{{ .Title }}</span>
+  </a>
+  {{ end }}
+</nav>
+{{ end }}

@@ -5,13 +5,18 @@ series = ["Tecoztli"]
 tags = ["F.A.C.E.S.", "médiéval", "partie"]
 summary = "Moutons d’eau douce 🐑"
 draft = false
+
 +++
 
-> [Date] **28 décembre 2025**  
-> [Durée] **30 minutes + 120 minutes**  
-> [Numéro des scènes] **S4-S8**  
-> [Résumé de l'épisode précédent] **Tecoztli est de retour dans sa ville, avec le poison destiné au hors la loi retranché.**  
-> [Objectifs] **Continuer l’histoire pour se débloquer.**
+{{% encart titre="Fiche de session" %}}
+
+**Date** 28 décembre 2025  
+**Durée** 30 minutes + 120 minutes  
+**Scènes** S4-S8  
+**Résumé précédent** Tecoztli est de retour dans sa ville, avec le poison destiné au hors la loi retranché.  
+**Objectifs** Continuer l’histoire pour se débloquer.
+
+{{% /encart %}}
 
 (note : on est toujours dans [S4] A l’entrée de la ville des nains, en fin d’après-midi)
 
@@ -40,7 +45,7 @@ Je vais m’en occuper tout de suite.
 -> apparence : sensuelle  
 (note : elle est très féminine (habillée en femme et non en marin), peut être que le hors-la-loi et elle sont amants ?, je garde l’idée pour plus tard si besoin)
 
-#### [S5] Dans une grotte sous la ville, dans le quartier des Docks, sur le quai d’une des rivières souterraines
+{{< scene num="S5" titre="Dans une grotte sous la ville, dans le quartier des Docks, sur le quai d’une des rivières souterraines" >}}
 
 La grotte n’est pas très haute de plafond, par contre elle est très étendue.
 
@@ -74,7 +79,7 @@ Il y a pas mal de passage sur le quai mais pas sur le bâtiment qui m'intéresse
 ? PCP ?  
 -> oui (4)
 
-#### [S6] À l'intérieur d’une taverne enfumée, pas loin des quais (dans le quartier des Docks)
+{{< scene num="S6" titre="À l’intérieur d’une taverne enfumée, pas loin des quais (dans le quartier des Docks)" >}}
 
 Tecoztli est accoudée au bar avec une chope à la main. Elle s'est changée. Maintenant elle aborde une chemise de voyage pas très fraîche, un pantalon grossier et des bottes de cuir fatiguées (en gros, ces vêtements de voyage mais sans son manteau de fourrure ni ses armes).
 
@@ -127,7 +132,7 @@ J’apprends qu’ils trouvent que leur capitaine est un peu trop souvent géné
 ? PCP ?  
 -> oui (2)
 
-#### [S7] De retour sur le quai près du bâtiment, bien plus tard dans la soirée.
+{{< scene num="S7" titre="De retour sur le quai près du bâtiment, bien plus tard dans la soirée" >}}
 
 ? Est-ce qu’il y a du mouvement sur le pont ?  
 -> oui et
@@ -152,7 +157,7 @@ Je monte sur le pont sans que personne ne m’arrête. Mais au moment où je vai
 Il me dit qu’avant d’aller me coucher je dois aller aider à nettoyer la stalle des moutons. Ils ont clairement mangé un mauvais truc avant d’embarquer.  
 Je grommelle un assentiment et m'empresse de disparaître.
 
-#### [S8] Dans la soute
+{{< scene num="S8" titre="Dans la soute" >}}
 
 ? Est-ce qu'avant de m’occuper des moutons je peux aller discrètement dans la soute?  
 d: SENS + Filou (d6&d4)  

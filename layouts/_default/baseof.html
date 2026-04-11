@@ -1,27 +1,18 @@
-{{- if lt hugo.Version "0.112.4" }}
-{{- errorf "=> hugo v0.112.4 or greater is required " }}
-{{- end -}}
-
 <!DOCTYPE html>
-<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
-
-<head>
-    {{- partial "head.html" . }}
-</head>
-
-<body class="
-{{- if (or (eq .Kind `home`) (eq .Kind `term`) (eq .Layout `search`) (eq .Kind `page`) (eq .Layout `singlepage`)) -}}
-{{- print " list" -}}
-{{- end -}}
-{{- if eq site.Params.defaultTheme `dark` -}}
-{{- print " dark" }}
-{{- end -}}
-" id="top">
-    {{- partialCached "header.html" . .Page -}}
-    <main class="main">
-        {{- block "main" . }}{{ end }}
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+{{ partial "header.html" . }}
+    <main id="contenu">
+      {{ block "main" . }}{{ end }}
     </main>
-    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
-</body>
-
+    {{ partial "footer.html" . }}
+    <a class="scroll-top link-fx" id="scroll-top" href="#" aria-label="Revenir en haut de page">
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M2 9l5-5 5 5"/></svg>
+    </a>
+    {{ $js := resources.Get "js/main.js" | fingerprint }}
+    <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous" defer></script>
+  </body>
 </html>

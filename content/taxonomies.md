@@ -1,6 +1,5 @@
 +++
-title = 'Séries & Étiquettes'
-type = 'page'
-layout = 'taxonomies'
-draft = false
+title = "Séries & Étiquettes"
+type = 'pages'
+layout = "taxonomies"
 +++

@@ -1,5 +1,5 @@
----
-title: "Archive"
-layout: "archives"
-summary: "archives"
----
++++
+title = "Archives"
+type = 'pages'
+layout = "archives"
++++

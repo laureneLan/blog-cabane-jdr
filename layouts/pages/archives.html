@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+{{- $sections := .Site.Params.mainSections | default (slice "articles") -}}
+{{- $allPages := where .Site.RegularPages "Section" "in" $sections -}}
+{{- $total := len $allPages -}}
+{{- $moisNoms := slice "" "Janvier" "Février" "Mars" "Avril" "Mai" "Juin" "Juillet" "Août" "Septembre" "Octobre" "Novembre" "Décembre" -}}
+
+<h1 class="page-title">{{ .Title }}</h1>
+<p class="page-count">{{ $total }} article{{ if gt $total 1 }}s{{ end }} au total</p>
+
+{{ range $allPages.GroupByDate "2006" }}
+{{- $yearCount := len .Pages -}}
+<section class="archive-year">
+  <h2 class="archive-year-heading">
+    {{ .Key }}
+    <small class="archive-count">( {{ $yearCount }} )</small>
+  </h2>
+  {{ range .Pages.GroupByDate "01" }}
+  {{- $m := int (strings.TrimLeft "0" .Key) -}}
+  {{- $monthCount := len .Pages -}}
+  <section class="archive-month">
+    <h3 class="archive-month-heading">
+      {{ index $moisNoms $m }}
+      <small class="archive-count">( {{ $monthCount }} )</small>
+    </h3>
+    <ul class="archive-list">
+      {{ range .Pages }}
+      <li class="archive-item">
+        <a class="archive-link link-fx" href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="archive-sep" aria-hidden="true">–</span> <span class="archive-date">{{ partial "date-fr.html" .Date }}</span>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+</section>
+{{ end }}
+
+{{ end }}

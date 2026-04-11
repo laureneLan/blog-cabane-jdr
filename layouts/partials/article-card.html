@@ -1,0 +1,32 @@
+{{- $expired := and .ExpiryDate (not .ExpiryDate.IsZero) (.ExpiryDate.Before now) -}}
+<li class="article-item{{ if .Draft }} article-item--draft{{ end }}{{ if .Date.After now }} article-item--future{{ end }}{{ if $expired }} article-item--expired{{ end }}">
+  <a class="article-link link-fx" href="{{ .RelPermalink }}">
+    <span class="article-link-title">
+      {{ .Title }}
+      {{ if .Draft }}<span class="draft-badge">brouillon</span>{{ end }}
+      {{ if .Date.After now }}<span class="draft-badge draft-badge--future">à venir</span>{{ end }}
+      {{ if $expired }}<span class="draft-badge draft-badge--expired">expiré</span>{{ end }}
+    </span>
+    {{ with .Summary }}
+    <span class="article-link-desc">{{ . | plainify }}</span>
+    {{ end }}
+    <span class="article-link-meta">
+      <span>
+        {{ partial "meta-icon.html" "date" }}
+        {{ partial "date-fr.html" .Date }}
+      </span>
+      {{ if .Site.Params.ShowWordCount }}
+      <span>
+        {{ partial "meta-icon.html" "words" }}
+        {{ .WordCount }} mots
+      </span>
+      {{ end }}
+      {{ if .Site.Params.ShowReadingTime }}
+      <span>
+        {{ partial "meta-icon.html" "time" }}
+        environ {{ .ReadingTime }} minute{{ if gt .ReadingTime 1 }}s{{ end }}
+      </span>
+      {{ end }}
+    </span>
+  </a>
+</li>

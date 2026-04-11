@@ -1,0 +1,12 @@
+{{ $data := .Inner | strings.TrimSpace | transform.Unmarshal }}
+{{ $rempli := $data.rempli | int }}
+{{ $total  := $data.total  | int }}
+<div class="horloge-row">
+  <span class="horloge-label">{{ $data.label }}</span>
+  <span class="horloge-pips" aria-label="{{ $rempli }} cases remplies sur {{ $total }}">
+    {{ range seq $total }}
+    <span class="pip{{ if le . $rempli }} filled{{ end }}"></span>
+    {{ end }}
+  </span>
+  {{ with $data.unite }}<span class="horloge-unite">{{ . }}</span>{{ end }}
+</div>

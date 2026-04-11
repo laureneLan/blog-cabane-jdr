@@ -11,9 +11,7 @@ JDR : [Village Witch](https://lovinpancake.itch.io/village-witch-traduction-fr)
 
 -----
 
-{{< rawhtml >}}
-<div class="typewriter">
-{{< /rawhtml >}}
+{{< typewriter >}}
 
 Ma chère Suzanne,
 
@@ -34,11 +32,11 @@ Malgré l'anxiété j'ai fini par m'endormir.
 Quand je me suis réveillée le lendemain, tout était silencieux.
 La vagabonde était partie
 
-{{< rawhtml >}}<br/><br/><br/>{{< /rawhtml >}}
+{{< br n="3" >}}
 
 en emportant bon nombre de mes affaires.
 
-{{< rawhtml >}}<br/><br/><br/>{{< /rawhtml >}}
+{{< br n="3" >}}
 
 Elle a pris de la nourriture, des affaires de toilettes, mais aussi des cadres, des bibelots.
 
@@ -99,6 +97,4 @@ Tu me manques, j'ai hâte de te retrouver dans quelques temps, au début de l'é
 
 Ton amie sincère, A. 🐦‍⬛
 
-{{< rawhtml >}}
-</div>
-{{< /rawhtml >}}
+{{< /typewriter >}}

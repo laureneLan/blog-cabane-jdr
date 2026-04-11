@@ -11,9 +11,7 @@ JDR : [Village Witch](https://lovinpancake.itch.io/village-witch-traduction-fr)
 
 -----
 
-{{< rawhtml >}}
-<div class="typewriter">
-{{< /rawhtml >}}
+{{< typewriter >}}
 
 Ma chère Suzanne,
     
@@ -54,6 +52,4 @@ J'espère que tu te porte bien.
 
 Ton amie, A. 🐦‍⬛
 
-{{< rawhtml >}}
-</div>
-{{< /rawhtml >}}
+{{< /typewriter >}}

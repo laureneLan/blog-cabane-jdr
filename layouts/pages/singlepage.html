@@ -1,0 +1,17 @@
+{{ define "main" }}
+<article>
+  <header class="article-header">
+    {{ if and .Params.ShowBreadCrumbs .Parent }}
+    <nav class="breadcrumb" aria-label="Fil d'ariane">
+      <a class="link-fx" href="{{ .Parent.Permalink }}">← {{ .Parent.Title }}</a>
+    </nav>
+    {{ end }}
+    <h1 class="article-title">{{ .Title }}</h1>
+
+  </header>
+
+  <div class="prose">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

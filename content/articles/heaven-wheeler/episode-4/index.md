@@ -5,19 +5,24 @@ series = ["Heaven Wheeler"]
 tags = ["Tu es un sorcier", "contemporain", "partie"]
 summary = "Lecture des étoiles ⭐"
 draft = false
+
 +++
 
-> [Date] **23 mars 2025**  
-> [Durée] **90 minutes**  
-> [Numéro de la scène] **S10**  
-> [Récapitulatif] **Arrivée à Skolhub, début des cours**
+{{% encart titre="Fiche de session" %}}
+
+**Date** 23 mars 2025  
+**Durée** 90 minutes  
+**Scènes** S10  
+**Résumé précédent** Arrivée à Skolhub, début des cours
+
+{{% /encart %}}
 
 Dernier jour de la semaine. Voilà 15 jours que les cours ont débuté. Je commence à avoir des habitudes. Me réveiller dans le dortoir. Petit-déjeuner dans la grande salle. Puis les cours. 
 
 ? Quel cours aujourd’hui ?  
 gen: cours -> Astronomie
 
-### [S10] Cours d’Astronomie / 18 sept. 
+{{< scene num="S10" titre="Cours d’Astronomie / 18 sept." >}}
 
 Ce matin : Astronomie.
 
@@ -37,7 +42,7 @@ gen : PNJ
 
 (note : Je pensais faire la scène au repas de midi, mais au vu des résultats je vais plutôt dire que je parle avec Arundel juste à la sortie des cours)
 
-### [S11] Après la sortie du cours, devant la salle de classe.
+{{< scene num="S11" titre="Après la sortie du cours, devant la salle de classe" >}}
 
 \> Je discute avec Arundel de ce que j’ai découvert pendant le cours.
 
@@ -54,7 +59,7 @@ gen : PNJ
 ? Quel est le cours de l’après-midi ?  
 -> gen : cours -> Potions
 
-### [S12] Dans l’après-midi, Dans le salle de cours de Potions
+{{< scene num="S12" titre="Dans l’après-midi, dans la salle de cours de Potions" >}}
 
 ? qui est le professeur ?  
 -> gen : PNJ  
@@ -74,7 +79,7 @@ d: Potions (1d20 + Esprit + Precision /r. Potions.) -> 13 + 2 + 1 = 16. => Réus
 
 \> Après le cours je vais à la bibliothèque chercher ce que je peux sur des voyages en cette période de l'année.
 
-### [S13] A la bibliothèque, après les cours
+{{< scene num="S13" titre="À la bibliothèque, après les cours" >}}
 
 J’ai fini par comprendre que la lecture des étoiles était cryptique.
 

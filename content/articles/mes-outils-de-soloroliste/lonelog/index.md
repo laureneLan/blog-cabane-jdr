@@ -5,13 +5,14 @@ series = ["Mes outils de solorôliste"]
 tags = ["prise de notes", "outils"]
 summary = "Formalisation de la prise de notes pendant les parties (méthode Lonelog)"
 draft = false
-showToc = true
 +++
 
 Cet article est la mise à jour de la notation que j'utilise suite à la mise à jour par Loreseed Workshop/Zeruhur de leur méthode de notation pour les parties de jeu de rôle en solo. 
 Vous trouverez la version originale ici : https://zeruhur.itch.io/lonelog. 
 
 Cet article ne contient que le résumé des notations que je vais utiliser dans mes prochains compte-rendus.
+
+{{< toc >}}
 
 ---
 

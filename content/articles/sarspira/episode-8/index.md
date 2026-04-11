@@ -43,7 +43,7 @@ Après de longues minutes, je finis par avoir une idée.
 
 Je me concentre pour faire apparaitre un gros insecte de feu sur ma branche puis l'envoie voler au-dessus de la cour. Son bourdonnement résonne entre les murs.
 
-{{< figure src="Fire_Beetle_052_CC-BY-SA_Oozejar.png" alt="Insecte de feu" align="center" caption="L'insecte de feu invoqué par Sarspira — illustration : [Gourdin Konbo Club](https://gourdin-konbo-club.itch.io/illustrated-bestiary) (cc by-sa 4.0)" >}}
+{{< figure src="Fire_Beetle_052_CC-BY-SA_Oozejar.png" alt="Insecte de feu" caption="L'insecte de feu invoqué par Sarspira — illustration : [Gourdin Konbo Club](https://gourdin-konbo-club.itch.io/illustrated-bestiary) (cc by-sa 4.0)" >}}
 
 Les gens le suivent du regard. Les moins téméraires ou les plus intelligents s'empressent de rentrer à l'intérieur. L'insecte se pose sur le mur le plus éloigné de moi et entreprend de frotter ses pattes, ce qui ne manque pas de faire jaillir quelques étincelles.
 

@@ -5,13 +5,18 @@ series = ["Tecoztli"]
 tags = ["Dungeon World", "médiéval", "partie"]
 summary = "Génération de ville 🏙️"
 draft = false
+
 +++
 
-> [Date] **24 aout 2025**  
-> [Durée] **120 minutes**  
-> [Numéro des scènes] **S4**  
-> [Résumé de l'épisode précédent] **Tecoztli a acheté du poison dans une auberge. Maintenant elle rentre dans sa ville.**  
-> [Objectifs] **Utiliser le générateur de ville de Impitoyables Bourgades**
+{{% encart titre="Fiche de session" %}}
+
+**Date** 24 aout 2025  
+**Durée** 120 minutes  
+**Scènes** S4  
+**Résumé précédent** Tecoztli a acheté du poison dans une auberge. Maintenant elle rentre dans sa ville.  
+**Objectifs** Utiliser le générateur de ville de Impitoyables Bourgades
+
+{{% /encart %}}
 
 (note : [S4] A l'entrée de la ville, en fin d'après-midi)
 

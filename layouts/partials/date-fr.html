@@ -1,0 +1,4 @@
+{{/* Reçoit un objet time.Time en entrée (ex: {{ partial "date-fr.html" .Date }}) */}}
+{{- $mois := slice "" "janvier" "février" "mars" "avril" "mai" "juin" "juillet" "août" "septembre" "octobre" "novembre" "décembre" -}}
+{{- $m := int (. | time.Format "1") -}}
+<time datetime="{{ . | time.Format "2006-01-02" }}">{{ . | time.Format "2" }} {{ index $mois $m }} {{ . | time.Format "2006" }}</time>
