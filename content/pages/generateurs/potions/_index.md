@@ -1,9 +1,9 @@
 +++
 title = 'Générateur de potions*'
-date = 2023-01-01
 type = 'pages'
 layout = 'singlepage'
 draft = false
+description = 'Générateur aléatoire de potions bizarres et inatendues.'
 ShowBreadCrumbs = true
 +++
 

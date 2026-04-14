@@ -3,7 +3,8 @@ title = 'Tecoztli - Épisode 4'
 date = 2026-03-01
 series = ["Tecoztli"]
 tags = ["F.A.C.E.S.", "médiéval", "partie"]
-summary = "Reprise 👣"
+summary = "Une lettre. Une rumeur. Une filature. 👣"
+description = "Compte-rendu de jdr solo. Retour dans la peau de Tecoztli : rivalités de clan, factions dangereuses et filature dans les rues de la ville."
 draft = false
 
 +++

@@ -3,7 +3,8 @@ title = "Correspondance d'une sorcière débutante - Lettre 6"
 date = 2026-02-24
 series = ["Correspondance d'une sorcière débutante"]
 tags = ["Village Witch", 'contemporain', "partie"]
-summary = "6ème lettre - Printemps 📦"
+summary = "Dernière lettre du printemps 📦"
+description = "Compte-rendu de jdr solo : Fin du printemps. Fin d'une saison."
 draft = false
 +++
 

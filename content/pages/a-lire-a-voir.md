@@ -1,12 +1,12 @@
 +++
 title = 'A lire, à voir'
-date = 2025-03-18
 type = 'pages'
 layout = 'singlepage'
+description = 'Sélection de livres, articles et vidéos sur le jeu de rôle solo — ressources pour débuter ou approfondir sa pratique.'
 draft = false
 +++
 
-Liens vers des livres, articles, vidéos, etc. que j'ai trouvés interessants sur le jeu de rôle solo.
+Liens vers des livres, articles, vidéos, etc. que j'ai trouvés intéressants sur le jeu de rôle solo.
 
 Regardez, lisez et ne conservez que ce qui vous amuse :) 
 

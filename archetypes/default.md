@@ -4,6 +4,7 @@ date = '{{ .Date }}'
 series = []
 tags = []
 summary = ""
+description = ""
 draft = true
 
 [session]

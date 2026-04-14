@@ -1,9 +1,9 @@
 +++
-title = 'Médieval Fantastique - De quelle espèce est la personne en face de moi ?'
-date = 2024-04-30
+title = 'Médieval Fantastique - De quelle espèce est ce PNJ ?'
 type = 'pages'
 layout = 'singlepage'
 draft = false
+description = 'Quelle espèce est ce PNJ ? Un générateur aléatoire pour jeu de rôle, dans un univers médiéval fantastique.'
 ShowBreadCrumbs = true
 +++
 
