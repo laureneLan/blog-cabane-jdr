@@ -49,12 +49,12 @@
 
 /* ── VARIABLES ── */
 :root {
-  --color-bg: #f5f0e8;
+  --color-bg: #f4e6d0;
   --color-text: #1a1814;
   --color-text-muted: #5a5550;
 
-  --color-printemps: #aad79d;
-  --color-ete: #f7fb1e;
+  --color-printemps: #6ab86a;
+  --color-ete: #f5d400;
   --color-automne: #df6d14;
   --color-hiver: #3daeed;
 
