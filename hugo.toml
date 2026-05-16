@@ -32,24 +32,6 @@ buildFuture = false
   weight = 2
 
 [[menu.main]]
-  name = 'Générateurs'
-  url = '/pages/generateurs'
-  weight = 3
-  identifier = 'generateurs'
-
-[[menu.main]]
-  name = 'Potions'
-  url = '/pages/generateurs/potions'
-  weight = 1
-  parent = 'generateurs'
-
-[[menu.main]]
-  name = 'Espèces MédFan'
-  url = '/pages/generateurs/especes_medfan'
-  weight = 2
-  parent = 'generateurs'
-
-[[menu.main]]
   name = 'Archives'
   url = '/archives/'
   weight = 4

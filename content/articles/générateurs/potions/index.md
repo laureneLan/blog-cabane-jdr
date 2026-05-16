@@ -1,10 +1,10 @@
 +++
-title = 'Générateur de potions*'
-type = 'pages'
-layout = 'singlepage'
+title = 'Médieval Fantastique - Quelle est cette potion ?'
+date = 2024-04-30
+summary = 'Générateur aléatoire de potions bizarres et inatendues.'
+series = ["Générateur"]
+tags = ["générateurs", "outils", "médiéval"]
 draft = false
-description = 'Générateur aléatoire de potions bizarres et inatendues.'
-ShowBreadCrumbs = true
 +++
 
 *bizarres et inatendues  
@@ -249,27 +249,28 @@ ShowBreadCrumbs = true
     ];
 
     function generatePotion() {
-        divP.innerHTML += "<br/>Le flacon, fait de "+randomizer(materielFlacon)+", a une forme "+randomizer(formeFlacon)+".<br/>";
-        divP.innerHTML += "La potion qu'il contient est de couleur "+randomizer(couleurPotion)+". Bizarrement, elle "+randomizer(bizarreriePotion)+".<br/>";
-        divP.innerHTML += "Lorsque vous l'ouvrez, une odeur "+randomizer(parfumPotion)+" s'en échappe.<br/>";
-        divP.innerHTML += "Dans votre bouche, elle a une consistance "+randomizer(consistancePotion)+" et un goût "+randomizer(goutPotion)+".<br/>";
 
-        divP.innerHTML += "Le sort contenu dans la potion : ";
-
+        var flacon = "Le flacon, fait de "+randomizer(materielFlacon)+", a une forme "+randomizer(formeFlacon)+".";
+        var couleur = "La potion qu'il contient est de couleur "+randomizer(couleurPotion)+". Bizarrement, elle "+randomizer(bizarreriePotion)+".";
+        var odeur = "Lorsque vous l'ouvrez, une odeur "+randomizer(parfumPotion)+" s'en échappe.";
+        var gout = "Dans votre bouche, elle a une consistance "+randomizer(consistancePotion)+" et un goût "+randomizer(goutPotion)+".";
+        var sort = "Le sort contenu dans la potion : ";
         switch (Math.floor(Math.random() * 4)) {
             case 0: // [Élément] [Qualité]
-            divP.innerHTML += "<< "+randomizer(elementSort)+" "+randomizer(qualiteSort)+" >><br/>";
+            sort += "<< "+randomizer(elementSort)+" "+randomizer(qualiteSort)+" >>.";
             break;
             case 1: // [Forme] [Qualité]
-            divP.innerHTML += "<< "+randomizer(formeSort)+" "+randomizer(qualiteSort)+" >><br/>";
+            sort += "<< "+randomizer(formeSort)+" "+randomizer(qualiteSort)+" >>.";
             break;
             case 2: // [Forme] de [Élément]
-            divP.innerHTML += "<< "+randomizer(formeSort)+" de "+randomizer(elementSort)+" >><br/>";
+            sort += "<< "+randomizer(formeSort)+" de "+randomizer(elementSort)+" >>.";
             break;
             case 3:// [Forme] de [Élément] [Qualité]
-            divP.innerHTML += "<< "+randomizer(formeSort)+" de "+randomizer(elementSort)+" "+randomizer(qualiteSort)+" >><br/>";
+            sort += "<< "+randomizer(formeSort)+" de "+randomizer(elementSort)+" "+randomizer(qualiteSort)+" >>.";
             break;
         }
+
+        divP.innerHTML += "<div class='session-block-a'><div class='session-body-a open'><div class='session-body-inner'>"+flacon+"<br/>"+couleur+"<br/>"+odeur+"<br/>"+gout+"<br/>"+sort+"</div></div></div>";
 
         if(document.getElementById('btnReset') === null) {
             btnGen.insertAdjacentHTML('afterend', '<button id="btnReset" onclick="resetRes()" class="link-fx">Remettre à zero les résultats</button>');

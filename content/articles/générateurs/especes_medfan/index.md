@@ -1,10 +1,10 @@
 +++
 title = 'Médieval Fantastique - De quelle espèce est ce PNJ ?'
-type = 'pages'
-layout = 'singlepage'
+date = 2024-04-30
+summary = 'Un générateur aléatoire pour jeu de rôle, dans un univers médiéval fantastique.'
+series = ["Générateur"]
+tags = ["générateurs", "outils", "médiéval"]
 draft = false
-description = 'Quelle espèce est ce PNJ ? Un générateur aléatoire pour jeu de rôle, dans un univers médiéval fantastique.'
-ShowBreadCrumbs = true
 +++
 
 En fonction du pourcentage de présence de l'espèce (dans mon monde)
@@ -106,16 +106,16 @@ En fonction du pourcentage de présence de l'espèce (dans mon monde)
         var d1 = Math.floor(Math.random() * 99); // entre 0 et 99 (soit 100)
         var d2 = Math.floor(Math.random() * 99); // entre 0 et 99 (soit 100)
 
-        console.log("("+d1+", "+d2+")")
+        //console.log("("+d1+", "+d2+")")
 
         if(d1 < 49) {
-            divE.innerHTML += "humain <br/>";
+            divE.innerHTML += "<em>humain</em><br/>";
         } else if(d1 < 74) {
-            divE.innerHTML += especes1[d2]+"<br/>";
+            divE.innerHTML += "<em>"+especes1[d2]+"</em><br/>";
         } else if(d1 < 89) {
-            divE.innerHTML += especes2[d2]+"<br/>";
+            divE.innerHTML += "<em>"+especes2[d2]+"</em><br/>";
         } else {
-            divE.innerHTML += especes3[d2]+"<br/>";
+            divE.innerHTML += "<em>"+especes3[d2]+"</em><br/>";
         }
 
         if(document.getElementById('btnReset') === null) {
