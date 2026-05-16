@@ -11,7 +11,7 @@ Liens vers des livres, articles, vidéos, etc. que j'ai trouvés intéressants s
 
 Regardez, lisez et ne conservez que ce qui vous amuse :) 
 
-Dernière mise à jour : _17 février 2026_.
+Dernière mise à jour : _16 mai 2026_.
 
 {{< toc >}}
 
@@ -34,6 +34,7 @@ Dernière mise à jour : _17 février 2026_.
 
 - [Exploring the Solo RPG Spectrum](https://soloist.substack.com/p/exploring-the-solo-rpg-spectrum)
 - [Rolling for Initiative I: Mastering the Mindset of Solo RPGs](https://substack.com/inbox/post/158736321)
+- [Make One Move](https://rollingalone.substack.com/p/the-solo-ttrpg-jumpstart-1-make-one)
 - [Anatomy of a Solo RPG Scene - The Ironsworn Flow of Play](https://croakerrpgs.substack.com/p/anatomy-of-a-solo-rpg-scene-the-ironsworn)
 - [O.R.A.C.L.E. System - A Procedure for playing Solo RPGs](https://croakerrpgs.substack.com/p/oracle-system-a-procedure-for-playing)
 - [Getting into the Mood for Solo RPGs](https://croakerrpgs.substack.com/p/getting-into-the-mood-for-solo-rpgs)
