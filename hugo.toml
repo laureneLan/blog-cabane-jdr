@@ -45,11 +45,11 @@ buildFuture = false
   mainSections = ['articles']
   showReadingTime = true
   showWordCount = true
-  description = 'Rôliste solo minimaliste' # dans la balise meta
+  description = "Blog d'une solorôliste. Compte rendu de partie et explication de ma pratique." # dans la balise meta
   keywords = ['jeu de rôle', 'jeu de rôle solo', 'jdr', 'jdr solo', 'solotaisie', 'cr', 'compte rendu de partie']
   author = 'Lan'
   contact = 'cabanejdr+commentaires@gmail.com'
-  homeIntro = 'Je suis une rôliste solo minimaliste. Vous trouverez sur ce blog les notes prises pendant mes parties.'
+  homeIntro = "Je suis une solorôliste minimaliste. Vous trouverez sur ce blog les notes prises pendant mes parties et des articles sur ma pratique."
 
   [params.assets]
     favicon = 'images/favicon.ico'
