@@ -1,7 +1,9 @@
 baseURL = 'https://laurenelan.github.io/blog-cabane-jdr'
-languageCode = 'fr-fr'
 title = 'Cabane JDR'
 defaultContentLanguage = 'fr'
+
+[language]
+  locale = 'fr-fr'
 
 enableEmoji = true
 enableRobotsTXT = true
@@ -59,8 +61,8 @@ buildFuture = false
 
 [params]
   mainSections = ['articles']
-  ShowReadingTime = true
-  ShowWordCount = true
+  showReadingTime = true
+  showWordCount = true
   description = 'Rôliste solo minimaliste' # dans la balise meta
   keywords = ['jeu de rôle', 'jeu de rôle solo', 'jdr', 'jdr solo', 'solotaisie', 'cr', 'compte rendu de partie']
   author = 'Lan'
