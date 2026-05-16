@@ -1,7 +1,7 @@
 +++
 title = 'Postures et boucle de jeu'
 date = 2026-03-21
-series = ["Mes outils de solorôliste"]
+series = ["Ma pratique de solorôliste"]
 tags = ["outils"]
 summary = "MJ ou PJ ? En solo, on est les deux. Présentation des postures et de la boucle de jeu."
 description = "En jdr solo, on porte deux chapeaux à la fois. Voici comment s'y retrouver."
