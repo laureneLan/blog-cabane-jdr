@@ -1,5 +1,6 @@
 +++
 title = 'A lire, à voir'
+date = 2025-03-18
 type = 'pages'
 layout = 'singlepage'
 description = 'Sélection de livres, articles et vidéos sur le jeu de rôle solo — ressources pour débuter ou approfondir sa pratique.'

@@ -1,5 +1,6 @@
 +++
 title = 'À propos'
+date = 2026-04-11
 type = 'pages'
 layout = 'singlepage'
 description = 'Un blog de jeu de rôle solo — des notes de parties, du récit et de la mécanique. Pour oser se lancer ou simplement lire.'
