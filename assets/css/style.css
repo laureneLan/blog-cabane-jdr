@@ -58,7 +58,7 @@
   --color-automne: #df6d14;
   --color-hiver: #3daeed;
 
-  --color-accent: var(--color-printemps);
+  --color-accent: var(--color-ete);
   --color-border:        rgba(26,24,20,0.12);  /* séparateurs, blocs */
   --color-border-strong: rgba(26,24,20,0.20);  /* boutons, tags, éléments interactifs */
   --max-prose: 700px;
