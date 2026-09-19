@@ -11,7 +11,7 @@ Liens vers des livres, articles, vidéos, etc. que j'ai trouvés intéressants s
 
 Regardez, lisez et ne conservez que ce qui vous amuse :) 
 
-Dernière mise à jour : _28 mai 2026_.
+Dernière mise à jour : _19 septembre 2026_.
 
 {{< toc >}}
 
@@ -34,9 +34,13 @@ Dernière mise à jour : _28 mai 2026_.
 
 - [Exploring the Solo RPG Spectrum](https://soloist.substack.com/p/exploring-the-solo-rpg-spectrum)
 - [Rolling for Initiative I: Mastering the Mindset of Solo RPGs](https://substack.com/inbox/post/158736321)
-- [Make One Move](https://rollingalone.substack.com/p/the-solo-ttrpg-jumpstart-1-make-one)
-- [The Twenty-Minute Promise](https://rollingalone.substack.com/p/the-solo-ttrpg-jumpstart-2-the-twenty)
+- [13 Quick, Actionable Tips To Actually Make a Start with Solo TTRPG Gaming](https://rollingalone.substack.com/p/13-quick-actionable-tips-to-actually)
+  - [Make One Move](https://rollingalone.substack.com/p/the-solo-ttrpg-jumpstart-1-make-one)
+  - [The Twenty-Minute Promise](https://rollingalone.substack.com/p/the-solo-ttrpg-jumpstart-2-the-twenty)
+  - [Make A Gaming Box](https://rollingalone.substack.com/p/the-solo-ttrpg-jumpstart-3-make-a)
+  - [The One-Line Mission](https://rollingalone.substack.com/p/the-solo-ttrpg-jumpstart-4-the-one)
 - [Anatomy of a Solo RPG Scene - The Ironsworn Flow of Play](https://croakerrpgs.substack.com/p/anatomy-of-a-solo-rpg-scene-the-ironsworn)
+- [How to Create a Character You’ll Still Love After 20 Sessions](https://tabletoptoolkit.substack.com/p/how-to-create-a-character-youll-still)
 - [O.R.A.C.L.E. System - A Procedure for playing Solo RPGs](https://croakerrpgs.substack.com/p/oracle-system-a-procedure-for-playing)
 - [Getting into the Mood for Solo RPGs](https://croakerrpgs.substack.com/p/getting-into-the-mood-for-solo-rpgs)
 - [7 Tips How To Play Solo TTRPG Campaigns Consistently](https://radioactivecarrot.substack.com/p/7-advises-how-to-play-ttrpg-campaigns)
@@ -44,6 +48,10 @@ Dernière mise à jour : _28 mai 2026_.
 - [campaign modules drag on, run episodic games instead](https://www.domainofmanythings.com/blog/try-running-episodic-games-instead-of-campaigns-for-your-rpg)
 - [Random Encounters, Not Random Chaos: A GM’s Guide](https://www.domainofmanythings.com/blog/random-encounters-not-random-chaos-a-gms-guide)
 - [Lonelog](https://zeruhur.itch.io/lonelog)
+- [Write One Sentence More Than You Think You Should](https://jonathanhogue.substack.com/i/197551517/2-write-one-sentence-more-than-you-think-you-should)
+- [What happens when you fail a dice roll](https://roleplayersdigest.substack.com/i/192399399/what-happens-when-you-fail-a-dice-roll)
+- [Fiction Engines, Pressure Engines, and World Engines](https://zotiquest.substack.com/p/fiction-engines-pressure-engines)
+- [How to Take Better Session Notes Without Turning Your Game Into Homework](https://tabletoptoolkit.substack.com/p/how-to-take-better-session-notes)
 
 ## Voir
 ### En français
@@ -60,18 +68,16 @@ Dernière mise à jour : _28 mai 2026_.
 - [Le JDR solo](https://youtu.be/tSGPFYQk458)
 
 ### En anglais
-#### Man alone
 - [How to ACTUALLY START PLAYING your SoloRPG! (instead of just staring at the book)](https://youtu.be/mFoBKPggLRk)
 - [What are the different types of SoloRPGs?](https://youtu.be/zOuuX3MwBDA)
 - [7 Approaches to Journaling in Solo Roleplaying Games!](https://youtu.be/_krWQlYqbzY)
-#### Me, Myself and Die!
 - [Solo TTRPGs with Trevor Devall!](https://youtu.be/p7WBf46C1pU)
 - [Solo RPG Patron Questions Answered](https://youtu.be/OcSXxZ1T9wU)
 - [9 Tips for Solo RPGs](https://youtu.be/dgVtt8jC2aA)
-#### Solospelunking
 - [How To Get Into Solo Gaming Now! You Already Have Everything You Need! An Overview For Beginners.](https://youtu.be/V0G_Eq425Ms)
 - [Solo RPG Tutorial Series](https://youtube.com/playlist?list=PLTzJMrmw0lW8ABZrd8J8kVOjY2KHmfORD&feature=shared)
 - [Journaling In Solo RPGing - Why and How I Do It](https://youtu.be/p-hBOzudRcc)
+- [How to Prepare for a Solo RPG](https://youtu.be/8HzlC29yha8?list=TLPQMTkwOTIwMjYdTN9ioqmFHw)
 
 ## Discuter
 - [Discord JdR Solitaire](https://discord.com/invite/pp7Hf7a)
