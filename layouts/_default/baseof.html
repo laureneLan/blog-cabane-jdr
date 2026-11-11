@@ -13,6 +13,9 @@
       <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M2 9l5-5 5 5"/></svg>
     </a>
     {{ $js := resources.Get "js/main.js" | fingerprint }}
+    {{ $onekojs := resources.Get "js/oneko/oneko.js" | fingerprint }}
+    {{ $onekogif := resources.Get "js/oneko/oneko.gif" }}
     <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous" defer></script>
+    <script src="{{ $onekojs.RelPermalink }}" integrity="{{ $onekojs.Data.Integrity }}" crossorigin="anonymous" defer data-cat="{{ $onekogif.RelPermalink }}"></script>
   </body>
 </html>
