@@ -8,6 +8,7 @@
 {{ else if .Site.Params.keywords }}
 <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
 {{ end }}
+<meta name="robots" content="noai, noimageai">
 <link rel="icon" href="{{ .Site.Params.assets.favicon | default "favicon.ico" | absURL }}">
 <link rel="canonical" href="{{ .Permalink }}">
 {{ range .AlternativeOutputFormats }}

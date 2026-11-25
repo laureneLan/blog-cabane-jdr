@@ -21,6 +21,9 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
+User-agent: Meta-ExternalAgent
+Disallow: /
+
 User-agent: meta-externalagent
 Disallow: /
 
@@ -45,4 +48,18 @@ Disallow: /
 User-agent: YouBot
 Disallow: /
 
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
 Sitemap: {{ "sitemap.xml" | absURL }}
+
+
+
+
+
+
+
+
