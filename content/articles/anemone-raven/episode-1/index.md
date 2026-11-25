@@ -9,6 +9,8 @@ draft = false
 
 JDR : [Village Witch](https://lovinpancake.itch.io/village-witch-traduction-fr)
 
+{{< figure src="mainaaa_photo-lifeofpix-mainaaaphoto-310315.jpg" alt="Moineau" caption="Moineau - [source](https://www.lifeofpix.com/photos/310315)" >}}
+
 -----
 
 {{< typewriter >}}

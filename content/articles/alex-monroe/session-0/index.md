@@ -28,3 +28,5 @@ Comment dire non à la Mort ? Depuis, certains soirs après mon dernier set, par
 Ce n'est pas un job habituel. Marcher dans les rues crépusculaires, sentir le bourdonnement de l'au-delà ... J'utilise mes nouveaux "talents" pour connecter les indices et élucider le mystère. Et pendant que la ville vit, dort et que les fantômes s'agitent, je joue un air que seuls les morts peuvent entendre.
 
 C'est drôle, non ? Le pianiste de jazz devenu détective spectral dansant avec les ombres, jouant une sérénade aux âmes. Mais bon quand la vie - ou la Mort - vous offre une mélodie particulière, on la fait swinguer. Me voici donc, mes notes dans une main, les indices dans l'autre, jouant de la musique avec les mystères de la nuit.
+
+{{< figure src="peng-feifei-lifeofpix-pengfeifei1376-307799.jpg" alt="Piano" caption="Piano - [source](https://www.lifeofpix.com/photos/307799)" >}}

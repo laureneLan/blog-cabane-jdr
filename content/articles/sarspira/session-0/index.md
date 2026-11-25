@@ -15,15 +15,15 @@ Et voilà une nouvelle partie. Celle-là a pris bien plus de temps à préparer 
 
 À quoi est ce que je vais jouer alors :
 
-> **Univers :** Médiéval Fantastique.
->
-> **Système de jeu :** [Dungeon World](https://dungeonworld.pbta.fr/)
->
+> **Univers :** Médiéval Fantastique.  
+> **Système de jeu :** [Dungeon World](https://dungeonworld.pbta.fr/)  
 > **Personnage :** Secret :wink: *il faut lire pour le découvrir* :smile:
 
 J'ai choisi de ne pas détailler l'univers qui sera construit au fur et à mesure de l'exploration du personnage. Bien que j'en sache un peu plus que vous sur le personnage, j'ai choisi de ne rien vous en dire pour que vous la découvriez en cours de la lecture. Il y a beaucoup de blanc dans son histoire et encore plus dans son futur. J'ai appliqué à la lettre "*dessiner la "carte" et laisser des blancs*" ainsi que "*jouer pour découvrir ce qui va se passer*".
 
 Bonne lecture :book:
+
+{{< figure src="samantha-leigh-scholl-lifeofpix-samanthaleighscholl7408-306086.jpg" alt="Piano" caption="Piano - [source](https://www.lifeofpix.com/photos/306086)" >}}
 
 ----
 

@@ -7,6 +7,8 @@ summary = "Présentation de la campagne Tecoztli"
 draft = false
 +++
 
+{{< figure src="paulbesson_-lifeofpix-paulbesson-308252.jpg" alt="Montagnes" caption="Montagne - [source](https://www.lifeofpix.com/photos/308252)" >}}
+
 {{% encart titre="Fiche de campagne" %}}
 
 **Titre** Tecoztli  
@@ -21,6 +23,5 @@ draft = false
 **Remarques** Parties pour me remettre au jdr solo, et voir ce que ça donne en générant tous les éléments.
 
 {{% /encart %}}
-
 
 {{< figure src="map.jpg" alt="Carte de la zone de jeu" caption="Carte de la zone de jeu, générée pour la campagne" >}}
