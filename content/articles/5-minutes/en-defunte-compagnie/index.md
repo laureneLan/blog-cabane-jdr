@@ -3,7 +3,7 @@ title = '5 minutes en défunte compagnie'
 date = 2022-01-01
 summary = "5 minutes de jeu dans la peau d'un médium"
 series = ["5 minutes"]
-tags = ["partie", "contemporain", "5 min en défunte companie"]
+tags = ["partie", "5 min en defunte companie"]
 draft = false
 +++
 

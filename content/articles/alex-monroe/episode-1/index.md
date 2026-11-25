@@ -3,7 +3,7 @@ title = 'Alex Monroe - Épisode 1'
 date = 2024-06-09
 summary = "Qui est mort cette nuit ? :monocle_face:"
 series = ["Alex Monroe"]
-tags = ["Mélodie pour un meurtre", "contemporain", "partie"]
+tags = ["partie", "Melodie pour un meurtre"]
 draft = false
 +++
 

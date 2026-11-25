@@ -2,7 +2,7 @@
 title = 'Heaven Wheeler - Épisode 3'
 date = 2025-03-19
 series = ["Heaven Wheeler"]
-tags = ["Tu es un sorcier", "contemporain", "partie"]
+tags = ["partie", "Tu es un sorcier"]
 summary = "Répartition et première journée :crown:"
 draft = false
 +++

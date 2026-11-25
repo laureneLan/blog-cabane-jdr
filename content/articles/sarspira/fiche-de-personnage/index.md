@@ -2,7 +2,7 @@
 title = 'Sarspira - Fiche de Personnage'
 date = 2024-05-17
 series = ["Sarspira"]
-tags = ["Dungeon World", "médiéval"]
+tags = ["partie", "Dungeon World"]
 summary = "La fiche de personnage de Sarspira"
 draft = false
 +++

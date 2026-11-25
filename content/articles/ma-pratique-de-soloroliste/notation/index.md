@@ -1,8 +1,8 @@
 +++
 title = 'Notation pour les JDR solo'
 date = 2025-12-14
-series = ["Ma pratique de solorôliste"]
-tags = ["prise de notes", "outils"]
+series = ["Pratique de soloroliste"]
+tags = ["outil"]
 summary = "Formalisation de la prise de notes pendant les parties"
 draft = false
 +++

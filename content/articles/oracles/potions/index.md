@@ -3,7 +3,7 @@ title = 'Médieval Fantastique - Quelle est cette potion ?'
 date = 2024-04-30
 summary = 'Générateur aléatoire de potions bizarres et inatendues.'
 series = ["Oracles"]
-tags = ["générateurs", "oracles", "outils", "médiéval"]
+tags = ["outil"]
 draft = false
 +++
 

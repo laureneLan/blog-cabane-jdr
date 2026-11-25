@@ -2,7 +2,7 @@
 title = 'Sarspira - Épisode 2'
 date = 2024-05-05
 series = ["Sarspira"]
-tags = ["Dungeon World", "médiéval", "partie"]
+tags = ["partie", "Dungeon World"]
 summary = "Premier combat :crossed_swords: #aie"
 draft = false
 +++

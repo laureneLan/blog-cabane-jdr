@@ -2,7 +2,7 @@
 title = 'Sarspira - Épisode 8'
 date = 2025-03-02
 series = ["Sarspira"]
-tags = ["F.A.C.E.S.", "médiéval", "partie"]
+tags = ["partie", "F.A.C.E.S."]
 summary = "Nouvelle destination :cyclone:"
 draft = false
 +++

@@ -2,7 +2,7 @@
 title = 'Tecoztli - Épisode 2'
 date = 2025-08-24
 series = ["Tecoztli"]
-tags = ["Dungeon World", "médiéval", "partie"]
+tags = ["partie", "F.A.C.E.S."]
 summary = "Génération de ville 🏙️"
 draft = false
 

@@ -2,7 +2,7 @@
 title = 'Dakota Logan - Épisode 1'
 date = 2024-03-24
 series = ["Dakota Logan"]
-tags = ['Hitos', 'western', 'partie']
+tags = ["partie", "Hitos"]
 summary = "Le shérif Davidson me confit une mission"
 draft = false
 +++

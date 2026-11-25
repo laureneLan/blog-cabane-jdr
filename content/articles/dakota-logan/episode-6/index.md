@@ -2,7 +2,7 @@
 title = 'Dakota Logan - Épisode 6'
 date = 2024-04-25
 series = ["Dakota Logan"]
-tags = ['Hitos', 'western', 'partie']
+tags = ["partie", "Hitos"]
 summary = "Visite de la maison de Earnest et rencontre avec Célia"
 draft = false
 +++

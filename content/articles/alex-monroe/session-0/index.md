@@ -2,7 +2,7 @@
 title = 'Alex Monroe - Session 0'
 date = 2024-06-02
 series = ["Alex Monroe"]
-tags = ['Mélodie pour un meurtre', 'partie']
+tags = ["partie", "Melodie pour un meurtre"]
 summary = "Présentation et introduction"
 draft = false
 +++

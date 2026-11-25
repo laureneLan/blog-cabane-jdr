@@ -2,7 +2,7 @@
 title = 'Sarspira - Épisode 11'
 date = 2025-04-06
 series = ["Sarspira"]
-tags = ["médiéval"]
+tags = ["partie"]
 summary = "Le secret du tatouage 🐉"
 draft = false
 +++

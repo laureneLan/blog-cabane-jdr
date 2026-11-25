@@ -2,7 +2,7 @@
 title = 'Sarspira - Épisode 10'
 date = 2025-03-30
 series = ["Sarspira"]
-tags = ["F.A.C.E.S.", "médiéval", "partie"]
+tags = ["partie", "F.A.C.E.S."]
 summary = "C'est pas le moment de traîner ! 🏃"
 draft = false
 +++

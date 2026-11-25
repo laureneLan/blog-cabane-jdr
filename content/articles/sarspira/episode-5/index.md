@@ -2,7 +2,7 @@
 title = 'Sarspira - Épisode 5'
 date = 2024-05-14
 series = ["Sarspira"]
-tags = ["Dungeon World", "médiéval", "partie"]
+tags = ["partie", "Dungeon World"]
 summary = "Un peu de géographie :compass:"
 draft = false
 +++

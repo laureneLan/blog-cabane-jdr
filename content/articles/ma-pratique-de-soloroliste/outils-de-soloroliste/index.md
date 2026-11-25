@@ -1,8 +1,8 @@
 +++
 title = 'Outils du soloroliste (et évolutions)'
 date = 2025-08-15
-series = ["Ma pratique de solorôliste"]
-tags = ["outils", "oracle", "muse", "prise de notes", "débutant"]
+series = ["Pratique de soloroliste"]
+tags = ["outil"]
 summary = "Faire évoluer ses outils de soloroliste."
 draft = false
 +++

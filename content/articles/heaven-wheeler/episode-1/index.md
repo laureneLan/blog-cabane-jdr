@@ -2,7 +2,7 @@
 title = 'Heaven Wheeler - Épisode 1'
 date = 2025-02-22
 series = ["Heaven Wheeler"]
-tags = ["Tu es un sorcier", "contemporain", "partie"]
+tags = ["partie", "Tu es un sorcier"]
 summary = "Voie 9 3/4 :steam_locomotive:"
 draft = false
 +++

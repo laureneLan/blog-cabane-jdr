@@ -2,7 +2,7 @@
 title = 'Tecoztli - Épisode 5'
 date = 2026-09-06
 series = ["Tecoztli"]
-tags = ["F.A.C.E.S.", "médiéval", "partie"]
+tags = ["partie", "F.A.C.E.S."]
 summary = "La filature d'un nain, membre du Sabbat du trône, mène Tecoztli devant un orphelinat. Qu'est ce que ce lieu a à voir avec cette organisation en qûete de puissance ?"
 draft = false
 

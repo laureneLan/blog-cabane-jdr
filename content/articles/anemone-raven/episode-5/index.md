@@ -1,8 +1,8 @@
 +++
 title = "Correspondance d'une sorcière débutante - Lettre 5"
 date = 2026-02-22
-series = ["Correspondance d'une sorcière débutante"]
-tags = ["Village Witch", 'contemporain', "partie"]
+series = ["Correspondance d'une sorciere debutante"]
+tags = ["partie", "Village Witch"]
 summary = "De grandes nouvelles, de petites choses. Une lettre comme les autres. 🪄"
 description = "Compte-rendu de jdr solo : Printemps à Mausir — entre les grandes nouvelles et les petits tracas, A. écrit à Suzanne."
 draft = false

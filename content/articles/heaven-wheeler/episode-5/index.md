@@ -2,7 +2,7 @@
 title = 'Heaven Wheeler - Épisode 5'
 date = 2026-04-06
 series = ["Heaven Wheeler"]
-tags = ["Tu es un sorcier", "contemporain", "partie"]
+tags = ["partie", "Tu es un sorcier"]
 summary = "Cours de botanique en binôme, tentative de métamorphose ... et Heaven lance son premier sort 🪄"
 description = "Compte-rendu de jdr solo : Cours de botanique en binôme, tentative de métamorphose ... et Heaven lance son premier sort."
 draft = false
