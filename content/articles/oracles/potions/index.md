@@ -2,13 +2,12 @@
 title = 'Médieval Fantastique - Quelle est cette potion ?'
 date = 2024-04-30
 summary = 'Générateur aléatoire de potions bizarres et inatendues.'
-series = ["Générateur"]
-tags = ["générateurs", "outils", "médiéval"]
+series = ["Oracles"]
+tags = ["générateurs", "oracles", "outils", "médiéval"]
 draft = false
 +++
 
-*bizarres et inatendues  
-*à manipuler avec précautions
+Potions bizarres et inatendues **à manipuler avec précaution**
 
 {{< rawhtml >}}
 

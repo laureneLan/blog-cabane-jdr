@@ -2,8 +2,8 @@
 title = 'Médieval Fantastique - De quelle espèce est ce PNJ ?'
 date = 2024-04-30
 summary = 'Un générateur aléatoire pour jeu de rôle, dans un univers médiéval fantastique.'
-series = ["Générateur"]
-tags = ["générateurs", "outils", "médiéval"]
+series = ["Oracles"]
+tags = ["générateurs", "oracles", "outils", "médiéval"]
 draft = false
 +++
 
